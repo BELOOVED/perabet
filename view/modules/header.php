@@ -354,7 +354,9 @@
          /*antrepost card start*/
          /*antrepost card end*/
       </style>
-      <link rel="stylesheet" href="/assets/css/app.css"" media="all" onload="this.media='all'">
+      <link rel="stylesheet" href="/assets/css/app.css" media="all" onload="this.media='all'">
+      <link rel="stylesheet" href="/assets/css/custom.css" media="all" onload="this.media='all'">
+
       <noscript>
          <link rel="stylesheet" href="/assets/css/app.css">
       </noscript>
