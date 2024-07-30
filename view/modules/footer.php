@@ -273,18 +273,18 @@
             <!---->
             <div class="bm_popup_cover">
                <div class="popup_cover">
-                  <div class="popup_container bm_popup" style="display: none;">
+                  <div class="popup_container bm_popup" >
                      <div class="panel_popup">
                         <div class="never_show">Bir daha Gösterme</div>
                         <div class="close_btn"><i class="el-dialog__close el-icon el-icon-close"></i></div>
                         <div><a style="cursor: pointer;"><img src="https://cdn.panelfront.net/merchants/pn10/uploads/668d97d6be11759e083c30cfd93b8a7a64b6bbebf0a32.jpeg"></a></div>
                         <!---->
-                        <div class="content" style="display: none;"></div>
+                        <div class="content" ></div>
                      </div>
                   </div>
                </div>
                <!---->
-               <div class="bm_popup_mask" style="display: none;"></div>
+               <div class="bm_popup_mask" ></div>
             </div>
             <div class="bm bmm bm_botbar hidden-xs-only">
                <div class="bot_bar_inner">

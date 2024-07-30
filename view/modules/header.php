@@ -47,7 +47,7 @@
          -webkit-font-smoothing: antialiased;
          }
       </style>
-      <link rel="shortcut icon" href="favicon.ico">
+      <link rel="shortcut icon" href="/assets/css/favicon.ico">
       <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script>window.prerenderReady = false;</script>
       <meta name="theme-color" content="#1976d2">
       <style>
