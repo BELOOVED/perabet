@@ -257,10 +257,40 @@
                   <a href="javascript:;" class="btn dont-show-again">Bir Daha Gösterme</a>
                </div>
             </div>
-            <div materialize="modal" class="modal" style="z-index: 1029;">
+            <div materialize="modal" class="modal" style="z-index: 1029; display: block; opacity: 1; transform: scaleX(1); top: 10%;" id="sgn-mdl">
                <a href="javascript:;" class="modal-action modal-close"><i class="material-icons pg-icons">close</i></a><!----><!----><!---->
                <div class="modal-content">
-                  <!---->
+                  <app-login>
+                     <!---->
+                     <form novalidate="" class="login-form ng-untouched ng-pristine ng-invalid" id="login_form" action="javascript:;">
+                        <div class="title"><a name="logo" class="lg-cntr" href="/"><img class="lg" src="/assets/css/logo.png" alt="perabet"></a></div>
+                        <div class="lg-frm-content">
+                           <app-static-inner-content contentcode="signin">
+                              <!---->
+                           </app-static-inner-content>
+                           <!----><!----><input type="text" required="" name="login" class="validate browser-default ng-untouched ng-pristine ng-invalid" placeholder="Kullanıcı adı" id="username"><!----><!----><!----><!----><!----><!---->
+                           <div class="input-field password">
+                              <input formcontrolname="password" name="password" id="login-password" type="password" required="" class="validate browser-default ng-untouched ng-pristine ng-invalid" placeholder="Şifreniz">
+                              <password-eye el="login-password"><a class="btn password-eye toogle-btn"><i class="fa fa-eye show"></i><i class="fa fa-eye-slash dont-show"></i></a></password-eye>
+                              <!---->
+                           </div>
+                           <!----><!----><button class="btn sgn-btn"> Giriş Yap </button><!----><!---->
+                           <div class="flex-container ftgtpass-nwacc"><a class="btn flex-item ftgtpass"><i class="fa fa-key pg-icons"></i> Şifremi Unuttum </a><a class="btn flex-item ftgtpass"><i class="fa fa-key pg-icons"></i> Kullanıcı adını unuttum </a></div>
+                           <div class="login-form-bottom">
+                              <a href="javascript:;" onclick="logIn()" class="btn flex-item nwacc"> Hesabınız yok mu? </a>
+                              <div class="login-popup-content clear">
+                                 <app-static-inner-content contentcode="login-popup-content">
+                                    <!---->
+                                 </app-static-inner-content>
+                              </div>
+                              <a href="/signup" class="waves-effect waves-light register-btn"> Üye Ol </a>
+                           </div>
+                           <!----><!---->
+                        </div>
+                     </form>
+                     <!----><!---->
+                  </app-login>
+                  <!----><!----><!---->
                </div>
             </div>
          </app-out-component>

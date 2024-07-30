@@ -10,16 +10,13 @@ function deopa(){
     swal.fire('Hata!','Yetersiz Bakiye, Canlı Desteke İletişime Geçiniz','warning');
  }
  function openmodal(id){
-closesmodal();
 
-$("#"+id).removeClass("hidden");
-$(".full-screen-container--tDOkN").removeClass("hidden");
+$("#"+id).addClass("hidden");
 
 }
 function closesmodal(){
- $(".full-screen-container--tDOkN").addClass("hidden");
 
- $(".modal--Pplvp").addClass("hidden");
+ $(".modal").removeClass("open");
 }
 function closemodal(){
  $(".modal--with-banner").addClass("hidden");

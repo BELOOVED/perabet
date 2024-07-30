@@ -599,7 +599,7 @@ div:where(.swal2-icon).swal2-warning {
                                     </ul>
                                  </div>
                                  <div data-element="usr-mn" class="hdr-usr-mn right">
-                                    <div class="logout-menu right fix-show" style="display: none;"><a href="javascript:;" class="login-btn"> Giriş </a><a class="register-btn" href="#"> Üye Ol </a></div>
+                                    <div class="logout-menu right fix-show" style="display: none;"><a href="javascript:;" onclick="openmodal('sgn-mdl')" class="login-btn"> Giriş </a><a class="register-btn" href="/register"> Üye Ol </a></div>
                                     <!----><!---->
                                  </div>
                               </div>
