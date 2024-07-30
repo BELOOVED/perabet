@@ -752,12 +752,12 @@ div:where(.swal2-icon).swal2-warning {
                                        <li data-element="dropdown-wrapper" style="display: block;">
                                           <a href="javascript:;" materialize="dropdown" data-activates="dropdown-responsive-menu" class="dropdown-button"><span data-element="dropdown-button" class="menu-count">+6</span><i class="material-icons left pg-icons">arrow_drop_down</i></a>
                                           <ul id="dropdown-responsive-menu" data-element="dropdown-container" class="dropdown-content main-menu-drop" style="white-space: nowrap; position: absolute; top: 111.9px; left: 1336.39px; display: none; opacity: 1;">
-                                             <li data-order="11"><a routerlinkactive="active" href="#"><i class="fa fa-heart fix-hide pg-icons left"></i> PERABET JACKPOT </a></li>
-                                             <li data-order="12"><a routerlinkactive="active" class="waves-effect waves-light" href="#"><i class="menu-icon perabet-menu-tombala fix-hide pg-icons left"></i> Poker </a></li>
-                                             <li data-order="14"><a routerlinkactive="active" class="waves-effect waves-light" href="#"><i class="svg-font-icons sport-types-bingo fix-hide pg-icons left"></i> Canlı Tombala </a></li>
-                                             <li data-order="15"><a routerlinkactive="active" href="#"><i class="menu-icon perabet-menu-sanal fix-hide pg-icons left"></i> Sanal Bahis </a></li>
-                                             <li data-order="18"><a routerlinkactive="active" href="#"><i class="menu-icon perabet-menu-star-o fix-hide pg-icons left"></i> BONUSLAR </a></li>
-                                             <li data-order="19" class="fix-hide"><a target="_blank" href="https://iyi.to/apanel"><i class="menu-icon perabet-menu-star-o fix-hide pg-icons left"></i> Ortaklık </a></li>
+                                             <li data-order="11"><a routerlinkactive="active" href="/games"><i class="fa fa-heart fix-hide pg-icons left"></i> PERABET JACKPOT </a></li>
+                                             <li data-order="12"><a routerlinkactive="active" class="waves-effect waves-light" href="/poker"><i class="menu-icon perabet-menu-tombala fix-hide pg-icons left"></i> Poker </a></li>
+                                             <li data-order="14"><a routerlinkactive="active" class="waves-effect waves-light" href="/bingo"><i class="svg-font-icons sport-types-bingo fix-hide pg-icons left"></i> Canlı Tombala </a></li>
+                                             <li data-order="15"><a routerlinkactive="active" href="/virtual"><i class="menu-icon perabet-menu-sanal fix-hide pg-icons left"></i> Sanal Bahis </a></li>
+                                             <li data-order="18"><a routerlinkactive="active" href="/promotions"><i class="menu-icon perabet-menu-star-o fix-hide pg-icons left"></i> BONUSLAR </a></li>
+                                             <li data-order="19" class="fix-hide"><a target="_blank" href="#"><i class="menu-icon perabet-menu-star-o fix-hide pg-icons left"></i> Ortaklık </a></li>
                                           </ul>
                                        </li>
                                     </ul>
