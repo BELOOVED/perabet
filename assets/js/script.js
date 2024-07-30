@@ -11,10 +11,12 @@ function deopa(){
  }
  function openmodal(id){
 
-$("#"+id).addClass("hidden");
+$("#"+id).addClass("open");
+$("#"+id).removeClass("hidden");
 
 }
 function closesmodal(){
+   $(".modal").addClass("hidden");
 
  $(".modal").removeClass("open");
 }

@@ -257,7 +257,7 @@
                   <a href="javascript:;" class="btn dont-show-again">Bir Daha Gösterme</a>
                </div>
             </div>
-            <div materialize="modal" class="modal" style="z-index: 1029; display: block; opacity: 1; transform: scaleX(1); top: 10%;" id="sgn-mdl">
+            <div materialize="modal" class="modal hidden" style="z-index: 1029; display: block; opacity: 1; transform: scaleX(1); top: 10%;" id="sgn-mdl">
                <a href="javascript:;" class="modal-action modal-close"><i class="material-icons pg-icons">close</i></a><!----><!----><!---->
                <div class="modal-content">
                   <app-login>
