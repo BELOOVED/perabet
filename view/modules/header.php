@@ -499,6 +499,147 @@ div:where(.swal2-icon).swal2-warning {
                         </div>
                         <div class="hdr-cntr-second-row fix-hide">
                            <div class="container-90">
+                           <?php if(isset($us['id'])) {?>
+                           <div class="hdr-second-row-wrapper">
+                              <a name="logo" class="lg-cntr left" href="/"><img src="/assets/css/logo.png" class="lg" alt="perabet"></a>
+                              <div class="hdr-usr-mn right">
+                                 <app-static-inner-content contentcode="header_content_area">
+                                    <div extroutelink="" id="header_content_area">
+                                       <customer-point vce-ready="">
+                                          <div id="customerPoint" class="bm bmm customer_point">
+                                             <div class="bm_dropdown">
+                                                <div class="bm_customer_menu">
+                                                   <div class="customer_point_inner">
+                                                      <div class="el-tooltip customer_rank_icon" aria-describedby="el-tooltip-7257" tabindex="0">
+                                                         <div class="rank_logo" style="background-color: rgb(234, 141, 12);">
+                                                            <div class="panelicon-customRank rank_logo_inner"></div>
+                                                         </div>
+                                                         <i class="fas fa-star mr-1 rank_icon" style="color: rgb(234, 141, 12);"></i>
+                                                      </div>
+                                                      <div class="c_p_inner"><span class="mr-1 point"> 0 </span><span class="coin_name_inner"> PeraPara</span><span class="show_rank_name">(Bronz Üye)</span></div>
+                                                      <i class="bm_dropdown_arrow fas fa-angle-down"></i><i class="bm_dropdown_arrow material-icons arr-down pg-icons" style="display: none;">keyboard_arrow_down</i>
+                                                   </div>
+                                                </div>
+                                                <div class="bm_dropdown_menu show" style="display: none;">
+                                                   <div>
+                                                      <div class="bm_dropdown_menu_item">
+                                                         <div class="my_ref_list menu_title"><i class="fas fa-user-friends"></i> Referanslarım Listesi </div>
+                                                         <!---->
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </customer-point>
+                                    </div>
+                                    <div></div>
+                                    <div></div>
+                                    <!----><!---->
+                                 </app-static-inner-content>
+                                 <!---->
+                                 <div class="login-menu right">
+                                    <ul class="clear">
+                                       <li class="user-name">
+                                          <a materialize="dropdown" data-activates="rgstry-drop-fix" class="dropdown-button"><span class="first"> <?=$us['login']?> <span class="second">No:17895019<?=$us['id']?></span><i class="material-icons pg-icons right">arrow_drop_down</i></span></a>
+                                          <div id="rgstry-drop-fix" class="dropdown-content">
+                                             <ul>
+                                                <li>
+                                                   <a class="collection-item" href="/bonus-activities"> Bonus Hareketlerim </a><!---->
+                                                </li>
+                                                <li>
+                                                   <a class="collection-item" href="/free-spin"> Freespin Detayları </a><!---->
+                                                </li>
+                                                <li><a class="left help" href="/faq"> Yardım </a></li>
+                                                <li><a class="collection-item" href="/financial-transactions"> Finans Geçmişim </a></li>
+                                                <li>
+                                                   <a class="collection-item" href="/casino-pro-history"> Casinopro Geçmişi </a><!---->
+                                                </li>
+                                                <li><a class="collection-item" href="/change-password"> Şifremi Değiştir </a></li>
+                                                <li><a class="collection-item" href="/user-security"> İki adımlı doğrulama </a></li>
+                                             </ul>
+                                          </div>
+                                       </li>
+                                       <li class="fix-hide">
+                                          <messages>
+                                             <a href="javascript:;" materialize="dropdown" class="waves-effect waves-light dropdown-button badge" data-activates="msg-drop-2">
+                                                <i class="material-icons pg-icons" title="Mesajlar">email</i><!---->
+                                             </a>
+                                             <div class="dropdown-content head-message-main" id="msg-drop-2">
+                                                <div class="title"> Mesajlar </div>
+                                                <div class="content">
+                                                   <!---->
+                                                   <div class="msg-all-main">
+                                                      <!---->
+                                                   </div>
+                                                   <div class="msg-emty"> Yeni mesajınız bulunmamaktadır </div>
+                                                   <!---->
+                                                </div>
+                                             </div>
+                                          </messages>
+                                       </li>
+                                       <!---->
+                                       <li>
+                                          <balance>
+                                             <a materialize="dropdown" class="balance-dropdown-main dropdown-button" data-activates="balance-drop-2">
+                                                <!---->
+                                                <div class="left"><i class="material-icons pg-icons left">person</i><span pg-tooltip="Main Balance" left-tip=""><span>0<span class="currency-symbol"> ₺</span></span></span><span pg-tooltip="Refresh Balance" right-tip=""><i class="fa fa-refresh fa-fw pg-icons refresh-icon"></i></span><span pg-tooltip="Other Balances" right-tip=""><i class="material-icons pg-icons right arrow-icon">arrow_drop_down</i></span></div>
+                                             </a>
+                                             <div class="dropdown-content balance-dropdropdown" id="balance-drop-2">
+                                                <div class="balance-main">
+                                                   <div class="balance-head"> Bakiyeyi Görüntüle </div>
+                                                   <div class="balance-content">
+                                                      <div class="blance-text"> <?=$us['login']?> <span class="right">2024079180225<?=$us['id']?></span></div>
+                                                      <div class="blance-text date"> Son giriş yaptığınız tarih: <span class="right"><?php echo date("d-m-Y H:i:s");?></span></div>
+                                                      <div class="blance-text blc-color"> Bekleyen Çekim <span class="right"><span>0<span class="currency-symbol"> ₺</span></span><i class="fa fa-refresh pg-icons right"></i></span></div>
+                                                      <div class="blance-text blc-color"> Bakiye <span class="right"><span><?=$us['balance']?><span class="currency-symbol"> ₺</span></span><i class="fa fa-refresh pg-icons right"></i></span></div>
+                                                   </div>
+                                                   <!---->
+                                                </div>
+                                                <div class="crow">
+                                                   <div class="balance-content">
+                                                      <div class="flex-container text">
+                                                         <div class="flex-item">Spor Bonus</div>
+                                                         <div class="right"><span>0<span class="currency-symbol"> ₺</span></span><i class="fa fa-refresh pg-icons right"></i></div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                                <!----><!----><!---->
+                                                <div class="crow">
+                                                   <div class="balance-content">
+                                                      <div class="flex-container text">
+                                                         <div class="flex-item">Spor FreeBet</div>
+                                                         <div class="right"><span>0<span class="currency-symbol"> ₺</span></span><i class="fa fa-refresh pg-icons right"></i></div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                                <!----><!----><!---->
+                                                <div class="crow">
+                                                   <div class="balance-content">
+                                                      <div class="flex-container text">
+                                                         <div class="flex-item">Casino Bonus</div>
+                                                         <div class="right"><span>0<span class="currency-symbol"> ₺</span></span><i class="fa fa-refresh pg-icons right"></i></div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                                <!----><!----><!----><!----><!----><!----><!---->
+                                                <div class="balance-footer">
+                                                   <a class="btn transfer" href="/transfer">Transfer</a><!----><!----><a href="javascript:;" onclick="logOut()" class="btn logout">Çıkış Yap</a>
+                                                </div>
+                                             </div>
+                                          </balance>
+                                       </li>
+                                       <li class="fix-hide"><a class="fill" href="/deposit"> Para Yatırma </a></li>
+                                       <li class="fix-hide"><a class="collection-item" href="/withdraw"> Para Çekme </a></li>
+                                       <li class="fix-hide"><a class="collection-item" href="/promotions"> Promosyonlar </a></li>
+                                       <li class="fix-hide"><a class="fill" href="/bet-history"> Bahis Geçmişi </a></li>
+                                       <li pg-tooltip="Logout" bottom-tip="" class="fix-hide"><a href="javascript:;" onclick="logOut()"><i class="fa fa-sign-out pg-icons"></i></a></li>
+                                       <!---->
+                                    </ul>
+                                 </div>
+                                 <!---->
+                              </div>
+                           </div>
+                           <?php }else{?>
                               <div class="hdr-second-row-wrapper">
                                  <a name="logo" class="lg-cntr left" href="/"><img src="/assets/css/logo.png" class="lg" alt="perabet"></a>
                                  <div class="hdr-usr-mn right">
@@ -519,6 +660,7 @@ div:where(.swal2-icon).swal2-warning {
                                     <!----><!---->
                                  </div>
                               </div>
+                              <?php }?>    
                            </div>
                         </div>
                         <div class="hdr-cntr-third-row clear">
@@ -527,17 +669,17 @@ div:where(.swal2-icon).swal2-warning {
                               <div class="mn-menu-wrapper">
                                  <div class="mn-menu left">
                                     <ul data-element="mn-cont" class="clear">
-                                       <li data-order="1"><a routerlinkactive="active" href="#"><i aria-hidden="true" class="fa fa-futbol-o fix-hide left pg-icons"></i> Spor </a></li>
-                                       <li data-order="2"><a routerlinkactive="active" class="waves-effect waves-light" href="#"><i class="svg-font-icons perabet-menu-watch pg-icons fix-hide left"></i> Canlı Bahis </a></li>
+                                       <li data-order="1"><a routerlinkactive="active" href="/sportsbook"><i aria-hidden="true" class="fa fa-futbol-o fix-hide left pg-icons"></i> Spor </a></li>
+                                       <li data-order="2"><a routerlinkactive="active" class="waves-effect waves-light" href="/live"><i class="svg-font-icons perabet-menu-watch pg-icons fix-hide left"></i> Canlı Bahis </a></li>
                                        <!----><!---->
-                                       <li data-order="4"><a routerlinkactive="active" href="#"><i class="st-font-icons sport-types-121 pg-icons fix-hide left"></i> E-Sporlar </a></li>
+                                       <li data-order="4"><a routerlinkactive="active" href="/esport"><i class="st-font-icons sport-types-121 pg-icons fix-hide left"></i> E-Sporlar </a></li>
                                        <!---->
-                                       <li data-order="5"><a routerlinkactive="active" href="#"><span class="new fix-hide">Yeni</span><i aria-hidden="true" class="fa fa-bold fix-hide left pg-icons"></i> Trade </a></li>
+                                       <li data-order="5"><a routerlinkactive="active" href="/binary"><span class="new fix-hide">Yeni</span><i aria-hidden="true" class="fa fa-bold fix-hide left pg-icons"></i> Trade </a></li>
                                        <!----><!---->
-                                       <li data-order="7"><a routerlinkactive="active" href="#"><i class="perabet-menu-dimond menu-icon fix-hide pg-icons left"></i> Canlı Casino </a></li>
+                                       <li data-order="7"><a routerlinkactive="active" href="/livecasino"><i class="perabet-menu-dimond menu-icon fix-hide pg-icons left"></i> Canlı Casino </a></li>
                                        <!---->
                                        <li data-order="8" class="crash-games">
-                                          <a materialize="dropdown" data-activates="crash-games" class="dropdown-button"><i aria-hidden="true" class="fa fa-gamepad pg-icons left fix-hide"></i> Crash Games <i class="material-icons right pg-icons menu-icon">arrow_drop_down</i></a>
+                                          <a materialize="dropdown" data-activates="crash-games" href="/casino" class="dropdown-button"><i aria-hidden="true" class="fa fa-gamepad pg-icons left fix-hide"></i> Crash Games <i class="material-icons right pg-icons menu-icon">arrow_drop_down</i></a>
                                           <ul id="crash-games" class="dropdown-content">
                                              <li><a routerlinkactive="active" href="#"><i aria-hidden="true" class="fa fa-rocket pg-icons fix-hide icon"></i> Perabet JetX </a></li>
                                              <!---->
@@ -575,16 +717,38 @@ div:where(.swal2-icon).swal2-warning {
                                           </ul>
                                        </li>
                                        <!---->
-                                       <li data-order="9"><a routerlinkactive="active" href="#"><i class="menu-icon perabet-menu-beton fix-hide pg-icons left"></i> Casino </a></li>
+                                       <li data-order="9"><a routerlinkactive="active" href="/casino"><i class="menu-icon perabet-menu-beton fix-hide pg-icons left"></i> Casino </a></li>
                                        <!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                        <li data-order="10">
-                                          <a materialize="dropdown" data-activates="pragmatic-drop" class="dropdown-button"><i class="pragmatic-icon-play pg-icons fix-hide left"></i> Pragmatic Drops&amp;Wins <i class="material-icons right pg-icons">arrow_drop_down</i></a>
+                                          <a materialize="dropdown" href="/casino" data-activates="pragmatic-drop" class="dropdown-button"><i class="pragmatic-icon-play pg-icons fix-hide left"></i> Pragmatic Drops&amp;Wins <i class="material-icons right pg-icons">arrow_drop_down</i></a>
                                           <ul id="pragmatic-drop" class="dropdown-content">
                                              <li><a routerlinkactive="active" href="#"> Drops&amp;Wins Slot </a></li>
                                              <li><a routerlinkactive="active" href="#"> Drops&amp;Wins Live Casino </a></li>
                                              <li><a routerlinkactive="active" href="#"> Pragmatic Blackjack Ligi </a></li>
                                           </ul>
                                        </li>
+                                       <script>
+                                          $(document).ready(function() {
+                                       // Dropdown butonuna tıklama olayını tanımla
+                                       $('.dropdown-button').on('click', function(e) {
+                                          e.preventDefault(); // Varsayılan bağlantı davranışını engelle
+                                          
+                                          // İlgili dropdown menüyü aç/kapa
+                                          $(this).next('.dropdown-content').toggle(); // Toggle kullanarak aç/kapa yap
+                                          
+                                          // Diğer açık olan dropdown menüleri kapat (isteğe bağlı)
+                                          $('.dropdown-content').not($(this).next('.dropdown-content')).hide();
+                                       });
+
+                                       // Sayfa dışında bir yere tıklanırsa, açık olan dropdown menüleri kapat
+                                       $(document).on('click', function(e) {
+                                          if (!$(e.target).closest('.dropdown-wrapper').length) {
+                                             $('.dropdown-content').hide();
+                                          }
+                                       });
+                                       });
+
+                                       </script>
                                        <li data-element="dropdown-wrapper" style="display: block;">
                                           <a href="javascript:;" materialize="dropdown" data-activates="dropdown-responsive-menu" class="dropdown-button"><span data-element="dropdown-button" class="menu-count">+6</span><i class="material-icons left pg-icons">arrow_drop_down</i></a>
                                           <ul id="dropdown-responsive-menu" data-element="dropdown-container" class="dropdown-content main-menu-drop" style="white-space: nowrap; position: absolute; top: 111.9px; left: 1336.39px; display: none; opacity: 1;">
