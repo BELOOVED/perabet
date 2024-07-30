@@ -1,788 +1,586 @@
-<div class="main--v7Pd2 main-landing--F1yhb">
-   <div class="wrapper--Wbn77" data-cy="player_ui__cms__promo-content">
-      <div class="content--yxRSI">
-         <div class="promotion-page-wrapper--VmTmN">
-            <div class="inner-wrapper-class--mot2F">
-               <div class="scroll--N81zQ scroll--pjEdv">
-                  <div class="scrollInner--Ge2VN" style="user-select: none; -webkit-user-drag: none; touch-action: auto;">
-                     <div class="track-wrapper--MChQg">
-                        <div class="track--yXji4 promo-track--SuPaH">
-                           <div class="item--T6kVL active-item--eD9Fi">
-                              <div class="promo--xTnJB inherit--lsVmY font-size-14--HX15w line-height-24--jSkAs font-weight-500--y2LzW wide--fLwzG">
-                                 <div class="rich-text--cJbo2 promo-title--jskbU">
-                                    <p>
-                                       <span>TÜM BONUSLAR</span>
-                                    </p>
+<main>
+   <router-outlet></router-outlet>
+   <static-content class="ng-star-inserted">
+      <!---->
+      <div id="content-area">
+         <div extroutelink="">
+            <style>
+               .bonus-card figure {
+               margin: 0!important;
+               padding: 0!important;
+               }
+            </style>
+            <section class="section-bonus">
+               <div class="container">
+                  <div class="inner">
+                     <div class="section-head">
+                        <div class="title" style="margin-bottom: 20px;">BONUSLAR</div>
+                     </div>
+                     <div class="section-content">
+                        <promotion-page vce-ready="">
+                           <div id="panel_blog_container" class="bmm bm panel_blog pb-5 pt-4 panel_blog_1">
+                              <div class="sticky_bg">
+                                 <div class="sticky_bg_inner"></div>
+                              </div>
+                              <div class="panel_blog_cover container">
+                                 <div class="d-flex justify-content-center mb-3 mb-sm-4 mt-3 mt-sm-4 blog_types">
+                                    <div class="blog_type mr-2 active_type">Hepsi</div>
+                                    <div class="blog_type mr-2">Turnuva</div>
                                  </div>
-                                 <div class="count-bonuses-in-promo--Mndx6">22</div>
+                                 <div class="row mt-3 mt-sm-4">
+                                    <div id="promotion_81" class="promotion_item_cover col-12 col-sm-6 col-md-6 col-lg-4 pm_grid_3">
+                                       <div element-loading-text="Yükleniyor" class="promotion_item radius">
+                                          <div class="item_image_cover item_image col-12">
+                                             <div class="el-image bm_image_cover">
+                                                <img src="https://cdn.panelfront.net/merchants/pn10/uploads/66a1598679e3e7b345de4fa8a7427270b5158597a58c1.jpeg" class="el-image__inner"><!---->
+                                             </div>
+                                             <div class="item_tag" style="display: none;">  </div>
+                                             <div class="sub_area">
+                                                <div class="item_m_title p-3 hidden-sm-and-up">
+                                                   EVOPLAY 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <!---->
+                                             </div>
+                                          </div>
+                                          <div class="item_content pb-3  col-6 col-sm-12">
+                                             <div class="item_content_inner">
+                                                <div class="item_title">
+                                                   EVOPLAY 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <div class="item_desc">SUPER CUP</div>
+                                                <div class="read_more_btn">Detaylar <i class="far fa-angle-right"></i></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div id="promotion_75" class="promotion_item_cover col-12 col-sm-6 col-md-6 col-lg-4 pm_grid_3">
+                                       <div element-loading-text="Yükleniyor" class="promotion_item radius">
+                                          <div class="item_image_cover item_image col-12">
+                                             <div class="el-image bm_image_cover">
+                                                <img src="https://cdn.panelfront.net/merchants/pn10/uploads/668d8ca748bfe82b83ffa872c0ba06df19af5ca3d2c4a.jpeg" class="el-image__inner"><!---->
+                                             </div>
+                                             <div class="item_tag" style="display: none;">  </div>
+                                             <div class="sub_area">
+                                                <div class="item_m_title p-3 hidden-sm-and-up">
+                                                   %15 HAFTALIK CASINO SLOT DISCOUNT 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <!---->
+                                             </div>
+                                          </div>
+                                          <div class="item_content pb-3  col-6 col-sm-12">
+                                             <div class="item_content_inner">
+                                                <div class="item_title">
+                                                   %15 HAFTALIK CASINO SLOT DISCOUNT 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <div class="item_desc">HAFTALIK CASINO SLOT DISCOUNT!</div>
+                                                <div class="read_more_btn">Detaylar <i class="far fa-angle-right"></i></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div id="promotion_76" class="promotion_item_cover col-12 col-sm-6 col-md-6 col-lg-4 pm_grid_3">
+                                       <div element-loading-text="Yükleniyor" class="promotion_item radius">
+                                          <div class="item_image_cover item_image col-12">
+                                             <div class="el-image bm_image_cover">
+                                                <img src="https://cdn.panelfront.net/merchants/pn10/uploads/669428183e1e4d0eff1184ac74d475c7ebd820af4fe17.jpeg" class="el-image__inner"><!---->
+                                             </div>
+                                             <div class="item_tag" style="display: none;">  </div>
+                                             <div class="sub_area">
+                                                <div class="item_m_title p-3 hidden-sm-and-up">
+                                                   PERABET 1000X BONUSU 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <!---->
+                                             </div>
+                                          </div>
+                                          <div class="item_content pb-3  col-6 col-sm-12">
+                                             <div class="item_content_inner">
+                                                <div class="item_title">
+                                                   PERABET 1000X BONUSU 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <div class="item_desc">1000X</div>
+                                                <div class="read_more_btn">Detaylar <i class="far fa-angle-right"></i></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div id="promotion_77" class="promotion_item_cover col-12 col-sm-6 col-md-6 col-lg-4 pm_grid_3">
+                                       <div element-loading-text="Yükleniyor" class="promotion_item radius">
+                                          <div class="item_image_cover item_image col-12">
+                                             <div class="el-image bm_image_cover">
+                                                <img src="https://cdn.panelfront.net/merchants/pn10/uploads/66943050b2d50a2bc33885119c4de6d8cff4af91dd38a.jpeg" class="el-image__inner"><!---->
+                                             </div>
+                                             <div class="item_tag" style="display: none;">  </div>
+                                             <div class="sub_area">
+                                                <div class="item_m_title p-3 hidden-sm-and-up">
+                                                   HAPPY FREESPIN 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <!---->
+                                             </div>
+                                          </div>
+                                          <div class="item_content pb-3  col-6 col-sm-12">
+                                             <div class="item_content_inner">
+                                                <div class="item_title">
+                                                   HAPPY FREESPIN 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <div class="item_desc">PERABET'TE FREESPİN YAĞMURU!</div>
+                                                <div class="read_more_btn">Detaylar <i class="far fa-angle-right"></i></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div id="promotion_28" class="promotion_item_cover col-12 col-sm-6 col-md-6 col-lg-4 pm_grid_3">
+                                       <div element-loading-text="Yükleniyor" class="promotion_item radius">
+                                          <div class="item_image_cover item_image col-12">
+                                             <div class="el-image bm_image_cover">
+                                                <img src="https://cdn.panelfront.net/merchants/pn10/uploads/65f317f73484b6fe17c289e46ce6fa0775709af584bcd.jpeg" class="el-image__inner"><!---->
+                                             </div>
+                                             <div class="item_tag" style="display: none;">  </div>
+                                             <div class="sub_area">
+                                                <div class="item_m_title p-3 hidden-sm-and-up">
+                                                   %100 SLOT YATIRIM BONUSU	 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <!---->
+                                             </div>
+                                          </div>
+                                          <div class="item_content pb-3  col-6 col-sm-12">
+                                             <div class="item_content_inner">
+                                                <div class="item_title">
+                                                   %100 SLOT YATIRIM BONUSU	 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <div class="item_desc">Casino Slot yatırımınıza %100 bonus</div>
+                                                <div class="read_more_btn">Detaylar <i class="far fa-angle-right"></i></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div id="promotion_31" class="promotion_item_cover col-12 col-sm-6 col-md-6 col-lg-4 pm_grid_3">
+                                       <div element-loading-text="Yükleniyor" class="promotion_item radius">
+                                          <div class="item_image_cover item_image col-12">
+                                             <div class="el-image bm_image_cover">
+                                                <img src="https://cdn.panelfront.net/merchants/pn10/uploads/661836b206f93cf02075d939652d0787bf95d2c52af2e.jpeg" class="el-image__inner"><!---->
+                                             </div>
+                                             <div class="item_tag" style="display: none;">  </div>
+                                             <div class="sub_area">
+                                                <div class="item_m_title p-3 hidden-sm-and-up">
+                                                   PERAVIP CUMA NAKİT 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <!---->
+                                             </div>
+                                          </div>
+                                          <div class="item_content pb-3  col-6 col-sm-12">
+                                             <div class="item_content_inner">
+                                                <div class="item_title">
+                                                   PERAVIP CUMA NAKİT 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <div class="item_desc">
+                                                   <div class="card-content"><span class="card-title">Her Cuma&nbsp;Nakit Para!</span></div>
+                                                </div>
+                                                <div class="read_more_btn">Detaylar <i class="far fa-angle-right"></i></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div id="promotion_30" class="promotion_item_cover col-12 col-sm-6 col-md-6 col-lg-4 pm_grid_3">
+                                       <div element-loading-text="Yükleniyor" class="promotion_item radius">
+                                          <div class="item_image_cover item_image col-12">
+                                             <div class="el-image bm_image_cover">
+                                                <img src="https://cdn.panelfront.net/merchants/pn10/uploads/6626debb51826b00173cc58c2479729e3919cb450ba49.jpeg" class="el-image__inner"><!---->
+                                             </div>
+                                             <div class="item_tag" style="display: none;">  </div>
+                                             <div class="sub_area">
+                                                <div class="item_m_title p-3 hidden-sm-and-up">
+                                                   DOĞUM GÜNÜ BONUSU 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <!---->
+                                             </div>
+                                          </div>
+                                          <div class="item_content pb-3  col-6 col-sm-12">
+                                             <div class="item_content_inner">
+                                                <div class="item_title">
+                                                   DOĞUM GÜNÜ BONUSU 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <div class="item_desc">Nice senelere!</div>
+                                                <div class="read_more_btn">Detaylar <i class="far fa-angle-right"></i></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div id="promotion_21" class="promotion_item_cover col-12 col-sm-6 col-md-6 col-lg-4 pm_grid_3">
+                                       <div element-loading-text="Yükleniyor" class="promotion_item radius">
+                                          <div class="item_image_cover item_image col-12">
+                                             <div class="el-image bm_image_cover">
+                                                <img src="https://cdn.panelfront.net/merchants/pn10/uploads/659aa5e23b2c37896cf12e5681cdd6d136fe5ab92f4b7.jpeg" class="el-image__inner"><!---->
+                                             </div>
+                                             <div class="item_tag" style="display: none;">  </div>
+                                             <div class="sub_area">
+                                                <div class="item_m_title p-3 hidden-sm-and-up">
+                                                   PERAKUMBARAM 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <!---->
+                                             </div>
+                                          </div>
+                                          <div class="item_content pb-3  col-6 col-sm-12">
+                                             <div class="item_content_inner">
+                                                <div class="item_title">
+                                                   PERAKUMBARAM 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <div class="item_desc">PeraKUMBARAM</div>
+                                                <div class="read_more_btn">Detaylar <i class="far fa-angle-right"></i></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div id="promotion_19" class="promotion_item_cover col-12 col-sm-6 col-md-6 col-lg-4 pm_grid_3">
+                                       <div element-loading-text="Yükleniyor" class="promotion_item radius">
+                                          <div class="item_image_cover item_image col-12">
+                                             <div class="el-image bm_image_cover">
+                                                <img src="https://cdn.panelfront.net/merchants/pn10/uploads/64177528b20b5cba6514ffc6850a689ad9451503b557f.jpeg" class="el-image__inner"><!---->
+                                             </div>
+                                             <div class="item_tag" style="color: black; background-color: rgb(164, 130, 130); display: none;">  </div>
+                                             <div class="sub_area">
+                                                <div class="item_m_title p-3 hidden-sm-and-up">
+                                                   ÇEKİM PAYLAŞ - KAZAN 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <!---->
+                                             </div>
+                                          </div>
+                                          <div class="item_content pb-3  col-6 col-sm-12">
+                                             <div class="item_content_inner">
+                                                <div class="item_title">
+                                                   ÇEKİM PAYLAŞ - KAZAN 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <div class="item_desc">Para çekme işlemini sosyal medya hesaplarında paylaş, yaptığın çekim kadar NAKİT PARA kazan!</div>
+                                                <div class="read_more_btn">Detaylar <i class="far fa-angle-right"></i></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div id="promotion_61" class="promotion_item_cover col-12 col-sm-6 col-md-6 col-lg-4 pm_grid_3">
+                                       <div element-loading-text="Yükleniyor" class="promotion_item radius">
+                                          <div class="item_image_cover item_image col-12">
+                                             <div class="el-image bm_image_cover">
+                                                <img src="https://cdn.panelfront.net/merchants/pn10/uploads/665a344c078c9808e23e88b6343a031b72ce409979915.jpeg" class="el-image__inner"><!---->
+                                             </div>
+                                             <div class="item_tag" style="display: none;">  </div>
+                                             <div class="sub_area">
+                                                <div class="item_m_title p-3 hidden-sm-and-up">
+                                                   PERABET 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <!---->
+                                             </div>
+                                          </div>
+                                          <div class="item_content pb-3  col-6 col-sm-12">
+                                             <div class="item_content_inner">
+                                                <div class="item_title">
+                                                   PERABET 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <div class="item_desc">ÖZEL YAZ TURNUVASI</div>
+                                                <div class="read_more_btn">Detaylar <i class="far fa-angle-right"></i></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div id="promotion_35" class="promotion_item_cover col-12 col-sm-6 col-md-6 col-lg-4 pm_grid_3">
+                                       <div element-loading-text="Yükleniyor" class="promotion_item radius">
+                                          <div class="item_image_cover item_image col-12">
+                                             <div class="el-image bm_image_cover">
+                                                <img src="https://cdn.panelfront.net/merchants/pn10/uploads/66183c1c9e23573beaec9b077608498428605ca802cf1.jpeg" class="el-image__inner"><!---->
+                                             </div>
+                                             <div class="item_tag" style="display: none;">  </div>
+                                             <div class="sub_area">
+                                                <div class="item_m_title p-3 hidden-sm-and-up">
+                                                   PRAGMATIC PLAY 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <!---->
+                                             </div>
+                                          </div>
+                                          <div class="item_content pb-3  col-6 col-sm-12">
+                                             <div class="item_content_inner">
+                                                <div class="item_title">
+                                                   PRAGMATIC PLAY 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <div class="item_desc">PLAY DROPS&amp;WİNS NETWORK!</div>
+                                                <div class="read_more_btn">Detaylar <i class="far fa-angle-right"></i></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div id="promotion_36" class="promotion_item_cover col-12 col-sm-6 col-md-6 col-lg-4 pm_grid_3">
+                                       <div element-loading-text="Yükleniyor" class="promotion_item radius">
+                                          <div class="item_image_cover item_image col-12">
+                                             <div class="el-image bm_image_cover">
+                                                <img src="https://cdn.panelfront.net/merchants/pn10/uploads/66807a8b6ee0a139e256231aa57c3019dc385e97dad69.jpeg" class="el-image__inner"><!---->
+                                             </div>
+                                             <div class="item_tag" style="display: none;">  </div>
+                                             <div class="sub_area">
+                                                <div class="item_m_title p-3 hidden-sm-and-up">
+                                                   PRAGMATIC PLAY BLACKJACK 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <!---->
+                                             </div>
+                                          </div>
+                                          <div class="item_content pb-3  col-6 col-sm-12">
+                                             <div class="item_content_inner">
+                                                <div class="item_title">
+                                                   PRAGMATIC PLAY BLACKJACK 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <div class="item_desc">BLACKJACK LEAGUE!</div>
+                                                <div class="read_more_btn">Detaylar <i class="far fa-angle-right"></i></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div id="promotion_34" class="promotion_item_cover col-12 col-sm-6 col-md-6 col-lg-4 pm_grid_3">
+                                       <div element-loading-text="Yükleniyor" class="promotion_item radius">
+                                          <div class="item_image_cover item_image col-12">
+                                             <div class="el-image bm_image_cover">
+                                                <img src="https://cdn.panelfront.net/merchants/pn10/uploads/66183b4a46ac62c5c0d058e2d670ddd00557ebefafe02.jpeg" class="el-image__inner"><!---->
+                                             </div>
+                                             <div class="item_tag" style="display: none;">  </div>
+                                             <div class="sub_area">
+                                                <div class="item_m_title p-3 hidden-sm-and-up">
+                                                   SPINOMENAL 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <!---->
+                                             </div>
+                                          </div>
+                                          <div class="item_content pb-3  col-6 col-sm-12">
+                                             <div class="item_content_inner">
+                                                <div class="item_title">
+                                                   SPINOMENAL 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <div class="item_desc">SPİNOLEAGUE!</div>
+                                                <div class="read_more_btn">Detaylar <i class="far fa-angle-right"></i></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div id="promotion_49" class="promotion_item_cover col-12 col-sm-6 col-md-6 col-lg-4 pm_grid_3">
+                                       <div element-loading-text="Yükleniyor" class="promotion_item radius">
+                                          <div class="item_image_cover item_image col-12">
+                                             <div class="el-image bm_image_cover">
+                                                <img src="https://cdn.panelfront.net/merchants/pn10/uploads/662c26b8c45f3d87bf2770786f722495faf88cc5ce264.jpeg" class="el-image__inner"><!---->
+                                             </div>
+                                             <div class="item_tag" style="display: none;">  </div>
+                                             <div class="sub_area">
+                                                <div class="item_m_title p-3 hidden-sm-and-up">
+                                                   SMARTSOFT GAMING 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <!---->
+                                             </div>
+                                          </div>
+                                          <div class="item_content pb-3  col-6 col-sm-12">
+                                             <div class="item_content_inner">
+                                                <div class="item_title">
+                                                   SMARTSOFT GAMING 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <div class="item_desc">SPIN &amp; WIN TURNUVA SERİSİ</div>
+                                                <div class="read_more_btn">Detaylar <i class="far fa-angle-right"></i></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div id="promotion_60" class="promotion_item_cover col-12 col-sm-6 col-md-6 col-lg-4 pm_grid_3">
+                                       <div element-loading-text="Yükleniyor" class="promotion_item radius">
+                                          <div class="item_image_cover item_image col-12">
+                                             <div class="el-image bm_image_cover">
+                                                <img src="https://cdn.panelfront.net/merchants/pn10/uploads/6651c3e8e206bd253c0dfa5f6177d928d5672f114a6a8.jpeg" class="el-image__inner"><!---->
+                                             </div>
+                                             <div class="item_tag" style="display: none;">  </div>
+                                             <div class="sub_area">
+                                                <div class="item_m_title p-3 hidden-sm-and-up">
+                                                   WAZDAN 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <!---->
+                                             </div>
+                                          </div>
+                                          <div class="item_content pb-3  col-6 col-sm-12">
+                                             <div class="item_content_inner">
+                                                <div class="item_title">
+                                                   WAZDAN 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <div class="item_desc">MYSTERY DROP TURNUVASI</div>
+                                                <div class="read_more_btn">Detaylar <i class="far fa-angle-right"></i></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div id="promotion_33" class="promotion_item_cover col-12 col-sm-6 col-md-6 col-lg-4 pm_grid_3">
+                                       <div element-loading-text="Yükleniyor" class="promotion_item radius">
+                                          <div class="item_image_cover item_image col-12">
+                                             <div class="el-image bm_image_cover">
+                                                <img src="https://cdn.panelfront.net/merchants/pn10/uploads/661838b3496543b3a2199c8582c96d7b73dfcfb48073b.jpeg" class="el-image__inner"><!---->
+                                             </div>
+                                             <div class="item_tag" style="display: none;">  </div>
+                                             <div class="sub_area">
+                                                <div class="item_m_title p-3 hidden-sm-and-up">
+                                                   GAMEART 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <!---->
+                                             </div>
+                                          </div>
+                                          <div class="item_content pb-3  col-6 col-sm-12">
+                                             <div class="item_content_inner">
+                                                <div class="item_title">
+                                                   GAMEART 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <div class="item_desc">YEET &amp; SWEET!</div>
+                                                <div class="read_more_btn">Detaylar <i class="far fa-angle-right"></i></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div id="promotion_80" class="promotion_item_cover col-12 col-sm-6 col-md-6 col-lg-4 pm_grid_3">
+                                       <div element-loading-text="Yükleniyor" class="promotion_item radius">
+                                          <div class="item_image_cover item_image col-12">
+                                             <div class="el-image bm_image_cover">
+                                                <img src="https://cdn.panelfront.net/merchants/pn10/uploads/66a11d76838e12b23c83c0edd65551be16d6b8702ea16.jpeg" class="el-image__inner"><!---->
+                                             </div>
+                                             <div class="item_tag" style="display: none;">  </div>
+                                             <div class="sub_area">
+                                                <div class="item_m_title p-3 hidden-sm-and-up">
+                                                   3 OAKS GAMING 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <!---->
+                                             </div>
+                                          </div>
+                                          <div class="item_content pb-3  col-6 col-sm-12">
+                                             <div class="item_content_inner">
+                                                <div class="item_title">
+                                                   3 OAKS GAMING 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <div class="item_desc">HOT RACE</div>
+                                                <div class="read_more_btn">Detaylar <i class="far fa-angle-right"></i></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div id="promotion_69" class="promotion_item_cover col-12 col-sm-6 col-md-6 col-lg-4 pm_grid_3">
+                                       <div element-loading-text="Yükleniyor" class="promotion_item radius">
+                                          <div class="item_image_cover item_image col-12">
+                                             <div class="el-image bm_image_cover">
+                                                <img src="https://cdn.panelfront.net/merchants/pn10/uploads/667b1d3e9af76d468c9f006bc9d7f88df9a0d6cd2df8d.jpeg" class="el-image__inner"><!---->
+                                             </div>
+                                             <div class="item_tag" style="display: none;">  </div>
+                                             <div class="sub_area">
+                                                <div class="item_m_title p-3 hidden-sm-and-up">
+                                                   PLAY'N GO 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <!---->
+                                             </div>
+                                          </div>
+                                          <div class="item_content pb-3  col-6 col-sm-12">
+                                             <div class="item_content_inner">
+                                                <div class="item_title">
+                                                   PLAY'N GO 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <div class="item_desc">WILDE LEGENDS NETWORK TURNUVASI</div>
+                                                <div class="read_more_btn">Detaylar <i class="far fa-angle-right"></i></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div id="promotion_15" class="promotion_item_cover col-12 col-sm-6 col-md-6 col-lg-4 pm_grid_3">
+                                       <div element-loading-text="Yükleniyor" class="promotion_item radius">
+                                          <div class="item_image_cover item_image col-12">
+                                             <div class="el-image bm_image_cover">
+                                                <img src="https://cdn.panelfront.net/merchants/pn10/uploads/65f06cdfceae186e74b6ac0eeb30f49ead263261b042b.jpeg" class="el-image__inner"><!---->
+                                             </div>
+                                             <div class="item_tag" style="display: none;">  </div>
+                                             <div class="sub_area">
+                                                <div class="item_m_title p-3 hidden-sm-and-up">
+                                                   GENEL BONUS KURALLARI 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <!---->
+                                             </div>
+                                          </div>
+                                          <div class="item_content pb-3  col-6 col-sm-12">
+                                             <div class="item_content_inner">
+                                                <div class="item_title">
+                                                   GENEL BONUS KURALLARI 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <div class="item_desc">Perabet Genel Promosyon Kural ve Şartları</div>
+                                                <div class="read_more_btn">Detaylar <i class="far fa-angle-right"></i></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div id="promotion_23" class="promotion_item_cover col-12 col-sm-6 col-md-6 col-lg-4 pm_grid_3" style="display: none;">
+                                       <div element-loading-text="Yükleniyor" class="promotion_item radius">
+                                          <div class="item_image_cover item_image col-12">
+                                             <div class="el-image bm_image_cover">
+                                                <img src="https://cdn.panelfront.net/merchants/pn10/uploads/65ad65e494917fff65ae86fcec9c9f0cb8f5df793f618.jpeg" class="el-image__inner"><!---->
+                                             </div>
+                                             <div class="item_tag" style="display: none;">  </div>
+                                             <div class="sub_area">
+                                                <div class="item_m_title p-3 hidden-sm-and-up">
+                                                   PERABET SPOR TOTO 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <!---->
+                                             </div>
+                                          </div>
+                                          <div class="item_content pb-3  col-6 col-sm-12">
+                                             <div class="item_content_inner">
+                                                <div class="item_title">
+                                                   PERABET SPOR TOTO 
+                                                   <div class="sub_title pt-0" style="display: none;"></div>
+                                                </div>
+                                                <div class="item_desc">Maç skorlarını tahmin et, nakit para ve Freebet ödüllerini kazan!</div>
+                                                <div class="read_more_btn">Detaylar <i class="far fa-angle-right"></i></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
                               </div>
                            </div>
-                           <div class="item--T6kVL">
-                              <div class="promo--xTnJB inherit--lsVmY font-size-14--HX15w line-height-24--jSkAs font-weight-500--y2LzW wide--fLwzG">
-                                 <div class="rich-text--cJbo2 promo-title--jskbU">
-                                    <p>
-                                       <span>SLOT BONUSLARI</span>
-                                    </p>
-                                 </div>
-                                 <div class="count-bonuses-in-promo--Mndx6">6</div>
-                              </div>
-                           </div>
-                           <div class="item--T6kVL">
-                              <div class="promo--xTnJB inherit--lsVmY font-size-14--HX15w line-height-24--jSkAs font-weight-500--y2LzW wide--fLwzG">
-                                 <div class="rich-text--cJbo2 promo-title--jskbU">
-                                    <p>
-                                       <span>CANLI CASİNO  BONUSLARI</span>
-                                    </p>
-                                 </div>
-                                 <div class="count-bonuses-in-promo--Mndx6">6</div>
-                              </div>
-                           </div>
-                           <div class="item--T6kVL">
-                              <div class="promo--xTnJB inherit--lsVmY font-size-14--HX15w line-height-24--jSkAs font-weight-500--y2LzW wide--fLwzG">
-                                 <div class="rich-text--cJbo2 promo-title--jskbU">
-                                    <p>
-                                       <span>SPOR BONUSLARI</span>
-                                    </p>
-                                 </div>
-                                 <div class="count-bonuses-in-promo--Mndx6">4</div>
-                              </div>
-                           </div>
-                           <div class="item--T6kVL">
-                              <div class="promo--xTnJB inherit--lsVmY font-size-14--HX15w line-height-24--jSkAs font-weight-500--y2LzW wide--fLwzG">
-                                 <div class="rich-text--cJbo2 promo-title--jskbU">
-                                    <p>
-                                       <span>TURNUVA BONUSLARI</span>
-                                    </p>
-                                 </div>
-                                 <div class="count-bonuses-in-promo--Mndx6">9</div>
-                              </div>
-                           </div>
-                        </div>
+                        </promotion-page>
                      </div>
                   </div>
                </div>
-            </div>
+            </section>
          </div>
+         <div></div>
       </div>
-      <div class="bonuses-wrapper--H0RkE">
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je loaded--rSoeq bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c15e9-7d8c-7502-90db-f6f91b41b770__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c15e9-7d8c-7502-90db-f6f91b41b770__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c15e9-7d8c-7502-90db-f6f91b41b770__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c15e9-7d8c-7502-90db-f6f91b41b770__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span></span>
-                  </p>
-                  <p>
-                     <span>STARZBET 300 TL NAKİT DENEME BONUSU</span>
-                  </p>
-                  <p></p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs"> DENEME BONUSU AL</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je loaded--rSoeq bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-6bba-721a-a110-11ecf2ff8ccc__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzMucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-6bba-721a-a110-11ecf2ff8ccc__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzMucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-6bba-721a-a110-11ecf2ff8ccc__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzMucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-6bba-721a-a110-11ecf2ff8ccc__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzMucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span></span>
-                  </p>
-                  <p>
-                     <span>%100 SLOT ve CANLI CASİNO HOŞGELDİN BONUSU</span>
-                  </p>
-                  <p></p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs"> SLOT - CANLI CASİNO OYNA</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je loaded--rSoeq bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2444-861f-702f-9088-938291e4d4f2__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzEucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2444-861f-702f-9088-938291e4d4f2__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzEucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2444-861f-702f-9088-938291e4d4f2__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzEucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2444-861f-702f-9088-938291e4d4f2__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzEucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span></span>
-                  </p>
-                  <p>
-                     <span>%100 SPOR HOŞGELDİN BONUSU</span>
-                  </p>
-                  <p></p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs"> SPOR BAHİSLERİ AL</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je loaded--rSoeq bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901168-457e-7cd4-9c69-57bb39ed8d28__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901168-457e-7cd4-9c69-57bb39ed8d28__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901168-457e-7cd4-9c69-57bb39ed8d28__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901168-457e-7cd4-9c69-57bb39ed8d28__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span>⚽1.000TL YATIRIMA 2.024TL NAKİT BEDAVA!</span>
-                  </p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs">2.024TL ÇEVRİMSİZ NAKİT!</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je loaded--rSoeq bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008ca-54ed-74e5-8eeb-e0afe6146db5__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEyLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008ca-54ed-74e5-8eeb-e0afe6146db5__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEyLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008ca-54ed-74e5-8eeb-e0afe6146db5__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEyLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008ca-54ed-74e5-8eeb-e0afe6146db5__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEyLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span>💰1.000TL YATIRIMA %300 NAKİT BONUS!</span>
-                  </p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs">%300 ÇEVRİMSİZ BONUS!</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je loaded--rSoeq bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008c9-a564-70de-93ec-1b66827094c6__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008c9-a564-70de-93ec-1b66827094c6__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008c9-a564-70de-93ec-1b66827094c6__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008c9-a564-70de-93ec-1b66827094c6__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span>🎁750TL YATIRIMA %300 NAKİT BONUS!</span>
-                  </p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs">2.250TL NAKİT BEDAVA ÇEVRİMSİZ</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je loaded--rSoeq bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901261-df14-7858-92db-4b29b6f30707__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjE1MDAucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901261-df14-7858-92db-4b29b6f30707__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjE1MDAucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901261-df14-7858-92db-4b29b6f30707__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjE1MDAucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901261-df14-7858-92db-4b29b6f30707__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjE1MDAucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span>💸500TL YATIRIMA %300 NAKİT BONUS!</span>
-                  </p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs">%300 BONUS İÇİN TIKLA!</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je loaded--rSoeq bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008c9-ec5b-77f3-ad72-8d0f75629abd__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEzLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008c9-ec5b-77f3-ad72-8d0f75629abd__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEzLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008c9-ec5b-77f3-ad72-8d0f75629abd__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEzLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008c9-ec5b-77f3-ad72-8d0f75629abd__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEzLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span>🎰250TL YATIRIMA 10 OYUNDA 100 BEDAVA FREESPİN!</span>
-                  </p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs">250TL YATIRIMA 10 OYUNDA FREESPİN!</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je loaded--rSoeq bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901683-7cc1-76c2-bc0c-c81c1dd43616__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901683-7cc1-76c2-bc0c-c81c1dd43616__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901683-7cc1-76c2-bc0c-c81c1dd43616__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901683-7cc1-76c2-bc0c-c81c1dd43616__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span>🎣1.000TL YATIRIMA 2.000TL BİG BASS BONUS BUY</span>
-                  </p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs">2.000TL BONUS BUY ÇEVRİMSİZ!</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je loaded--rSoeq bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/0190160f-f5a0-7925-bbfe-ce7937be30f7__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/0190160f-f5a0-7925-bbfe-ce7937be30f7__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/0190160f-f5a0-7925-bbfe-ce7937be30f7__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/0190160f-f5a0-7925-bbfe-ce7937be30f7__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span>🍩500TL YATIRIMA 1.000TL CANDY BLİTZ BOMBS BONUS BUY!</span>
-                  </p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs">1.000TL BONUS BUY ÇEVRİMSİZ!</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je loaded--rSoeq bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2450-7d40-72d5-bb2c-23366d77bc61__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzQucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2450-7d40-72d5-bb2c-23366d77bc61__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzQucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2450-7d40-72d5-bb2c-23366d77bc61__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzQucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2450-7d40-72d5-bb2c-23366d77bc61__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzQucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span></span>
-                  </p>
-                  <p>
-                     <span>%30 LİMİTSİZ ÇEVRİMSİZ YATIRIM BONUSU</span>
-                  </p>
-                  <p></p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs"> %30 YATIRIM BONUSU AKTİF ET</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je loaded--rSoeq bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fabff-8e85-737e-990f-c0c1ee7a7b74__NDY2eDIzMyslRTIlODAlOTMrMSswMDAwMC5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fabff-8e85-737e-990f-c0c1ee7a7b74__NDY2eDIzMyslRTIlODAlOTMrMSswMDAwMC5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fabff-8e85-737e-990f-c0c1ee7a7b74__NDY2eDIzMyslRTIlODAlOTMrMSswMDAwMC5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fabff-8e85-737e-990f-c0c1ee7a7b74__NDY2eDIzMyslRTIlODAlOTMrMSswMDAwMC5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span>TAM %400 SWEET BONANZA 1000 BONUSU</span>
-                  </p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs">%400 FREESPİN BONUSU</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je loaded--rSoeq bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e37a4-8735-77d8-ae84-96c5fc45178c__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlcislRTIlODAlOTMrMjEucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e37a4-8735-77d8-ae84-96c5fc45178c__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlcislRTIlODAlOTMrMjEucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e37a4-8735-77d8-ae84-96c5fc45178c__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlcislRTIlODAlOTMrMjEucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e37a4-8735-77d8-ae84-96c5fc45178c__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlcislRTIlODAlOTMrMjEucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span></span>
-                  </p>
-                  <p>
-                     <span>%30 Kayıp Bonusu</span>
-                  </p>
-                  <p></p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs"> %30 KAYIP BONUSU</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je loaded--rSoeq bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e76f8-e80d-78ca-97ab-0e7cb2ea09ef__NDY2eDIzMysxMDAwLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e76f8-e80d-78ca-97ab-0e7cb2ea09ef__NDY2eDIzMysxMDAwLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e76f8-e80d-78ca-97ab-0e7cb2ea09ef__NDY2eDIzMysxMDAwLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e76f8-e80d-78ca-97ab-0e7cb2ea09ef__NDY2eDIzMysxMDAwLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span></span>
-                  </p>
-                  <p>
-                     <span>%400 GATE'S OF OLYMPUS 1000 ve STARLİGHT PRİNCESS 1000 FREESPİN BONUSU</span>
-                  </p>
-                  <p></p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs"> %400 2000 TL FREESPİN BONUSU</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je loaded--rSoeq bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c244d-50c1-785b-b64d-fd69411a1657__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzcucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c244d-50c1-785b-b64d-fd69411a1657__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzcucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c244d-50c1-785b-b64d-fd69411a1657__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzcucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c244d-50c1-785b-b64d-fd69411a1657__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzcucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span></span>
-                  </p>
-                  <p>
-                     <span>SPOR BAHİSLERİNE ÖZEL FREEBET</span>
-                  </p>
-                  <p></p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs"> HEMEN BAHİS AL</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je loaded--rSoeq bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-e01d-7e01-9348-438bfe290130__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzE5LnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-e01d-7e01-9348-438bfe290130__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzE5LnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-e01d-7e01-9348-438bfe290130__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzE5LnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-e01d-7e01-9348-438bfe290130__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzE5LnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span></span>
-                  </p>
-                  <p>
-                     <span>%20 LİMİTSİZ YATIRIM BONUSU</span>
-                  </p>
-                  <p></p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs"> %20 YATIRIM BONUSUNU AKTİF ET</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je loaded--rSoeq bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-b530-7345-8dec-99a1ac1871e2__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzIwLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-b530-7345-8dec-99a1ac1871e2__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzIwLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-b530-7345-8dec-99a1ac1871e2__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzIwLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-b530-7345-8dec-99a1ac1871e2__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzIwLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span></span>
-                  </p>
-                  <p>
-                     <span>%15 LİMİTSİZ YATIRIM BONUSU</span>
-                  </p>
-                  <p></p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs"> %15 YATIRIM BONUSUNU AKTİF ET</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je loaded--rSoeq bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6531-1174-74fd-9a37-80cb6a183cd9__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzE4LnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6531-1174-74fd-9a37-80cb6a183cd9__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzE4LnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6531-1174-74fd-9a37-80cb6a183cd9__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzE4LnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6531-1174-74fd-9a37-80cb6a183cd9__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzE4LnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span></span>
-                  </p>
-                  <p>
-                     <span>%25 LİMİTSİZ YATIRIM BONUSU</span>
-                  </p>
-                  <p></p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs"> %25 YATIRIM BONUSUNU AKTİF ET</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je loaded--rSoeq bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d2225-c2db-78d6-8004-a73b88f5492e__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d2225-c2db-78d6-8004-a73b88f5492e__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d2225-c2db-78d6-8004-a73b88f5492e__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d2225-c2db-78d6-8004-a73b88f5492e__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <br>
-                  </p>
-                  <p>
-                     <span>STARZBOOSTED %100 KAZANÇ!</span>
-                  </p>
-                  <p>
-                     <br>
-                  </p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs">%100 STARZBOOSTED BAHİS AL!</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je loaded--rSoeq bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d221b-e43f-7c39-a319-b3e1cd830bad__MTAwMHg1MDAucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d221b-e43f-7c39-a319-b3e1cd830bad__MTAwMHg1MDAucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d221b-e43f-7c39-a319-b3e1cd830bad__MTAwMHg1MDAucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d221b-e43f-7c39-a319-b3e1cd830bad__MTAwMHg1MDAucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span></span>
-                  </p>
-                  <p>
-                     <span>TELEGRAM TAKİPÇİLERİMİZE ÖZEL!</span>
-                  </p>
-                  <p></p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs"> Telegram Kanalımızı Takip Et</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je loaded--rSoeq bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2445-b743-7743-a4c4-37b9a642ee79__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzYucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2445-b743-7743-a4c4-37b9a642ee79__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzYucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2445-b743-7743-a4c4-37b9a642ee79__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzYucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2445-b743-7743-a4c4-37b9a642ee79__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzYucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span></span>
-                  </p>
-                  <p>
-                     <span>500TL STARZ DOĞUM GÜNÜ BONUSU</span>
-                  </p>
-                  <p></p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs"> Doğum Gününü Starzla!</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d7ac7-2719-7e12-aad8-99208b5d0757__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d7ac7-2719-7e12-aad8-99208b5d0757__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d7ac7-2719-7e12-aad8-99208b5d0757__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d7ac7-2719-7e12-aad8-99208b5d0757__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <br>
-                  </p>
-                  <p>
-                     <span>SMARTSOFT ÇEVİR VE KAZAN TURNUVASI</span>
-                  </p>
-                  <p>
-                     <br>
-                  </p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs">5.000.000 EURO ÖDÜLLÜ TURNUVA</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e913d-4f9d-7536-bf4c-fab7ce76d0a5__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e913d-4f9d-7536-bf4c-fab7ce76d0a5__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e913d-4f9d-7536-bf4c-fab7ce76d0a5__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e913d-4f9d-7536-bf4c-fab7ce76d0a5__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span></span>
-                  </p>
-                  <p>
-                     <span>KALAMBA CASH DROP TURNUVASI</span>
-                  </p>
-                  <p></p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs"> 2.000.000€  NAKİT ÖDÜL</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fd4bc-b497-7fb0-8396-96492887e4c6__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fd4bc-b497-7fb0-8396-96492887e4c6__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fd4bc-b497-7fb0-8396-96492887e4c6__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fd4bc-b497-7fb0-8396-96492887e4c6__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span>STARZBET - BGaming Büyük Yaz Ödülleri</span>
-                  </p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs">100,000€  Nakit Ödül</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fdf9f-7b56-7e8a-b7c3-d7b2a5bbab76__NDY2eDIzMyslRTIlODAlOTMrMi5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fdf9f-7b56-7e8a-b7c3-d7b2a5bbab76__NDY2eDIzMyslRTIlODAlOTMrMi5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fdf9f-7b56-7e8a-b7c3-d7b2a5bbab76__NDY2eDIzMyslRTIlODAlOTMrMi5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fdf9f-7b56-7e8a-b7c3-d7b2a5bbab76__NDY2eDIzMyslRTIlODAlOTMrMi5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span>Ezugi Cricket Auto Roulette</span>
-                  </p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs">10,000€  Nakit Ödül </div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/0190127b-8c35-7a44-b4d2-fb4d5aab98da__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/0190127b-8c35-7a44-b4d2-fb4d5aab98da__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/0190127b-8c35-7a44-b4d2-fb4d5aab98da__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/0190127b-8c35-7a44-b4d2-fb4d5aab98da__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span>STARZBET-EVOPLAY FOOTBALL RUSH TURNUVASI</span>
-                  </p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs">TURNUVAYA KATIL</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901cfc-c4c3-7b6b-8c07-19d4af4434c9__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901cfc-c4c3-7b6b-8c07-19d4af4434c9__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901cfc-c4c3-7b6b-8c07-19d4af4434c9__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901cfc-c4c3-7b6b-8c07-19d4af4434c9__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span>Starzbet-Ezugi-Futbol Çılgınlığı Yarışması Sizlerle</span>
-                  </p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs">20.000€ Turnuvaya Sende Katıl</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901dd2-abf8-778b-9615-cbccb32f64f3__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901dd2-abf8-778b-9615-cbccb32f64f3__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901dd2-abf8-778b-9615-cbccb32f64f3__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901dd2-abf8-778b-9615-cbccb32f64f3__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span>Parlarbay Euro2024 Kampanyası</span>
-                  </p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs">25,000€ Nakit Ödül</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01902122-8784-75c2-a8dd-a8050fc86d09__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01902122-8784-75c2-a8dd-a8050fc86d09__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01902122-8784-75c2-a8dd-a8050fc86d09__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01902122-8784-75c2-a8dd-a8050fc86d09__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span>STARZBET - EZUGİ  - %10 FUTBOL ŞANSI GERİ ÖDEMESİ</span>
-                  </p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs">Turnuvaya Katıl</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01902b23-193f-730c-b8bf-7362f5023acb__aGF0dHJpY2sucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01902b23-193f-730c-b8bf-7362f5023acb__aGF0dHJpY2sucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01902b23-193f-730c-b8bf-7362f5023acb__aGF0dHJpY2sucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01902b23-193f-730c-b8bf-7362f5023acb__aGF0dHJpY2sucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Toplam ödül : 5,000€ </span>
-                  </p>
-                  <p>
-                     <br>
-                  </p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs">Betsoft Euro2024 Turnuvası</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-         <div class="bonus-wrapper--DI7d6" data-cy="player_ui__promo_page__promo__wrapper">
-            <div style="width: 388px; height: 194px;">
-               <div class="lazy-game-img--PJ2je bonus-image--YcPU_" style="aspect-ratio: 2 / 1;">
-                  <img class="bonus-image--YcPU_ img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01903cc9-b125-77e4-a022-058167e4ff72__NDY2eDIzMyslRTIlODAlOTMrMi5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01903cc9-b125-77e4-a022-058167e4ff72__NDY2eDIzMyslRTIlODAlOTMrMi5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01903cc9-b125-77e4-a022-058167e4ff72__NDY2eDIzMyslRTIlODAlOTMrMi5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="388" height="194" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01903cc9-b125-77e4-a022-058167e4ff72__NDY2eDIzMyslRTIlODAlOTMrMi5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq bonus-image--YcPU_" width="388" height="194" style="aspect-ratio: 2 / 1;">
-                  <div class="bonus-image--YcPU_ gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-               </div>
-            </div>
-            <div class="bonus-left-side-big--xk5eR">
-               <div class="rich-text--cJbo2 bonus-description--BtJV4">
-                  <p>
-                     <span>Platipus Yaz Tatili Turnuvası</span>
-                  </p>
-               </div>
-               <button class="orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7 capitalize--XJg3v">
-                  <div class="content--zBAVh">
-                     <div class="rich-text--cJbo2 inline--zV4zs">105,000₺  Nakit Ödül</div>
-                  </div>
-               </button>
-            </div>
-         </div>
-      </div>
-   </div>
-</div>
+   </static-content>
+   <!---->
+</main>

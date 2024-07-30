@@ -454,9 +454,7 @@ div:where(.swal2-icon).swal2-warning {
       </div>
       <app-root ng-version="12.2.13">
          <router-outlet>
-            <preloader>
-               <!---->
-            </preloader>
+         <div id="preloader"><div><div class="preloader-logo"><img alt="" src="/assets/css/logo.png"></div><!----><div class="sk-wave"><div class="sk-wave-rect"></div><div class="sk-wave-rect"></div><div class="sk-wave-rect"></div><div class="sk-wave-rect"></div><div class="sk-wave-rect"></div></div></div></div>
          </router-outlet>
          <app-out-component>
             <!---->

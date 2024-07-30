@@ -355,11 +355,11 @@
                   <div class="bot_bar_inner_item ticker_side">
                      <div class="bot_bar_ticker">
                         <panel-ticker class="news_ticker hidden-md-and-down" vce-ready="">
-                           <div id="ticker_1" class="bmm ticker_cover not_visible marquee_ticker">
+                           <div id="ticker_1" class="bmm ticker_cover marquee_ticker">
                               <!---->
                               <div class="ticker marquee-text-wrap">
                                  <div class="marquee-text-content">
-                                    <div class="marquee-text-text" style="animation-duration: 0s;">
+                                    <div class="marquee-text-text" style="animation-duration: 1876.22s;">
                                        <div class="marquee_news">
                                           <div class="ticker_content_cover">
                                              <div class="news">
