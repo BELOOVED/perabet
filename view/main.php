@@ -28,7 +28,7 @@
                                           <svg id="placeholder_svg_new" width="1920" height="480" class="placeholder_svg">
                                              <rect width="100%" height="100%" class="rect"></rect>
                                           </svg>
-                                          <ul class="splide__list" id="splide01-list" style="transform: translateX(-6144px);">
+                                          <ul class="splide__list slider slider-slickone" id="splide01-list" style="transform: translateX(0px);">
                                              <li class="splide__slide panel_gallery_item splide__slide--clone" style="width: 1024px;" aria-hidden="true" tabindex="-1">
                                                 <div class="panel_galery_content" style="display: none;"></div>
                                                 <!----><!----><a class="panel_slide_cover"><img data-splide-lazy="https://cdn.panelfront.net/merchants/pn10/uploads/66805b330e2972df5d97c538f7d7155036dda7b9eb3f9.jpeg" aria-rowindex="16" class="gallery_pointer" srcset="" src="https://cdn.panelfront.net/merchants/pn10/uploads/66805b330e2972df5d97c538f7d7155036dda7b9eb3f9.jpeg" style=""></a>
