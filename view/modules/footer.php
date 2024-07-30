@@ -268,16 +268,16 @@
                            <app-static-inner-content contentcode="signin">
                               <!---->
                            </app-static-inner-content>
-                           <!----><!----><input type="text" required="" name="login" class="validate browser-default ng-untouched ng-pristine ng-invalid" placeholder="Kullanıcı adı" id="username"><!----><!----><!----><!----><!----><!---->
+                           <!----><!----><input type="text" required="" name="login" class="validate browser-default ng-untouched ng-pristine" placeholder="Kullanıcı adı" id="username"><!----><!----><!----><!----><!----><!---->
                            <div class="input-field password">
-                              <input formcontrolname="password" name="password" id="login-password" type="password" required="" class="validate browser-default ng-untouched ng-pristine ng-invalid" placeholder="Şifreniz">
+                              <input formcontrolname="password" name="password" id="login-password" type="password" required="" class="validate browser-default ng-untouched ng-pristine" placeholder="Şifreniz">
                               <password-eye el="login-password"><a class="btn password-eye toogle-btn"><i class="fa fa-eye show"></i><i class="fa fa-eye-slash dont-show"></i></a></password-eye>
                               <!---->
                            </div>
-                           <!----><!----><button class="btn sgn-btn"> Giriş Yap </button><!----><!---->
+                           <!----><!----><button class="btn sgn-btn" onclick="logIn()"> Giriş Yap </button><!----><!---->
                            <div class="flex-container ftgtpass-nwacc"><a class="btn flex-item ftgtpass"><i class="fa fa-key pg-icons"></i> Şifremi Unuttum </a><a class="btn flex-item ftgtpass"><i class="fa fa-key pg-icons"></i> Kullanıcı adını unuttum </a></div>
                            <div class="login-form-bottom">
-                              <a href="javascript:;" onclick="logIn()" class="btn flex-item nwacc"> Hesabınız yok mu? </a>
+                              <a href="javascript:;" class="btn flex-item nwacc"> Hesabınız yok mu? </a>
                               <div class="login-popup-content clear">
                                  <app-static-inner-content contentcode="login-popup-content">
                                     <!---->
