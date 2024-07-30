@@ -502,7 +502,7 @@ div:where(.swal2-icon).swal2-warning {
                         <div class="hdr-cntr-second-row fix-hide">
                            <div class="container-90">
                               <div class="hdr-second-row-wrapper">
-                                 <a name="logo" class="lg-cntr left" href="//perabet1038.com"><img src="views/trader/perabet/assets/images/logo.png" class="lg" alt="perabet"></a>
+                                 <a name="logo" class="lg-cntr left" href="/"><img src="/assets/css/logo.png" class="lg" alt="perabet"></a>
                                  <div class="hdr-usr-mn right">
                                     <app-static-inner-content contentcode="header_content_area">
                                        <div extroutelink="" id="header_content_area">
@@ -525,7 +525,7 @@ div:where(.swal2-icon).swal2-warning {
                         </div>
                         <div class="hdr-cntr-third-row clear">
                            <div id="menu-wrapper" class="container-90">
-                              <a name="logo" class="lg-cntr left fix-show" style="display: none;" href="//perabet1038.com"><img src="views/trader/perabet/assets/images/logo.png" class="lg" alt="perabet"></a>
+                              <a name="logo" class="lg-cntr left fix-show" style="display: none;" href="/"><img src="assets/css/logo.png" class="lg" alt="perabet"></a>
                               <div class="mn-menu-wrapper">
                                  <div class="mn-menu left">
                                     <ul data-element="mn-cont" class="clear">
