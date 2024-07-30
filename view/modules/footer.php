@@ -298,8 +298,8 @@
 
         // Modalı gösterme fonksiyonu
         function showModal() {
-            document.querySelector(".bm_popup_cover .popup_container").style.display = "block";
-            document.querySelector(".bm_popup_mask").style.display = "block";
+            document.querySelector(".bm_popup_cover .popup_container").style.display = "flex";
+            document.querySelector(".bm_popup_mask").style.display = "flex";
         }
 
         // Modalı kapatma fonksiyonu
