@@ -271,76 +271,76 @@
       <bet-master merchant="pn10" language="tr" vce-ready="">
          <div id="PanelFront">
             <!---->
-            <script>
-    document.addEventListener("DOMContentLoaded", function() {
-        // Cookie oluşturma fonksiyonu
-        function setCookie(name, value, days) {
-            var expires = "";
-            if (days) {
-                var date = new Date();
-                date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-                expires = "; expires=" + date.toUTCString();
-            }
-            document.cookie = name + "=" + (value || "") + expires + "; path=/";
-        }
-
-        // Cookie okuma fonksiyonu
-        function getCookie(name) {
-            var nameEQ = name + "=";
-            var ca = document.cookie.split(';');
-            for (var i = 0; i < ca.length; i++) {
-                var c = ca[i];
-                while (c.charAt(0) === ' ') c = c.substring(1, c.length);
-                if (c.indexOf(nameEQ) === 0) return c.substring(nameEQ.length, c.length);
-            }
-            return null;
-        }
-
-        // Modalı gösterme fonksiyonu
-        function showModal() {
-            document.querySelector(".bm_popup_cover .popup_container").style.display = "flex";
-            document.querySelector(".bm_popup_mask").style.display = "flex";
-        }
-
-        // Modalı kapatma fonksiyonu
-        function closeModal() {
-            document.querySelector(".bm_popup_cover .popup_container").style.display = "none";
-            document.querySelector(".bm_popup_mask").style.display = "none";
-        }
-
-        // "Bir daha gösterme" butonuna tıklanınca cookie oluştur
-        document.querySelector(".never_show").addEventListener("click", function() {
-            setCookie("modal_shown", "true", 30); // Cookie 30 gün süresince geçerli olacak
-            closeModal();
-        });
-
-        // X butonuna tıklanınca modalı kapat
-        document.querySelector(".close_btn").addEventListener("click", function() {
-            closeModal();
-        });
-
-        // Cookie kontrolü ve modal gösterme
-        if (!getCookie("modal_shown")) {
-            showModal();
-        }
-    });
-</script>
-
+         
             <div class="bm_popup_cover">
-               <div class="popup_cover">
-                  <div class="popup_container bm_popup"  style="display: none;">
-                     <div class="panel_popup">
-                        <div class="never_show">Bir daha Gösterme</div>
-                        <div class="close_btn"><i class="el-dialog__close el-icon el-icon-close"></i></div>
-                        <div><a style="cursor: pointer;"><img src="https://cdn.panelfront.net/merchants/pn10/uploads/668d97d6be11759e083c30cfd93b8a7a64b6bbebf0a32.jpeg"></a></div>
-                        <!---->
-                        <div class="content"  style="display: none;"></div>
-                     </div>
-                  </div>
-               </div>
-               <!---->
-               <div class="bm_popup_mask" style="display: none;"></div>
+        <div class="popup_cover">
+            <div class="popup_container bm_popup" style="display: none;">
+                <div class="panel_popup">
+                    <div class="never_show">Bir daha Gösterme</div>
+                    <div class="close_btn"><i class="el-dialog__close el-icon el-icon-close"></i></div>
+                    <div><a style="cursor: pointer;"><img src="https://cdn.panelfront.net/merchants/pn10/uploads/668d97d6be11759e083c30cfd93b8a7a64b6bbebf0a32.jpeg"></a></div>
+                    <div class="content" style="display: none;"></div>
+                </div>
             </div>
+        </div>
+        <div class="bm_popup_mask" style="display: none;"></div>
+    </div>
+
+    <script>
+        $(document).ready(function() {
+            // Cookie ayarlama fonksiyonu
+            function setCookie(name, value, days) {
+                var expires = "";
+                if (days) {
+                    var date = new Date();
+                    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                    expires = "; expires=" + date.toUTCString();
+                }
+                document.cookie = name + "=" + (value || "") + expires + "; path=/";
+            }
+
+            // Cookie okuma fonksiyonu
+            function getCookie(name) {
+                var nameEQ = name + "=";
+                var ca = document.cookie.split(';');
+                for (var i = 0; i < ca.length; i++) {
+                    var c = ca[i];
+                    while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+                    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+                }
+                return null;
+            }
+
+            // Modalı gösterme fonksiyonu
+            function showModal() {
+                $(".bm_popup_cover .popup_container").fadeIn();
+                $(".bm_popup_mask").fadeIn();
+            }
+
+            // Modalı kapatma fonksiyonu
+            function closeModal() {
+                $(".bm_popup_cover .popup_container").fadeOut();
+                $(".bm_popup_mask").fadeOut();
+            }
+
+            // "Bir daha gösterme" butonuna tıklanınca cookie oluştur
+            $(".never_show").click(function() {
+                setCookie("modal_shown", "true", 30); // Cookie 30 gün süresince geçerli olacak
+                closeModal();
+            });
+
+            // X butonuna tıklanınca modalı kapat
+            $(".close_btn").click(function() {
+                setCookie("modal_shown", "true", 30); // Cookie 30 gün süresince geçerli olacak
+                closeModal();
+            });
+
+            // Cookie kontrolü ve modal gösterme
+            if (!getCookie("modal_shown")) {
+                showModal();
+            }
+        });
+    </script>
             <div class="bm bmm bm_botbar hidden-xs-only">
                <div class="bot_bar_inner">
                   <div class="bot_bar_inner_item buttons_side">
