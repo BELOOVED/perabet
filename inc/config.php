@@ -9,10 +9,10 @@ date_default_timezone_set('Europe/Istanbul');
 
 // Database Info
 const DB_HOST = "localhost";
-const DB_LOGIN = "admin_ttee";
-const DB_PASS = "020Lrku?9";
-const DB_NAME = "admin_ttee";
-const SYSNAME = 'Starzbet';
+const DB_LOGIN = "admin_perabet";
+const DB_PASS = "gw*5Nv636";
+const DB_NAME = "admin_perabet";
+const SYSNAME = 'Perabet';
 const ENV = 'prod';
 
 const ADMIN_PATH = 'admin';
