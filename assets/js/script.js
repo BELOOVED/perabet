@@ -170,33 +170,46 @@ $(document).ready(function() {
    var $carouselSlide = $('.carousel-slide');
    var $carouselCount = $('.carousel-count-arrow');
    var currentIndex = 0;
- 
+
    // Slick Slider'ı başlatırken
    $('.slider-slickone').slick({
-     autoplay: true,
-     autoplaySpeed: 2000,
-     arrows: false,
-     dots: false,
-     infinite: true,
-     slidesToShow: 1,
-     slidesToScroll: 1,
-     swipeToSlide: true,
-     
+       autoplay: true,
+       autoplaySpeed: 2000,
+       arrows: false,
+       dots: false,
+       infinite: true,
+       slidesToShow: 1,
+       slidesToScroll: 1,
+       swipeToSlide: true,
    });
- 
+
+   // Slick Slider değişiklikten sonra olayını dinle
    $('.slider-slickone').on('afterChange', function(event, slick, currentSlide) {
-     currentIndex = currentSlide;
-     updateSlideCount();
+       currentIndex = currentSlide;
+       updateSlideCount();
+       updatePagination(currentIndex);
    });
- 
+
+   // Pagination düğmeleri için olay dinleyici ekle
+   $('.splide__pagination__page').on('click', function() {
+       var index = $(this).index();
+       $('.slider-slickone').slick('slickGoTo', index);
+   });
+
    function updateSlideCount() {
-     var currentNumber = currentIndex + 1;
-     var totalCount = $carouselSlide.length - 2;
-     $carouselCount.text(currentNumber + ' / ' + totalCount);
+       var currentNumber = currentIndex + 1;
+       var totalCount = $carouselSlide.length - 2;
+       $carouselCount.text(currentNumber + ' / ' + totalCount);
    }
- 
+
+   function updatePagination(currentIndex) {
+       $('.splide__pagination__page').removeClass('is-active');
+       $('.splide__pagination__page').eq(currentIndex).addClass('is-active');
+   }
+
    updateSlideCount(); 
- });
+});
+
  function openmobilemenu(){
    $(".overlay--zU4r_").toggleClass("overlay-active--DdB_P");
    $("body").toggleClass("ohidden");

@@ -25,9 +25,7 @@
                                           </button>
                                        </div>
                                        <div class="splide__track p_s_p_h" id="splide01-track">
-                                          <svg id="placeholder_svg_new" width="1920" height="480" class="placeholder_svg">
-                                             <rect width="100%" height="100%" class="rect"></rect>
-                                          </svg>
+                                          
                                           <ul class="slider-slickone" id="splide01-list">
                                              <li class="splide__slide panel_gallery_item splide__slide--clone"  aria-hidden="true" tabindex="-1">
                                                 <div class="panel_galery_content" style="display: none;"></div>
