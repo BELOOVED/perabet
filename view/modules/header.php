@@ -514,7 +514,7 @@ div:where(.swal2-icon).swal2-warning {
                                     </app-static-inner-content>
                                     <div class="logout-menu right">
                                        <div class="divider left"></div>
-                                       <a href="javascript:;" class="login-btn"> Giriş </a><!----><a href="javascript:;" class="register-btn"> Üye Ol </a>
+                                       <a href="javascript:;" onclick="openmodal('sgn-mdl')" class="login-btn"> Giriş </a><!----><a href="/register" class="register-btn"> Üye Ol </a>
                                     </div>
                                     <!----><!---->
                                  </div>
