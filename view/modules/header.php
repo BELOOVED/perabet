@@ -555,6 +555,23 @@ div:where(.swal2-icon).swal2-warning {
                                     <!----><!---->
                                  </app-static-inner-content>
                                  <!---->
+                                 <script>
+                                    $(document).ready(function() {
+    $('.user-name').hover(
+        function() {
+            // Mouse üzerine gelince çalışacak kısım
+            $(this).find('.dropdown-button').addClass('active');
+            $(this).find('.dropdown-content').css('display', 'block');
+        },
+        function() {
+            // Mouse çıkınca çalışacak kısım
+            $(this).find('.dropdown-button').removeClass('active');
+            $(this).find('.dropdown-content').css('display', 'none');
+        }
+    );
+});
+
+                                 </script>
                                  <div class="login-menu right">
                                     <ul class="clear">
                                        <li class="user-name">
