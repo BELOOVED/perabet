@@ -576,7 +576,7 @@ div:where(.swal2-icon).swal2-warning {
                                     <ul class="clear">
                                        <li class="user-name">
                                           <a materialize="dropdown" data-activates="rgstry-drop-fix" class="dropdown-button"><span class="first"> <?=$us['login']?> <span class="second">No:17895019<?=$us['id']?></span><i class="material-icons pg-icons right">arrow_drop_down</i></span></a>
-                                          <div id="rgstry-drop-fix" class="dropdown-content">
+                                          <div id="rgstry-drop-fix" class="dropdown-content" style="white-space: nowrap; position: absolute; top: 98.0833px; left: 557.222px; display: none; opacity: 1; padding-top: 10px; margin-top: 0px; padding-bottom: 10px; margin-bottom: 0px; overflow: hidden;">
                                              <ul>
                                                 <li>
                                                    <a class="collection-item" href="/bonus-activities"> Bonus Hareketlerim </a><!---->
