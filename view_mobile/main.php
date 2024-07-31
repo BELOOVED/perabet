@@ -1,5 +1,4 @@
-
-            <div id="allCnt">
+<div id="allCnt">
                <app-static-inner-content contentcode="m_header_content_area">
                   <!---->
                </app-static-inner-content>
@@ -35,7 +34,7 @@
                <!---->
                <main>
                   <router-outlet></router-outlet>
-                  <app-main-page class="ng-star-inserted">
+                  <app-main-page>
                      <!---->
                      <slider>
                         <!---->
@@ -44,16 +43,16 @@
                         <!---->
                      </app-special-event-countdown>
                      <app-static-inner-content contentcode="m_main-static">
-                        <div extroutelink="" id="m_main-static" class="ng-star-inserted">
+                        <div extroutelink="" id="m_main-static">
                            <panel-gallery gallery="1" loop="true" type="loop" autoplay="true" arrows="false" interval="5000" vce-ready="">
                               <div id="panel_gallery1" class="panel_gallery bmm bm mobile_gallery hover_arrow">
                                  <div>
-                                    <div class="splide splide--loop splide--ltr splide--draggable is-active" id="splide03" style="visibility: visible;">
-                                       <div class="splide__track p_s_p_h" id="splide03-track">
+                                    <div class="splide splide--loop splide--ltr splide--draggable is-active" id="splide01" style="visibility: visible;">
+                                       <div class="splide__track p_s_p_h" id="splide01-track">
                                           <svg id="placeholder_svg_new" width="1000" height="500" class="placeholder_svg">
                                              <rect width="100%" height="100%" class="rect"></rect>
                                           </svg>
-                                          <ul class="splide__list" id="splide03-list" style="transform: translateX(-1290px);">
+                                          <ul class="splide__list" id="splide01-list" style="transform: translateX(-1290px);">
                                              <li class="splide__slide panel_gallery_item splide__slide--clone" style="width: 430px;" aria-hidden="true" tabindex="-1">
                                                 <div class="panel_galery_content" style="display: none;"></div>
                                                 <!----><!----><a class="panel_slide_cover"><img data-splide-lazy="https://cdn.panelfront.net/merchants/pn10/uploads/66805b480b0af83faa6501f2aecc71c6cf6ae499ebd4c.jpeg" aria-rowindex="16" class="gallery_pointer" srcset="" src="https://cdn.panelfront.net/merchants/pn10/uploads/66805b480b0af83faa6501f2aecc71c6cf6ae499ebd4c.jpeg" style=""></a>
@@ -62,75 +61,75 @@
                                                 <div class="panel_galery_content" style="display: none;"></div>
                                                 <!----><!----><a class="panel_slide_cover no_link"><img data-splide-lazy="https://cdn.panelfront.net/merchants/pn10/uploads/621951aa580be7ddb0513086717334979abcad2e165eb.jpeg" aria-rowindex="17" class="" srcset="" src="https://cdn.panelfront.net/merchants/pn10/uploads/621951aa580be7ddb0513086717334979abcad2e165eb.jpeg" style=""></a>
                                              </li>
-                                             <li class="splide__slide panel_gallery_item" id="splide03-slide01" style="width: 430px;" aria-hidden="true" tabindex="-1">
+                                             <li class="splide__slide panel_gallery_item" id="splide01-slide01" style="width: 430px;" aria-hidden="true" tabindex="-1">
                                                 <div class="panel_galery_content" style="display: none;"></div>
                                                 <!----><!----><a class="panel_slide_cover"><img data-splide-lazy="https://cdn.panelfront.net/merchants/pn10/uploads/66a907978e5bb8634189a2897311eafeae4664809d0a6.jpeg" aria-rowindex="0" class="gallery_pointer" srcset="" src="https://cdn.panelfront.net/merchants/pn10/uploads/66a907978e5bb8634189a2897311eafeae4664809d0a6.jpeg" style=""></a>
                                              </li>
-                                             <li class="splide__slide panel_gallery_item is-active is-visible" id="splide03-slide02" style="width: 430px;" aria-hidden="false" tabindex="0">
+                                             <li class="splide__slide panel_gallery_item is-active is-visible" id="splide01-slide02" style="width: 430px;" aria-hidden="false" tabindex="0">
                                                 <div class="panel_galery_content" style="display: none;"></div>
                                                 <!----><!----><a class="panel_slide_cover"><img data-splide-lazy="https://cdn.panelfront.net/merchants/pn10/uploads/66a907e2366a5185cc3201dc2ae5440e179596aae40ad.jpeg" aria-rowindex="1" class="gallery_pointer" srcset="" src="https://cdn.panelfront.net/merchants/pn10/uploads/66a907e2366a5185cc3201dc2ae5440e179596aae40ad.jpeg" style=""></a>
                                              </li>
-                                             <li class="splide__slide panel_gallery_item" id="splide03-slide03" style="width: 430px;">
+                                             <li class="splide__slide panel_gallery_item" id="splide01-slide03" style="width: 430px;" aria-hidden="true" tabindex="-1">
                                                 <div class="panel_galery_content" style="display: none;"></div>
                                                 <!----><!----><a class="panel_slide_cover"><img data-splide-lazy="https://cdn.panelfront.net/merchants/pn10/uploads/665a31e793160dfb90de6cbbeaf9d12482acac10dfd88.jpeg" aria-rowindex="2" class="gallery_pointer" srcset="" src="https://cdn.panelfront.net/merchants/pn10/uploads/665a31e793160dfb90de6cbbeaf9d12482acac10dfd88.jpeg" style=""></a>
                                              </li>
-                                             <li class="splide__slide panel_gallery_item" id="splide03-slide04" style="width: 430px;">
+                                             <li class="splide__slide panel_gallery_item" id="splide01-slide04" style="width: 430px;" aria-hidden="true" tabindex="-1">
                                                 <div class="panel_galery_content" style="display: none;"></div>
                                                 <!----><!----><a class="panel_slide_cover"><img data-splide-lazy="https://cdn.panelfront.net/merchants/pn10/uploads/66a7797dac6cc6b18e51c7d18ef48b4c8d845e154659d.jpeg" aria-rowindex="3" class="gallery_pointer" srcset="" src="https://cdn.panelfront.net/merchants/pn10/uploads/66a7797dac6cc6b18e51c7d18ef48b4c8d845e154659d.jpeg" style=""></a>
                                              </li>
-                                             <li class="splide__slide panel_gallery_item" id="splide03-slide05" style="width: 430px;">
+                                             <li class="splide__slide panel_gallery_item" id="splide01-slide05" style="width: 430px;" aria-hidden="true" tabindex="-1">
                                                 <div class="panel_galery_content" style="display: none;"></div>
                                                 <!----><!----><a class="panel_slide_cover"><img data-splide-lazy="https://cdn.panelfront.net/merchants/pn10/uploads/66a8b702a5770e13f761188a213103b1bf56ccd8816bd.jpeg" aria-rowindex="4" class="gallery_pointer" style="" srcset="" src="https://cdn.panelfront.net/merchants/pn10/uploads/66a8b702a5770e13f761188a213103b1bf56ccd8816bd.jpeg"></a>
                                              </li>
-                                             <li class="splide__slide panel_gallery_item" id="splide03-slide06" style="width: 430px;">
+                                             <li class="splide__slide panel_gallery_item" id="splide01-slide06" style="width: 430px;">
                                                 <div class="panel_galery_content" style="display: none;"></div>
-                                                <!----><!----><a class="panel_slide_cover"><img data-splide-lazy="https://cdn.panelfront.net/merchants/pn10/uploads/6694287561cd9349fddb76abfa8335ca675f4af0a5041.jpeg" aria-rowindex="5" class="gallery_pointer" style="display: none;"></a>
+                                                <!----><!----><a class="panel_slide_cover"><img data-splide-lazy="https://cdn.panelfront.net/merchants/pn10/uploads/6694287561cd9349fddb76abfa8335ca675f4af0a5041.jpeg" aria-rowindex="5" class="gallery_pointer" style="" srcset="" src="https://cdn.panelfront.net/merchants/pn10/uploads/6694287561cd9349fddb76abfa8335ca675f4af0a5041.jpeg"></a>
                                              </li>
-                                             <li class="splide__slide panel_gallery_item" id="splide03-slide07" style="width: 430px;">
+                                             <li class="splide__slide panel_gallery_item" id="splide01-slide07" style="width: 430px;">
                                                 <div class="panel_galery_content" style="display: none;"></div>
-                                                <!----><!----><a class="panel_slide_cover"><img data-splide-lazy="https://cdn.panelfront.net/merchants/pn10/uploads/669431145e134f487faf77d42587645f53c74db2a26d3.jpeg" aria-rowindex="6" class="gallery_pointer" style="display: none;"></a>
+                                                <!----><!----><a class="panel_slide_cover"><img data-splide-lazy="https://cdn.panelfront.net/merchants/pn10/uploads/669431145e134f487faf77d42587645f53c74db2a26d3.jpeg" aria-rowindex="6" class="gallery_pointer" style="" srcset="" src="https://cdn.panelfront.net/merchants/pn10/uploads/669431145e134f487faf77d42587645f53c74db2a26d3.jpeg"></a>
                                              </li>
-                                             <li class="splide__slide panel_gallery_item" id="splide03-slide08" style="width: 430px;">
+                                             <li class="splide__slide panel_gallery_item" id="splide01-slide08" style="width: 430px;">
                                                 <div class="panel_galery_content" style="display: none;"></div>
-                                                <!----><!----><a class="panel_slide_cover"><img data-splide-lazy="https://cdn.panelfront.net/merchants/pn10/uploads/668d9717291b6684d9795fba906ef474b0ec4671d90c9.jpeg" aria-rowindex="7" class="gallery_pointer" style="display: none;"></a>
+                                                <!----><!----><a class="panel_slide_cover"><img data-splide-lazy="https://cdn.panelfront.net/merchants/pn10/uploads/668d9717291b6684d9795fba906ef474b0ec4671d90c9.jpeg" aria-rowindex="7" class="gallery_pointer" style="" srcset="" src="https://cdn.panelfront.net/merchants/pn10/uploads/668d9717291b6684d9795fba906ef474b0ec4671d90c9.jpeg"></a>
                                              </li>
-                                             <li class="splide__slide panel_gallery_item null" id="splide03-slide09" style="width: 430px;">
+                                             <li class="splide__slide panel_gallery_item null" id="splide01-slide09" style="width: 430px;">
                                                 <div class="panel_galery_content" style="display: none;"></div>
                                                 <!----><!----><a class="panel_slide_cover"><img data-splide-lazy="https://cdn.panelfront.net/merchants/pn10/uploads/6613d88c375c248afbe93fefc637135636642c479ccc7.jpeg" aria-rowindex="8" class="gallery_pointer" style="display: none;"></a>
                                              </li>
-                                             <li class="splide__slide panel_gallery_item" id="splide03-slide10" style="width: 430px;">
+                                             <li class="splide__slide panel_gallery_item" id="splide01-slide10" style="width: 430px;">
                                                 <div class="panel_galery_content" style="display: none;"></div>
                                                 <!----><!----><a class="panel_slide_cover"><img data-splide-lazy="https://cdn.panelfront.net/merchants/pn10/uploads/65d0f985c2bb859d0d88a079e02ac8408ff46f031a830.jpeg" aria-rowindex="9" class="gallery_pointer" style="display: none;"></a>
                                              </li>
-                                             <li class="splide__slide panel_gallery_item" id="splide03-slide11" style="width: 430px;">
+                                             <li class="splide__slide panel_gallery_item" id="splide01-slide11" style="width: 430px;">
                                                 <div class="panel_galery_content" style="display: none;"></div>
                                                 <!----><!----><a class="panel_slide_cover"><img data-splide-lazy="https://cdn.panelfront.net/merchants/pn10/uploads/664bc23a2534399b716ccf8fe8a6cce0110ad86a9bbea.jpeg" aria-rowindex="10" class="gallery_pointer" style="display: none;"></a>
                                              </li>
-                                             <li class="splide__slide panel_gallery_item" id="splide03-slide12" style="width: 430px;">
+                                             <li class="splide__slide panel_gallery_item" id="splide01-slide12" style="width: 430px;">
                                                 <div class="panel_galery_content" style="display: none;"></div>
                                                 <!----><!----><a class="panel_slide_cover"><img data-splide-lazy="https://cdn.panelfront.net/merchants/pn10/uploads/669d7d1abe023167546042d42ce7095ed9898a814d6f6.jpeg" aria-rowindex="11" class="gallery_pointer" style="display: none;"></a>
                                              </li>
-                                             <li class="splide__slide panel_gallery_item" id="splide03-slide13" style="width: 430px;">
+                                             <li class="splide__slide panel_gallery_item" id="splide01-slide13" style="width: 430px;">
                                                 <div class="panel_galery_content" style="display: none;"></div>
                                                 <!----><!----><a class="panel_slide_cover"><img data-splide-lazy="https://cdn.panelfront.net/merchants/pn10/uploads/65fb4593e4e92f84d14330399fcae1d11b9cea879b6d1.jpeg" aria-rowindex="12" class="gallery_pointer" style="display: none;"></a>
                                              </li>
-                                             <li class="splide__slide panel_gallery_item" id="splide03-slide14" style="width: 430px;">
+                                             <li class="splide__slide panel_gallery_item" id="splide01-slide14" style="width: 430px;">
                                                 <div class="panel_galery_content" style="display: none;"></div>
                                                 <!----><!----><a class="panel_slide_cover"><img data-splide-lazy="https://cdn.panelfront.net/merchants/pn10/uploads/65fedc8c1283067ebd3e4825bddf3679bcc1f8ac2e489.jpeg" aria-rowindex="13" class="gallery_pointer" style="display: none;"></a>
                                              </li>
-                                             <li class="splide__slide panel_gallery_item null" id="splide03-slide15" style="width: 430px;">
+                                             <li class="splide__slide panel_gallery_item null" id="splide01-slide15" style="width: 430px;">
                                                 <div class="panel_galery_content" style="display: none;"></div>
                                                 <!----><!----><a class="panel_slide_cover"><img data-splide-lazy="https://cdn.panelfront.net/merchants/pn10/uploads/6638fb62437ab0df9f90020dba41ec187e6fb97e37290.jpeg" aria-rowindex="14" class="gallery_pointer" style="display: none;"></a>
                                              </li>
-                                             <li class="splide__slide panel_gallery_item" id="splide03-slide16" style="width: 430px;">
+                                             <li class="splide__slide panel_gallery_item" id="splide01-slide16" style="width: 430px;">
                                                 <div class="panel_galery_content" style="display: none;"></div>
                                                 <!----><!----><a class="panel_slide_cover"><img data-splide-lazy="https://cdn.panelfront.net/merchants/pn10/uploads/65f4d5582744c0f16147a4e8ea85f966ebfe849b0b3a5.jpeg" aria-rowindex="15" class="gallery_pointer" srcset="" src="https://cdn.panelfront.net/merchants/pn10/uploads/65f4d5582744c0f16147a4e8ea85f966ebfe849b0b3a5.jpeg" style=""></a>
                                              </li>
-                                             <li class="splide__slide panel_gallery_item" id="splide03-slide17" style="width: 430px;">
+                                             <li class="splide__slide panel_gallery_item" id="splide01-slide17" style="width: 430px;">
                                                 <div class="panel_galery_content" style="display: none;"></div>
                                                 <!----><!----><a class="panel_slide_cover"><img data-splide-lazy="https://cdn.panelfront.net/merchants/pn10/uploads/66805b480b0af83faa6501f2aecc71c6cf6ae499ebd4c.jpeg" aria-rowindex="16" class="gallery_pointer" srcset="" src="https://cdn.panelfront.net/merchants/pn10/uploads/66805b480b0af83faa6501f2aecc71c6cf6ae499ebd4c.jpeg" style=""></a>
                                              </li>
-                                             <li class="splide__slide panel_gallery_item" id="splide03-slide18" style="width: 430px;">
+                                             <li class="splide__slide panel_gallery_item" id="splide01-slide18" style="width: 430px;">
                                                 <div class="panel_galery_content" style="display: none;"></div>
                                                 <!----><!----><a class="panel_slide_cover no_link"><img data-splide-lazy="https://cdn.panelfront.net/merchants/pn10/uploads/621951aa580be7ddb0513086717334979abcad2e165eb.jpeg" aria-rowindex="17" class="" srcset="" src="https://cdn.panelfront.net/merchants/pn10/uploads/621951aa580be7ddb0513086717334979abcad2e165eb.jpeg" style=""></a>
                                              </li>
@@ -146,24 +145,24 @@
                                        </div>
                                        <div></div>
                                        <ul class="splide__pagination">
-                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide03-slide01" aria-label="Go to slide 1"></button></li>
-                                          <li><button class="splide__pagination__page is-active" type="button" aria-controls="splide03-slide02" aria-label="Go to slide 2" aria-current="true"></button></li>
-                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide03-slide03" aria-label="Go to slide 3"></button></li>
-                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide03-slide04" aria-label="Go to slide 4"></button></li>
-                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide03-slide05" aria-label="Go to slide 5"></button></li>
-                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide03-slide06" aria-label="Go to slide 6"></button></li>
-                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide03-slide07" aria-label="Go to slide 7"></button></li>
-                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide03-slide08" aria-label="Go to slide 8"></button></li>
-                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide03-slide09" aria-label="Go to slide 9"></button></li>
-                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide03-slide10" aria-label="Go to slide 10"></button></li>
-                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide03-slide11" aria-label="Go to slide 11"></button></li>
-                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide03-slide12" aria-label="Go to slide 12"></button></li>
-                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide03-slide13" aria-label="Go to slide 13"></button></li>
-                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide03-slide14" aria-label="Go to slide 14"></button></li>
-                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide03-slide15" aria-label="Go to slide 15"></button></li>
-                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide03-slide16" aria-label="Go to slide 16"></button></li>
-                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide03-slide17" aria-label="Go to slide 17"></button></li>
-                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide03-slide18" aria-label="Go to slide 18"></button></li>
+                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide01-slide01" aria-label="Go to slide 1"></button></li>
+                                          <li><button class="splide__pagination__page is-active" type="button" aria-controls="splide01-slide02" aria-label="Go to slide 2" aria-current="true"></button></li>
+                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide01-slide03" aria-label="Go to slide 3"></button></li>
+                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide01-slide04" aria-label="Go to slide 4"></button></li>
+                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide01-slide05" aria-label="Go to slide 5"></button></li>
+                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide01-slide06" aria-label="Go to slide 6"></button></li>
+                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide01-slide07" aria-label="Go to slide 7"></button></li>
+                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide01-slide08" aria-label="Go to slide 8"></button></li>
+                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide01-slide09" aria-label="Go to slide 9"></button></li>
+                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide01-slide10" aria-label="Go to slide 10"></button></li>
+                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide01-slide11" aria-label="Go to slide 11"></button></li>
+                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide01-slide12" aria-label="Go to slide 12"></button></li>
+                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide01-slide13" aria-label="Go to slide 13"></button></li>
+                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide01-slide14" aria-label="Go to slide 14"></button></li>
+                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide01-slide15" aria-label="Go to slide 15"></button></li>
+                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide01-slide16" aria-label="Go to slide 16"></button></li>
+                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide01-slide17" aria-label="Go to slide 17"></button></li>
+                                          <li><button class="splide__pagination__page" type="button" aria-controls="splide01-slide18" aria-label="Go to slide 18"></button></li>
                                        </ul>
                                     </div>
                                     <div class="panel_gallery_module">
@@ -185,7 +184,7 @@
                                  <!---->
                                  <div class="ticker marquee-text-wrap">
                                     <div class="marquee-text-content">
-                                       <div class="marquee-text-text" style="animation-duration: 1743.02s;">
+                                       <div class="marquee-text-text" style="animation-duration: 1698.72s;">
                                           <div class="marquee_news">
                                              <div class="ticker_content_cover">
                                                 <div class="news">
@@ -1897,7 +1896,7 @@
                                              </div>
                                           </div>
                                        </div>
-                                       <div class="marquee-text-text" style="animation-duration: 1743.02s;">
+                                       <div class="marquee-text-text" style="animation-duration: 1698.72s;">
                                           <div class="marquee_news">
                                              <div class="ticker_content_cover">
                                                 <div class="news">
@@ -3609,7 +3608,7 @@
                                              </div>
                                           </div>
                                        </div>
-                                       <div class="marquee-text-text" style="animation-duration: 1743.02s;">
+                                       <div class="marquee-text-text" style="animation-duration: 1698.72s;">
                                           <div class="marquee_news">
                                              <div class="ticker_content_cover">
                                                 <div class="news">
@@ -5321,7 +5320,7 @@
                                              </div>
                                           </div>
                                        </div>
-                                       <div class="marquee-text-text" style="animation-duration: 1743.02s;">
+                                       <div class="marquee-text-text" style="animation-duration: 1698.72s;">
                                           <div class="marquee_news">
                                              <div class="ticker_content_cover">
                                                 <div class="news">
@@ -7038,8 +7037,8 @@
                               </div>
                            </panel-ticker>
                         </div>
-                        <div class="ng-star-inserted"></div>
-                        <div class="ng-star-inserted"></div>
+                        <div></div>
+                        <div></div>
                         <!----><!---->
                      </app-static-inner-content>
                      <app-static-inner-content contentcode="m_sportsbet">
@@ -7048,46 +7047,46 @@
                      <div class="horizontal-slide-tabs flex-container main">
                         <a href="javascript:;" class="horizontal-slide-left-btn"><i class="material-icons slide-icon">chevron_left</i></a>
                         <div class="horizontal-slide-content flex-item">
-                           <!----><a routerlinkactive="active" class="horizontal-slide-tab" href="/tr/bet/sports"><span class="icon"><i class="icon soccer pg-icons"></i></span><span class="type truncate"> Sporlar </span></a><a routerlinkactive="active" class="horizontal-slide-tab" href="/tr/bet/live"><span class="icon"><i class="icon stream-icon pg-icons"></i></span><span class="type truncate"> Canlı Bahis </span></a><!----><!----><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/games/casino"><span class="icon"><i aria-hidden="true" class="fa fa-usd"></i></span><span class="type truncate"> Casino </span></a><!----><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/games/livecasino"><span class="icon"><i class="icon cards-fill pg-icons"></i></span><span class="type truncate"> Canlı Casino </span></a><!----><a routerlinkactive="active" class="horizontal-slide-tab" href="/tr/bet/virtuals"><span class="icon"><i class="fa fa-university pg-icons"></i></span><span class="type truncate"> Sanal Bahis </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/binary"><span class="icon"><i class="fa fa-bold pg-icons"></i></span><span class="type truncate"> Trade ile Kazanın! </span><span class="menu-new-item">Yeni</span></a><!----><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/games/poker"><span class="icon"><i class="icon pg-icons chip"></i></span><span class="type truncate"> Poker </span></a><!----><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/games/casino/detail/demo/15686"><span class="icon"><i class="fa fa-space-shuttle pg-icons"></i></span><span class="type truncate"> SpinX </span><span class="menu-new-item">Yeni</span></a><!----><!----><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/ultraplay-esports"><span class="icon"><i class="pg-icons icon counter-strike"></i></span><span class="type truncate"> E-Sporlar </span></a><!----><!----><!----><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/football"><span class="icon"><i class="pg-icons sport-types-1 svg-font-icons"></i></span><span class="type truncate"> Futbol </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/e-football"><span class="icon"><i class="pg-icons sport-types-137 svg-font-icons"></i></span><span class="type truncate"> e-Futbol </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/basketball"><span class="icon"><i class="pg-icons sport-types-2 svg-font-icons"></i></span><span class="type truncate"> Basketbol </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/ice-hockey"><span class="icon"><i class="pg-icons sport-types-4 svg-font-icons"></i></span><span class="type truncate"> Buz Hokeyi </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/tennis"><span class="icon"><i class="pg-icons sport-types-5 svg-font-icons"></i></span><span class="type truncate"> Tenis </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/volleyball"><span class="icon"><i class="pg-icons sport-types-23 svg-font-icons"></i></span><span class="type truncate"> Voleybol </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/boxing"><span class="icon"><i class="pg-icons sport-types-10 svg-font-icons"></i></span><span class="type truncate"> Boks </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/table-tennis"><span class="icon"><i class="pg-icons sport-types-20 svg-font-icons"></i></span><span class="type truncate"> Masa Tenisi </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/badminton"><span class="icon"><i class="pg-icons sport-types-31 svg-font-icons"></i></span><span class="type truncate"> Badminton </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/beach-volley"><span class="icon"><i class="pg-icons sport-types-34 svg-font-icons"></i></span><span class="type truncate"> Plaj Voleybolu </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/basketball-3x3"><span class="icon"><i class="pg-icons sport-types-155 svg-font-icons"></i></span><span class="type truncate"> 3x3 Basketbol </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/waterpolo"><span class="icon"><i class="pg-icons sport-types-26 svg-font-icons"></i></span><span class="type truncate"> Sutopu </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/snooker"><span class="icon"><i class="pg-icons sport-types-19 svg-font-icons"></i></span><span class="type truncate"> Snooker </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/handball"><span class="icon"><i class="pg-icons sport-types-6 svg-font-icons"></i></span><span class="type truncate"> Hentbol </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/baseball"><span class="icon"><i class="pg-icons sport-types-3 svg-font-icons"></i></span><span class="type truncate"> Beyzbol </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/dart"><span class="icon"><i class="pg-icons sport-types-22 svg-font-icons"></i></span><span class="type truncate"> Dart </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/field-hockey"><span class="icon"><i class="pg-icons sport-types-24 svg-font-icons"></i></span><span class="type truncate"> Çim Hokeyi </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/cricket"><span class="icon"><i class="pg-icons sport-types-21 svg-font-icons"></i></span><span class="type truncate"> Kriket </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/pesapallo"><span class="icon"><i class="pg-icons sport-types-61 svg-font-icons"></i></span><span class="type truncate"> Pesapallo </span></a><!----><!----><!---->
+                           <!----><a routerlinkactive="active" class="horizontal-slide-tab" href="/tr/bet/sports"><span class="icon"><i class="icon soccer pg-icons"></i></span><span class="type truncate"> Sporlar </span></a><a routerlinkactive="active" class="horizontal-slide-tab" href="/tr/bet/live"><span class="icon"><i class="icon stream-icon pg-icons"></i></span><span class="type truncate"> Canlı Bahis </span></a><!----><!----><a routerlinkactive="active" class="horizontal-slide-tab" href="/tr/games/casino"><span class="icon"><i aria-hidden="true" class="fa fa-usd"></i></span><span class="type truncate"> Casino </span></a><!----><a routerlinkactive="active" class="horizontal-slide-tab" href="/tr/games/livecasino"><span class="icon"><i class="icon cards-fill pg-icons"></i></span><span class="type truncate"> Canlı Casino </span></a><!----><a routerlinkactive="active" class="horizontal-slide-tab" href="/tr/bet/virtuals"><span class="icon"><i class="fa fa-university pg-icons"></i></span><span class="type truncate"> Sanal Bahis </span></a><a routerlinkactive="active" class="horizontal-slide-tab" href="/tr/bet/binary"><span class="icon"><i class="fa fa-bold pg-icons"></i></span><span class="type truncate"> Trade ile Kazanın! </span><span class="menu-new-item">Yeni</span></a><!----><a routerlinkactive="active" class="horizontal-slide-tab" href="/tr/games/poker"><span class="icon"><i class="icon pg-icons chip"></i></span><span class="type truncate"> Poker </span></a><!----><a routerlinkactive="active" class="horizontal-slide-tab" href="/tr/games/casino/detail/demo/15686"><span class="icon"><i class="fa fa-space-shuttle pg-icons"></i></span><span class="type truncate"> SpinX </span><span class="menu-new-item">Yeni</span></a><!----><!----><a routerlinkactive="active" class="horizontal-slide-tab" href="/tr/bet/ultraplay-esports"><span class="icon"><i class="pg-icons icon counter-strike"></i></span><span class="type truncate"> E-Sporlar </span></a><!----><!----><!----><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/football"><span class="icon"><i class="pg-icons sport-types-1 svg-font-icons"></i></span><span class="type truncate"> Futbol </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/e-football"><span class="icon"><i class="pg-icons sport-types-137 svg-font-icons"></i></span><span class="type truncate"> e-Futbol </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/basketball"><span class="icon"><i class="pg-icons sport-types-2 svg-font-icons"></i></span><span class="type truncate"> Basketbol </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/ice-hockey"><span class="icon"><i class="pg-icons sport-types-4 svg-font-icons"></i></span><span class="type truncate"> Buz Hokeyi </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/tennis"><span class="icon"><i class="pg-icons sport-types-5 svg-font-icons"></i></span><span class="type truncate"> Tenis </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/volleyball"><span class="icon"><i class="pg-icons sport-types-23 svg-font-icons"></i></span><span class="type truncate"> Voleybol </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/boxing"><span class="icon"><i class="pg-icons sport-types-10 svg-font-icons"></i></span><span class="type truncate"> Boks </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/table-tennis"><span class="icon"><i class="pg-icons sport-types-20 svg-font-icons"></i></span><span class="type truncate"> Masa Tenisi </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/badminton"><span class="icon"><i class="pg-icons sport-types-31 svg-font-icons"></i></span><span class="type truncate"> Badminton </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/beach-volley"><span class="icon"><i class="pg-icons sport-types-34 svg-font-icons"></i></span><span class="type truncate"> Plaj Voleybolu </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/basketball-3x3"><span class="icon"><i class="pg-icons sport-types-155 svg-font-icons"></i></span><span class="type truncate"> 3x3 Basketbol </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/waterpolo"><span class="icon"><i class="pg-icons sport-types-26 svg-font-icons"></i></span><span class="type truncate"> Sutopu </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/snooker"><span class="icon"><i class="pg-icons sport-types-19 svg-font-icons"></i></span><span class="type truncate"> Snooker </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/handball"><span class="icon"><i class="pg-icons sport-types-6 svg-font-icons"></i></span><span class="type truncate"> Hentbol </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/baseball"><span class="icon"><i class="pg-icons sport-types-3 svg-font-icons"></i></span><span class="type truncate"> Beyzbol </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/dart"><span class="icon"><i class="pg-icons sport-types-22 svg-font-icons"></i></span><span class="type truncate"> Dart </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/field-hockey"><span class="icon"><i class="pg-icons sport-types-24 svg-font-icons"></i></span><span class="type truncate"> Çim Hokeyi </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/cricket"><span class="icon"><i class="pg-icons sport-types-21 svg-font-icons"></i></span><span class="type truncate"> Kriket </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/today-events/pesapallo"><span class="icon"><i class="pg-icons sport-types-61 svg-font-icons"></i></span><span class="type truncate"> Pesapallo </span></a><!----><!----><!---->
                         </div>
                         <a href="javascript:;" class="horizontal-slide-right-btn"><i class="material-icons slide-icon">chevron_right</i></a>
                      </div>
                      <main>
                         <!---->
-                        <div id="type1" class="ng-star-inserted">
-                           <app-main-tabs class="ng-star-inserted">
-                              <ul class="main tabs flex-container ng-star-inserted">
-                                 <li class="tab flex-item ng-star-inserted">
+                        <div id="type1">
+                           <app-main-tabs>
+                              <ul class="main tabs flex-container">
+                                 <li class="tab flex-item">
                                     <a class="active">
                                        <div>
-                                          <!----><span class="ng-star-inserted">Günün Maçları</span><!----><!----><!----><!----><!---->
+                                          <!----><span>Günün Maçları</span><!----><!----><!----><!----><!---->
                                        </div>
                                     </a>
                                  </li>
-                                 <li class="tab flex-item ng-star-inserted">
+                                 <li class="tab flex-item">
                                     <a>
                                        <div>
-                                          <span class="ng-star-inserted">Canlı </span><!----><!----><!----><!----><!----><!---->
+                                          <span>Canlı </span><!----><!----><!----><!----><!----><!---->
                                        </div>
                                     </a>
                                  </li>
-                                 <li class="tab flex-item ng-star-inserted">
+                                 <li class="tab flex-item">
                                     <a>
                                        <div>
-                                          <!----><!----><!----><span class="ng-star-inserted">Birazdan Oynanacaklar</span><!----><!----><!---->
+                                          <!----><!----><!----><span>Birazdan Oynanacaklar</span><!----><!----><!---->
                                        </div>
                                     </a>
                                  </li>
                                  <!---->
                               </ul>
                               <!---->
-                              <div id="type-today-matches" class="ng-star-inserted">
+                              <div id="type-today-matches">
                                  <todays-sport-types class="ng-star-inserted">
                                     <div accordion="" class="modul-accordion ng-star-inserted">
                                        <div class="modul-header" hidden=""><span class="header-text"> Günün Maçları </span><i class="fa fa-chevron-right right"></i></div>
                                        <div class="modul-content">
                                           <div class="list-btn-cont">
-                                             <a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/football"><i class="pg-icons sport-types-1 svg-font-icons"></i><span class="flex-item text">Futbol</span><span class="count">162</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/e-football"><i class="pg-icons sport-types-137 svg-font-icons"></i><span class="flex-item text">e-Futbol</span><span class="count">13</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/basketball"><i class="pg-icons sport-types-2 svg-font-icons"></i><span class="flex-item text">Basketbol</span><span class="count">4</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/ice-hockey"><i class="pg-icons sport-types-4 svg-font-icons"></i><span class="flex-item text">Buz Hokeyi</span><span class="count">2</span></a><a href="/tr/bet/virtuals" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-1 svg-font-icons"></i><span class="flex-item text">Sanal Sporlar</span></a><!----><!----><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/tennis"><i class="pg-icons sport-types-5 svg-font-icons"></i><span class="flex-item text">Tenis</span><span class="count">319</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/volleyball"><i class="pg-icons sport-types-23 svg-font-icons"></i><span class="flex-item text">Voleybol</span><span class="count">4</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/boxing"><i class="pg-icons sport-types-10 svg-font-icons"></i><span class="flex-item text">Boks</span><span class="count">21</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/table-tennis"><i class="pg-icons sport-types-20 svg-font-icons"></i><span class="flex-item text">Masa Tenisi</span><span class="count">146</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/badminton"><i class="pg-icons sport-types-31 svg-font-icons"></i><span class="flex-item text">Badminton</span><span class="count">21</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/beach-volley"><i class="pg-icons sport-types-34 svg-font-icons"></i><span class="flex-item text">Plaj Voleybolu</span><span class="count">7</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/basketball-3x3"><i class="pg-icons sport-types-155 svg-font-icons"></i><span class="flex-item text">3x3 Basketbol</span><span class="count">6</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/waterpolo"><i class="pg-icons sport-types-26 svg-font-icons"></i><span class="flex-item text">Sutopu</span><span class="count">4</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/snooker"><i class="pg-icons sport-types-19 svg-font-icons"></i><span class="flex-item text">Snooker</span><span class="count">9</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/handball"><i class="pg-icons sport-types-6 svg-font-icons"></i><span class="flex-item text">Hentbol</span><span class="count">5</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/baseball"><i class="pg-icons sport-types-3 svg-font-icons"></i><span class="flex-item text">Beyzbol</span><span class="count">17</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/dart"><i class="pg-icons sport-types-22 svg-font-icons"></i><span class="flex-item text">Dart</span><span class="count">12</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/field-hockey"><i class="pg-icons sport-types-24 svg-font-icons"></i><span class="flex-item text">Çim Hokeyi</span><span class="count">6</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/cricket"><i class="pg-icons sport-types-21 svg-font-icons"></i><span class="flex-item text">Kriket</span><span class="count">11</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/pesapallo"><i class="pg-icons sport-types-61 svg-font-icons"></i><span class="flex-item text">Pesapallo</span><span class="count">6</span></a><!----><!----><!----><!---->
+                                             <a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/football"><i class="pg-icons sport-types-1 svg-font-icons"></i><span class="flex-item text">Futbol</span><span class="count">162</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/e-football"><i class="pg-icons sport-types-137 svg-font-icons"></i><span class="flex-item text">e-Futbol</span><span class="count">13</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/basketball"><i class="pg-icons sport-types-2 svg-font-icons"></i><span class="flex-item text">Basketbol</span><span class="count">4</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/ice-hockey"><i class="pg-icons sport-types-4 svg-font-icons"></i><span class="flex-item text">Buz Hokeyi</span><span class="count">2</span></a><a href="/tr/bet/virtuals" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-1 svg-font-icons"></i><span class="flex-item text">Sanal Sporlar</span></a><!----><!----><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/tennis"><i class="pg-icons sport-types-5 svg-font-icons"></i><span class="flex-item text">Tenis</span><span class="count">320</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/volleyball"><i class="pg-icons sport-types-23 svg-font-icons"></i><span class="flex-item text">Voleybol</span><span class="count">4</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/boxing"><i class="pg-icons sport-types-10 svg-font-icons"></i><span class="flex-item text">Boks</span><span class="count">23</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/table-tennis"><i class="pg-icons sport-types-20 svg-font-icons"></i><span class="flex-item text">Masa Tenisi</span><span class="count">150</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/badminton"><i class="pg-icons sport-types-31 svg-font-icons"></i><span class="flex-item text">Badminton</span><span class="count">21</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/beach-volley"><i class="pg-icons sport-types-34 svg-font-icons"></i><span class="flex-item text">Plaj Voleybolu</span><span class="count">7</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/basketball-3x3"><i class="pg-icons sport-types-155 svg-font-icons"></i><span class="flex-item text">3x3 Basketbol</span><span class="count">6</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/waterpolo"><i class="pg-icons sport-types-26 svg-font-icons"></i><span class="flex-item text">Sutopu</span><span class="count">4</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/snooker"><i class="pg-icons sport-types-19 svg-font-icons"></i><span class="flex-item text">Snooker</span><span class="count">9</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/handball"><i class="pg-icons sport-types-6 svg-font-icons"></i><span class="flex-item text">Hentbol</span><span class="count">5</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/baseball"><i class="pg-icons sport-types-3 svg-font-icons"></i><span class="flex-item text">Beyzbol</span><span class="count">17</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/dart"><i class="pg-icons sport-types-22 svg-font-icons"></i><span class="flex-item text">Dart</span><span class="count">12</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/field-hockey"><i class="pg-icons sport-types-24 svg-font-icons"></i><span class="flex-item text">Çim Hokeyi</span><span class="count">6</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/cricket"><i class="pg-icons sport-types-21 svg-font-icons"></i><span class="flex-item text">Kriket</span><span class="count">11</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/pesapallo"><i class="pg-icons sport-types-61 svg-font-icons"></i><span class="flex-item text">Pesapallo</span><span class="count">6</span></a><!----><!----><!----><!---->
                                           </div>
                                        </div>
                                     </div>
@@ -7096,7 +7095,7 @@
                                  <!---->
                               </div>
                               <!----><!----><!---->
-                              <div id="type-live-at-now" hidden="" class="ng-star-inserted">
+                              <div id="type-live-at-now" hidden="">
                                  <live-at-now class="ng-star-inserted">
                                     <div accordion="" class="liveOverview-modul ng-star-inserted">
                                        <div class="liveOverview-container">
@@ -7116,7 +7115,7 @@
                                                                <span class="now">1 : 2</span>
                                                                <b>
                                                                   <span class="minutes">
-                                                                     2. Devre <span class="ng-star-inserted">60:29''</span><!---->
+                                                                     2. Devre <span class="ng-star-inserted">65:00''</span><!---->
                                                                   </span>
                                                                </b>
                                                             </div>
@@ -7127,11 +7126,11 @@
                                                             <div class="icons">
                                                                <div class="live"> Canlı </div>
                                                             </div>
-                                                            <span class="btn other-btn">+97</span>
+                                                            <span class="btn other-btn">+91</span>
                                                          </div>
                                                       </a>
                                                       <div class="odd-btn-group flex-container">
-                                                         <a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow rate-up-small ng-star-inserted" title="Real Oviedo" foid="8642306514"><span class="bet-btn-odd">7.81</span><span class="bet-btn-text">Real Oviedo</span></a><a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow rate-down-small ng-star-inserted" title="Beraberlik" foid="8642306515"><span class="bet-btn-odd">3.32</span><span class="bet-btn-text">Beraberlik</span></a><a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow rate-down-small ng-star-inserted" title="AL Ittifaq FC" foid="8642306516"><span class="bet-btn-odd">1.61</span><span class="bet-btn-text">AL Ittifaq FC</span></a><!---->
+                                                         <a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow ng-star-inserted" title="Real Oviedo" foid="8642306514"><span class="bet-btn-odd">8.39</span><span class="bet-btn-text">Real Oviedo</span></a><a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow ng-star-inserted" title="Beraberlik" foid="8642306515"><span class="bet-btn-odd">3.36</span><span class="bet-btn-text">Beraberlik</span></a><a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow ng-star-inserted" title="AL Ittifaq FC" foid="8642306516"><span class="bet-btn-odd">1.58</span><span class="bet-btn-text">AL Ittifaq FC</span></a><!---->
                                                       </div>
                                                    </div>
                                                    <!----><!---->
@@ -7167,10 +7166,10 @@
                                                          <span class="match-title flex-item">
                                                             <div class="match-name">Nonthaburi Uni. S.b. FC - Saimit Kab. Uni. FC</div>
                                                             <div class="live-score-panel match-data">
-                                                               <span class="now">0 : 1</span>
+                                                               <span class="now">1 : 1</span>
                                                                <b>
                                                                   <span class="minutes">
-                                                                     1. Devre <span class="ng-star-inserted">18:45''</span><!---->
+                                                                     1. Devre <span class="ng-star-inserted">23:18''</span><!---->
                                                                   </span>
                                                                </b>
                                                             </div>
@@ -7181,11 +7180,11 @@
                                                             <div class="icons">
                                                                <div class="live"> Canlı </div>
                                                             </div>
-                                                            <span class="btn other-btn">+255</span>
+                                                            <span class="btn other-btn">+214</span>
                                                          </div>
                                                       </a>
                                                       <div class="odd-btn-group flex-container">
-                                                         <a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow rate-up-small ng-star-inserted" title="Nonthaburi United S.boonmeerit FC" foid="8645191434"><span class="bet-btn-odd">6.58</span><span class="bet-btn-text">Nonthaburi United S.boonmeerit FC</span></a><a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow rate-up-small ng-star-inserted" title="Beraberlik" foid="8645191435"><span class="bet-btn-odd">4.68</span><span class="bet-btn-text">Beraberlik</span></a><a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow rate-down-small ng-star-inserted" title="Saimit Kabin United FC" foid="8645191436"><span class="bet-btn-odd">1.46</span><span class="bet-btn-text">Saimit Kabin United FC</span></a><!---->
+                                                         <a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow ng-star-inserted rate-up-small" title="Nonthaburi United S.boonmeerit FC" foid="8645191434"><span class="bet-btn-odd">3.18</span><span class="bet-btn-text">Nonthaburi United S.boonmeerit FC</span></a><a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow ng-star-inserted rate-down-small" title="Beraberlik" foid="8645191435"><span class="bet-btn-odd">3.43</span><span class="bet-btn-text">Beraberlik</span></a><a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow ng-star-inserted rate-down-small" title="Saimit Kabin United FC" foid="8645191436"><span class="bet-btn-odd">2.25</span><span class="bet-btn-text">Saimit Kabin United FC</span></a><!---->
                                                       </div>
                                                    </div>
                                                    <!----><!---->
@@ -7197,7 +7196,7 @@
                                                                <span class="now">0 : 0</span>
                                                                <b>
                                                                   <span class="minutes">
-                                                                     1. Devre <span class="ng-star-inserted">19:49''</span><!---->
+                                                                     1. Devre <span class="ng-star-inserted">24:23''</span><!---->
                                                                   </span>
                                                                </b>
                                                             </div>
@@ -7212,10 +7211,10 @@
                                                          </div>
                                                       </a>
                                                       <div class="odd-btn-group flex-container">
-                                                         <a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow ng-star-inserted" title="FK Zlatibor Cajetina" foid="8645185651"><span class="bet-btn-odd">2.41</span><span class="bet-btn-text">FK Zlatibor Cajetina</span></a><a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow ng-star-inserted" title="Beraberlik" foid="8645185652"><span class="bet-btn-odd">3.53</span><span class="bet-btn-text">Beraberlik</span></a><a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow ng-star-inserted" title="FK Igalo 1929" foid="8645185653"><span class="bet-btn-odd">2.85</span><span class="bet-btn-text">FK Igalo 1929</span></a><!---->
+                                                         <a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow ng-star-inserted" title="FK Zlatibor Cajetina" foid="8645185651"><span class="bet-btn-odd">2.45</span><span class="bet-btn-text">FK Zlatibor Cajetina</span></a><a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow ng-star-inserted" title="Beraberlik" foid="8645185652"><span class="bet-btn-odd">3.44</span><span class="bet-btn-text">Beraberlik</span></a><a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow ng-star-inserted" title="FK Igalo 1929" foid="8645185653"><span class="bet-btn-odd">2.85</span><span class="bet-btn-text">FK Igalo 1929</span></a><!---->
                                                       </div>
                                                    </div>
-                                                   <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                                                   <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                                 </div>
                                                 <div class="ng-star-inserted"><a routerlinkactive="active" class="show-more-other" href="/tr/bet/live/170">Tümünü Göster</a></div>
                                                 <!---->
@@ -7228,7 +7227,7 @@
                                  <!---->
                               </div>
                               <!----><!----><!---->
-                              <div id="type-upcoming-matches" hidden="" class="ng-star-inserted">
+                              <div id="type-upcoming-matches" hidden="">
                                  <upcoming-events class="ng-star-inserted">
                                     <div id="type11">
                                        <div accordion="" class="modul-accordion">
@@ -7789,9 +7788,9 @@
                            <!---->
                         </div>
                         <!---->
-                        <div id="type2" class="ng-star-inserted">
-                           <virtual-sport-list class="ng-star-inserted">
-                              <div class="virtual-sport-list ng-star-inserted">
+                        <div id="type2">
+                           <virtual-sport-list>
+                              <div class="virtual-sport-list">
                                  <div accordion="" class="modul-accordion">
                                     <div class="modul-header"><span class="header-text"> Betradar Sanallar </span><i class="fa fa-chevron-right right"></i></div>
                                     <div class="modul-content">
@@ -7801,7 +7800,7 @@
                                              <div class="content-horizontal-slide-tabs flex-container main">
                                                 <a href="javascript:;" class="horizontal-slide-left-btn"><i class="material-icons slide-icon">chevron_left</i></a>
                                                 <div class="horizontal-slide-content flex-item">
-                                                   <a class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/virtuals/betradar/bundesliga"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate">Sanal Bundesliga</span></a><!----><!----><!----><a class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/virtuals/betradar/league-mode"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate">Futbol Lig Mod</span></a><!----><!----><!----><a class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/virtuals/betradar/basketball"><span class="icon"><i class="pg-icons sport-types-2 st-font-icons"></i></span><span class="type truncate">Sanal NBA</span></a><!----><!----><!----><a class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/virtuals/betradar/world-cup"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate">Dünya Kupası</span></a><!----><!----><!----><a class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/virtuals/betradar/euro-cup"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate">Avrupa Kupası</span></a><!----><!----><!----><a class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/virtuals/betradar/nations-cup"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate">Futbol Nations Cup</span></a><!----><!----><!----><a class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/virtuals/betradar/champions-cup"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate">Şampiyonlar Kupası</span></a><!----><!----><!----><a class="horizontal-slide-tab ng-star-inserted" href="/tr/bet/virtuals/betradar/asian-cup"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate">Asian Kupası</span></a><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                                                   <a class="horizontal-slide-tab" href="/tr/bet/virtuals/betradar/bundesliga"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate">Sanal Bundesliga</span></a><!----><!----><!----><a class="horizontal-slide-tab" href="/tr/bet/virtuals/betradar/league-mode"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate">Futbol Lig Mod</span></a><!----><!----><!----><a class="horizontal-slide-tab" href="/tr/bet/virtuals/betradar/basketball"><span class="icon"><i class="pg-icons sport-types-2 st-font-icons"></i></span><span class="type truncate">Sanal NBA</span></a><!----><!----><!----><a class="horizontal-slide-tab" href="/tr/bet/virtuals/betradar/world-cup"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate">Dünya Kupası</span></a><!----><!----><!----><a class="horizontal-slide-tab" href="/tr/bet/virtuals/betradar/euro-cup"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate">Avrupa Kupası</span></a><!----><!----><!----><a class="horizontal-slide-tab" href="/tr/bet/virtuals/betradar/nations-cup"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate">Futbol Nations Cup</span></a><!----><!----><!----><a class="horizontal-slide-tab" href="/tr/bet/virtuals/betradar/champions-cup"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate">Şampiyonlar Kupası</span></a><!----><!----><!----><a class="horizontal-slide-tab" href="/tr/bet/virtuals/betradar/asian-cup"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate">Asian Kupası</span></a><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                                 </div>
                                                 <a href="javascript:;" class="horizontal-slide-right-btn"><i class="material-icons slide-icon">chevron_right</i></a>
                                              </div>
@@ -7816,8 +7815,8 @@
                            <!---->
                         </div>
                         <!---->
-                        <div id="type3" class="ng-star-inserted">
-                           <popular-odds ng-version="12.2.13" class="ng-star-inserted">
+                        <div id="type3">
+                           <popular-odds ng-version="12.2.13">
                               <div accordion="" class="modul-accordion populer-events populer-team-bets ng-star-inserted">
                                  <div class="modul-header"><span class="header-text"> Popüler Bahisler </span><i class="fa fa-chevron-right right"></i></div>
                                  <div class="modul-content">
@@ -8030,15 +8029,15 @@
                            <!---->
                         </div>
                         <!---->
-                        <div id="type4" class="ng-star-inserted">
-                           <app-top-list-widget class="ng-star-inserted">
+                        <div id="type4">
+                           <app-top-list-widget>
                               <!----><!---->
                            </app-top-list-widget>
                            <!---->
                         </div>
                         <!---->
-                        <div id="type5" class="ng-star-inserted">
-                           <popular-events class="ng-star-inserted">
+                        <div id="type5">
+                           <popular-events>
                               <div accordion="" class="modul-accordion populer-events ng-star-inserted">
                                  <div class="modul-header"><span class="header-text"> En Çok Tercih Edilenler </span><i class="fa fa-chevron-right right"></i></div>
                                  <div class="modul-content">
@@ -8049,15 +8048,15 @@
                                              <!---->
                                              <a href="javascript:;" class="match-header flex-container ng-star-inserted">
                                                 <div class="content-left flex-container">
-                                                   <div class="time"><span class="clock">20:00</span><span class="date">31/07</span></div>
+                                                   <div class="time"><span class="clock">22:00</span><span class="date">31/07</span></div>
                                                    <div class="team-name truncate">
                                                       <span class="item">
                                                          <app-teams-logo><img class="hide" src="//jersey.pronetstatic.com/jersey/2_home.svg"></app-teams-logo>
-                                                         <span appopenfixturedetail="" class="text truncate">Zambiya</span>
+                                                         <span appopenfixturedetail="" class="text truncate">Yeni Zelanda</span>
                                                       </span>
                                                       <span class="item">
                                                          <app-teams-logo><img class="hide" src="//jersey.pronetstatic.com/jersey/2_away.svg"></app-teams-logo>
-                                                         <span appopenfixturedetail="" class="text truncate">Almanya</span>
+                                                         <span appopenfixturedetail="" class="text truncate">Fransa</span>
                                                       </span>
                                                    </div>
                                                 </div>
@@ -8070,12 +8069,12 @@
                                                       <div class="live ng-star-inserted"> Canlı </div>
                                                       <!----><button class="statistic-btn ng-star-inserted"><i class="material-icons pg-icons">equalizer</i></button><!---->
                                                    </div>
-                                                   <span appopenfixturedetail="" class="btn other-btn">+412</span>
+                                                   <span appopenfixturedetail="" class="btn other-btn">+407</span>
                                                 </div>
                                              </a>
                                              <div class="bet-type ng-star-inserted">1x2</div>
                                              <div class="odd-btn-group flex-container ng-star-inserted">
-                                                <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Ev Sahibi" foid="8636399948"><span class="bet-btn-odd">14.69</span><span class="bet-btn-text">Ev Sahibi</span></a><!----><!----><!----><!----><!----><a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Beraberlik" foid="8636399949"><span class="bet-btn-odd">9.26</span><span class="bet-btn-text">Beraberlik</span></a><!----><!----><!----><!----><!----><a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Deplasman" foid="8636399950"><span class="bet-btn-odd">1.13</span><span class="bet-btn-text">Deplasman</span></a><!----><!----><!----><!----><!----><!---->
+                                                <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Ev Sahibi" foid="8636357786"><span class="bet-btn-odd">16.58</span><span class="bet-btn-text">Ev Sahibi</span></a><!----><!----><!----><!----><!----><a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Beraberlik" foid="8636357787"><span class="bet-btn-odd">8.26</span><span class="bet-btn-text">Beraberlik</span></a><!----><!----><!----><!----><!----><a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Deplasman" foid="8636357788"><span class="bet-btn-odd">1.14</span><span class="bet-btn-text">Deplasman</span></a><!----><!----><!----><!----><!----><!---->
                                              </div>
                                              <!----><!----><!---->
                                           </div>
@@ -8154,41 +8153,6 @@
                                              <!---->
                                              <a href="javascript:;" class="match-header flex-container ng-star-inserted">
                                                 <div class="content-left flex-container">
-                                                   <div class="time"><span class="clock">13:30</span><span class="date">31/07</span></div>
-                                                   <div class="team-name truncate">
-                                                      <span class="item">
-                                                         <app-teams-logo><img class="hide" src="//jersey.pronetstatic.com/jersey/2_home.svg"></app-teams-logo>
-                                                         <span appopenfixturedetail="" class="text truncate">Urawa Red Diamonds</span>
-                                                      </span>
-                                                      <span class="item">
-                                                         <app-teams-logo><img class="hide" src="//jersey.pronetstatic.com/jersey/2_away.svg"></app-teams-logo>
-                                                         <span appopenfixturedetail="" class="text truncate">Newcastle United FC</span>
-                                                      </span>
-                                                   </div>
-                                                </div>
-                                                <div class="content-right">
-                                                   <div class="icons">
-                                                      <div appopenfixturedetail="" class="build-a-bet ng-star-inserted">
-                                                         <div class="build-a-bet-text">BS</div>
-                                                      </div>
-                                                      <!----><!---->
-                                                      <div class="live ng-star-inserted"> Canlı </div>
-                                                      <!----><button class="statistic-btn ng-star-inserted"><i class="material-icons pg-icons">equalizer</i></button><!---->
-                                                   </div>
-                                                   <span appopenfixturedetail="" class="btn other-btn">+693</span>
-                                                </div>
-                                             </a>
-                                             <div class="bet-type ng-star-inserted">1x2</div>
-                                             <div class="odd-btn-group flex-container ng-star-inserted">
-                                                <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Ev Sahibi" foid="8637318641"><span class="bet-btn-odd">3.32</span><span class="bet-btn-text">Ev Sahibi</span></a><!----><!----><!----><!----><!----><a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Beraberlik" foid="8637318642"><span class="bet-btn-odd">4.09</span><span class="bet-btn-text">Beraberlik</span></a><!----><!----><!----><!----><!----><a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Deplasman" foid="8637318643"><span class="bet-btn-odd">1.94</span><span class="bet-btn-text">Deplasman</span></a><!----><!----><!----><!----><!----><!---->
-                                             </div>
-                                             <!----><!----><!---->
-                                          </div>
-                                          <!----><!---->
-                                          <div class="match-content ng-star-inserted">
-                                             <!---->
-                                             <a href="javascript:;" class="match-header flex-container ng-star-inserted">
-                                                <div class="content-left flex-container">
                                                    <div class="time"><span class="clock">12:30</span><span class="date">31/07</span></div>
                                                    <div class="team-name truncate">
                                                       <span class="item">
@@ -8215,7 +8179,7 @@
                                              </a>
                                              <div class="bet-type ng-star-inserted">1x2</div>
                                              <div class="odd-btn-group flex-container ng-star-inserted">
-                                                <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Ev Sahibi" foid="8638844375"><span class="bet-btn-odd">12.93</span><span class="bet-btn-text">Ev Sahibi</span></a><!----><!----><!----><!----><!----><a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Beraberlik" foid="8638844376"><span class="bet-btn-odd">8.78</span><span class="bet-btn-text">Beraberlik</span></a><!----><!----><!----><!----><!----><a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Deplasman" foid="8638844377"><span class="bet-btn-odd">1.15</span><span class="bet-btn-text">Deplasman</span></a><!----><!----><!----><!----><!----><!---->
+                                                <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Ev Sahibi" foid="8638844375"><span class="bet-btn-odd">11.73</span><span class="bet-btn-text">Ev Sahibi</span></a><!----><!----><!----><!----><!----><a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Beraberlik" foid="8638844376"><span class="bet-btn-odd">8.37</span><span class="bet-btn-text">Beraberlik</span></a><!----><!----><!----><!----><!----><a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Deplasman" foid="8638844377"><span class="bet-btn-odd">1.17</span><span class="bet-btn-text">Deplasman</span></a><!----><!----><!----><!----><!----><!---->
                                              </div>
                                              <!----><!----><!---->
                                           </div>
@@ -8265,452 +8229,452 @@
                            <!---->
                         </div>
                         <!---->
-                        <div id="type6" class="ng-star-inserted">
-                           <antepost-summary class="ng-star-inserted">
+                        <div id="type6">
+                           <antepost-summary>
                               <div accordion="" class="modul-accordion antrepostEvent-modul main-today-events ng-star-inserted">
                                  <div class="modul-header"><span class="header-text"> Uzun Vadeli Karşılaşmalar </span><i class="fa fa-chevron-right right"></i></div>
                                  <div class="modul-content">
-                                    <owl-carousel-o _nghost-orf-c77="">
-                                       <div _ngcontent-orf-c77="" class="owl-carousel owl-theme owl-loaded owl-responsive owl-drag">
-                                          <div _ngcontent-orf-c77="" class="owl-stage-outer ng-star-inserted">
-                                             <owl-stage _ngcontent-orf-c77="" class="ng-tns-c78-3 ng-star-inserted">
-                                                <div class="ng-tns-c78-3">
-                                                   <div class="owl-stage ng-tns-c78-3" style="width: 6401px; transform: translate3d(-1600px, 0px, 0px); transition: all;">
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                    <owl-carousel-o _nghost-rye-c77="">
+                                       <div _ngcontent-rye-c77="" class="owl-carousel owl-theme owl-loaded owl-responsive owl-drag">
+                                          <div _ngcontent-rye-c77="" class="owl-stage-outer ng-star-inserted">
+                                             <owl-stage _ngcontent-rye-c77="" class="ng-tns-c78-1 ng-star-inserted">
+                                                <div class="ng-tns-c78-1">
+                                                   <div class="owl-stage ng-tns-c78-1" style="width: 6401px; transform: translate3d(-1600px, 0px, 0px); transition: all;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/snooker" class="href-item"><span class="icon"><i class="pg-icons sport-types-19 st-font-icons"></i></span><span class="type truncate"> Snooker <br><small>318</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/american-football" class="href-item"><span class="icon"><i class="pg-icons sport-types-16 st-font-icons"></i></span><span class="type truncate"> Amerikan Futbolu <br><small>6459</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/handball" class="href-item"><span class="icon"><i class="pg-icons sport-types-6 st-font-icons"></i></span><span class="type truncate"> Hentbol <br><small>68</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/baseball" class="href-item"><span class="icon"><i class="pg-icons sport-types-3 st-font-icons"></i></span><span class="type truncate"> Beyzbol <br><small>361</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/aussie-rules" class="href-item"><span class="icon"><i class="pg-icons sport-types-13 st-font-icons"></i></span><span class="type truncate"> Avustralya Futbolu <br><small>194</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/golf" class="href-item"><span class="icon"><i class="pg-icons sport-types-9 st-font-icons"></i></span><span class="type truncate"> Golf <br><small>1566</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/rugby" class="href-item"><span class="icon"><i class="pg-icons sport-types-12 st-font-icons"></i></span><span class="type truncate"> Ragbi <br><small>367</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/dart" class="href-item"><span class="icon"><i class="pg-icons sport-types-22 st-font-icons"></i></span><span class="type truncate"> Dart <br><small>128</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/field-hockey" class="href-item"><span class="icon"><i class="pg-icons sport-types-24 st-font-icons"></i></span><span class="type truncate"> Çim Hokeyi <br><small>12</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/cricket" class="href-item"><span class="icon"><i class="pg-icons sport-types-21 st-font-icons"></i></span><span class="type truncate"> Kriket <br><small>357</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/biathlon" class="href-item"><span class="icon"><i class="pg-icons sport-types-44 st-font-icons"></i></span><span class="type truncate"> Biatlon <br><small>77</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/motorsport" class="href-item"><span class="icon"><i class="pg-icons sport-types-11 st-font-icons"></i></span><span class="type truncate"> Motor Sporları <br><small>20</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/speedway" class="href-item"><span class="icon"><i class="pg-icons sport-types-131 st-font-icons"></i></span><span class="type truncate"> Speedway Yarışı <br><small>43</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/specials" class="href-item"><span class="icon"><i class="pg-icons sport-types-18 st-font-icons"></i></span><span class="type truncate"> Özel Bahisler <br><small>79</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/stock-car-racing" class="href-item"><span class="icon"><i class="pg-icons sport-types-191 st-font-icons"></i></span><span class="type truncate"> Stok Araba Yarışı <br><small>131</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/indy-racing" class="href-item"><span class="icon"><i class="pg-icons sport-types-129 st-font-icons"></i></span><span class="type truncate"> Indycar <br><small>22</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/alpine-skiing" class="href-item"><span class="icon"><i class="pg-icons sport-types-43 st-font-icons"></i></span><span class="type truncate"> Alp Disiplini <br><small>55</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/formula-1" class="href-item"><span class="icon"><i class="pg-icons sport-types-40 st-font-icons"></i></span><span class="type truncate"> Formula 1 <br><small>117</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/lacrosse" class="href-item"><span class="icon"><i class="pg-icons sport-types-39 st-font-icons"></i></span><span class="type truncate"> Lakros <br><small>8</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/motorcycle-racing" class="href-item"><span class="icon"><i class="pg-icons sport-types-190 st-font-icons"></i></span><span class="type truncate"> Motorsiklet Yarışı <br><small>101</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/football" class="href-item"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate"> Futbol <br><small>2935</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/basketball" class="href-item"><span class="icon"><i class="pg-icons sport-types-2 st-font-icons"></i></span><span class="type truncate"> Basketbol <br><small>999</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/ice-hockey" class="href-item"><span class="icon"><i class="pg-icons sport-types-4 st-font-icons"></i></span><span class="type truncate"> Buz Hokeyi <br><small>462</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/tennis" class="href-item"><span class="icon"><i class="pg-icons sport-types-5 st-font-icons"></i></span><span class="type truncate"> Tenis <br><small>527</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/volleyball" class="href-item"><span class="icon"><i class="pg-icons sport-types-23 st-font-icons"></i></span><span class="type truncate"> Voleybol <br><small>36</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/olympics" class="href-item"><span class="icon"><i class="pg-icons sport-types-30 st-font-icons"></i></span><span class="type truncate"> Olimpiyat Oyunları <br><small>1045</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/archery" class="href-item"><span class="icon"><i class="pg-icons sport-types-75 st-font-icons"></i></span><span class="type truncate"> Okçuluk <br><small>96</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/snooker" class="href-item"><span class="icon"><i class="pg-icons sport-types-19 st-font-icons"></i></span><span class="type truncate"> Snooker <br><small>318</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/american-football" class="href-item"><span class="icon"><i class="pg-icons sport-types-16 st-font-icons"></i></span><span class="type truncate"> Amerikan Futbolu <br><small>6459</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/handball" class="href-item"><span class="icon"><i class="pg-icons sport-types-6 st-font-icons"></i></span><span class="type truncate"> Hentbol <br><small>68</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/baseball" class="href-item"><span class="icon"><i class="pg-icons sport-types-3 st-font-icons"></i></span><span class="type truncate"> Beyzbol <br><small>361</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/aussie-rules" class="href-item"><span class="icon"><i class="pg-icons sport-types-13 st-font-icons"></i></span><span class="type truncate"> Avustralya Futbolu <br><small>194</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/golf" class="href-item"><span class="icon"><i class="pg-icons sport-types-9 st-font-icons"></i></span><span class="type truncate"> Golf <br><small>1566</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/rugby" class="href-item"><span class="icon"><i class="pg-icons sport-types-12 st-font-icons"></i></span><span class="type truncate"> Ragbi <br><small>367</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/dart" class="href-item"><span class="icon"><i class="pg-icons sport-types-22 st-font-icons"></i></span><span class="type truncate"> Dart <br><small>128</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/field-hockey" class="href-item"><span class="icon"><i class="pg-icons sport-types-24 st-font-icons"></i></span><span class="type truncate"> Çim Hokeyi <br><small>12</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/cricket" class="href-item"><span class="icon"><i class="pg-icons sport-types-21 st-font-icons"></i></span><span class="type truncate"> Kriket <br><small>357</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/biathlon" class="href-item"><span class="icon"><i class="pg-icons sport-types-44 st-font-icons"></i></span><span class="type truncate"> Biatlon <br><small>77</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/motorsport" class="href-item"><span class="icon"><i class="pg-icons sport-types-11 st-font-icons"></i></span><span class="type truncate"> Motor Sporları <br><small>20</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/speedway" class="href-item"><span class="icon"><i class="pg-icons sport-types-131 st-font-icons"></i></span><span class="type truncate"> Speedway Yarışı <br><small>43</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/specials" class="href-item"><span class="icon"><i class="pg-icons sport-types-18 st-font-icons"></i></span><span class="type truncate"> Özel Bahisler <br><small>79</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/stock-car-racing" class="href-item"><span class="icon"><i class="pg-icons sport-types-191 st-font-icons"></i></span><span class="type truncate"> Stok Araba Yarışı <br><small>131</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/indy-racing" class="href-item"><span class="icon"><i class="pg-icons sport-types-129 st-font-icons"></i></span><span class="type truncate"> Indycar <br><small>22</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/alpine-skiing" class="href-item"><span class="icon"><i class="pg-icons sport-types-43 st-font-icons"></i></span><span class="type truncate"> Alp Disiplini <br><small>55</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/formula-1" class="href-item"><span class="icon"><i class="pg-icons sport-types-40 st-font-icons"></i></span><span class="type truncate"> Formula 1 <br><small>117</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/lacrosse" class="href-item"><span class="icon"><i class="pg-icons sport-types-39 st-font-icons"></i></span><span class="type truncate"> Lakros <br><small>8</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/motorcycle-racing" class="href-item"><span class="icon"><i class="pg-icons sport-types-190 st-font-icons"></i></span><span class="type truncate"> Motorsiklet Yarışı <br><small>101</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/football" class="href-item"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate"> Futbol <br><small>2935</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/basketball" class="href-item"><span class="icon"><i class="pg-icons sport-types-2 st-font-icons"></i></span><span class="type truncate"> Basketbol <br><small>999</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/ice-hockey" class="href-item"><span class="icon"><i class="pg-icons sport-types-4 st-font-icons"></i></span><span class="type truncate"> Buz Hokeyi <br><small>462</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/tennis" class="href-item"><span class="icon"><i class="pg-icons sport-types-5 st-font-icons"></i></span><span class="type truncate"> Tenis <br><small>527</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/volleyball" class="href-item"><span class="icon"><i class="pg-icons sport-types-23 st-font-icons"></i></span><span class="type truncate"> Voleybol <br><small>36</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/olympics" class="href-item"><span class="icon"><i class="pg-icons sport-types-30 st-font-icons"></i></span><span class="type truncate"> Olimpiyat Oyunları <br><small>1045</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/anteposts/archery" class="href-item"><span class="icon"><i class="pg-icons sport-types-75 st-font-icons"></i></span><span class="type truncate"> Okçuluk <br><small>96</small></span></a></div>
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
+                                                      <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 66.667px;">
                                                          <!---->
                                                       </div>
                                                       <!----><!---->
@@ -8719,11 +8683,11 @@
                                              </owl-stage>
                                           </div>
                                           <!---->
-                                          <div _ngcontent-orf-c77="" class="owl-nav ng-star-inserted">
-                                             <div _ngcontent-orf-c77="" class="owl-prev"><i class="material-icons">chevron_left</i></div>
-                                             <div _ngcontent-orf-c77="" class="owl-next"><i class="material-icons">chevron_right</i></div>
+                                          <div _ngcontent-rye-c77="" class="owl-nav ng-star-inserted">
+                                             <div _ngcontent-rye-c77="" class="owl-prev"><i class="material-icons">chevron_left</i></div>
+                                             <div _ngcontent-rye-c77="" class="owl-next"><i class="material-icons">chevron_right</i></div>
                                           </div>
-                                          <div _ngcontent-orf-c77="" class="owl-dots disabled ng-star-inserted">
+                                          <div _ngcontent-rye-c77="" class="owl-dots disabled ng-star-inserted">
                                              <!---->
                                           </div>
                                           <!----><!---->
@@ -8736,111 +8700,397 @@
                            <!---->
                         </div>
                         <!---->
-                        <div id="type7" class="ng-star-inserted">
-                           <app-popular-games class="ng-star-inserted">
+                        <div id="type7">
+                           <app-popular-games>
                               <!---->
                               <div accordion="" class="modul-accordion populer-events ng-star-inserted">
                                  <div class="modul-header"><span class="header-text"> Casino </span><i class="fa fa-chevron-right right"></i><a class="show-more-games mar-right-10 right" href="/tr/games/casino">Daha Fazla Oyun Göster</a></div>
                                  <div class="modul-content">
-                                    <owl-carousel-o _nghost-orf-c77="">
-                                       <div _ngcontent-orf-c77="" class="owl-carousel owl-theme owl-loaded owl-responsive owl-drag">
-                                          <div _ngcontent-orf-c77="" class="owl-stage-outer ng-star-inserted">
-                                             <owl-stage _ngcontent-orf-c77="" class="ng-tns-c78-4 ng-star-inserted">
-                                                <div class="ng-tns-c78-4">
-                                                   <div class="owl-stage ng-tns-c78-4" style="width: 11200px; transform: translate3d(-2800px, 0px, 0px); transition: all;">
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
+                                    <owl-carousel-o _nghost-rye-c77="">
+                                       <div _ngcontent-rye-c77="" class="owl-carousel owl-theme owl-loaded owl-responsive owl-drag">
+                                          <div _ngcontent-rye-c77="" class="owl-stage-outer ng-star-inserted">
+                                             <owl-stage _ngcontent-rye-c77="" class="ng-tns-c78-0 ng-star-inserted">
+                                                <div class="ng-tns-c78-0" style="transition: 0.88s;">
+                                                   <div class="owl-stage ng-tns-c78-0" style="width: 11200px; transform: translate3d(-3800px, 0px, 0px); transition: 0.88s;">
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/24472.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/gameart.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">40 Super Blazing Sevens</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/14302.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/gameart.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Lucky Coins</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27216.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/gameart.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">20 Hot Super Fruits</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/24442.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/evoplay.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Penalty Shoot-Out Street</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/13933.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/playngo.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Tome of Madness</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/21316.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/playngo.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Rise Of Olympus 100</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/16712.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/yggdrasil_lcky.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Cherry Pop</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/16719.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/yggdrasil_lcky.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Wild Pops</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/16784.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/yggdrasil_lcky.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Vikings Go Berzerk</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27255.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Mighty Wild™: Panther Grand Gold Edition</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/24160.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">9 Coins™ Grand Platinum Edition</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26693.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Mighty Fish™: Blue Marlin</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/19696.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Sizzling Eggs</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27156.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/slotopia_evo.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Double Up Respin</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27350.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/slotopia_evo.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Mega Diamonds Hunt</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26915.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/fugaso_lcky.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Arctic  Coins</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26405.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/fugaso_lcky.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Xmas  Royale 100</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27838.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Temple of Ra</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/14707.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Hell Hot 100</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/12524.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Chance Machine 20</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/3304.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/amatic.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Wild Dragon</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27551.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/amatic.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Lucky Joker 40 Extra Gifts</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted" style="">
                                                             <div class="card-image">
                                                                <a href="javascript:;">
@@ -8857,7 +9107,7 @@
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted" style="">
                                                             <div class="card-image">
                                                                <a href="javascript:;">
@@ -8874,7 +9124,7 @@
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted" style="">
                                                             <div class="card-image">
                                                                <a href="javascript:;">
@@ -8891,7 +9141,7 @@
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted" style="">
                                                             <div class="card-image">
                                                                <a href="javascript:;">
@@ -8908,7 +9158,7 @@
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted" style="">
                                                             <div class="card-image">
                                                                <a href="javascript:;">
@@ -8925,7 +9175,7 @@
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 100px;">
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted" style="">
                                                             <div class="card-image">
                                                                <a href="javascript:;">
@@ -8942,7 +9192,7 @@
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 100px;">
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted" style="">
                                                             <div class="card-image">
                                                                <a href="javascript:;">
@@ -8959,7 +9209,7 @@
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 100px;">
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted" style="">
                                                             <div class="card-image">
                                                                <a href="javascript:;">
@@ -8976,7 +9226,7 @@
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 100px;">
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted" style="">
                                                             <div class="card-image">
                                                                <a href="javascript:;">
@@ -8993,7 +9243,7 @@
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted" style="">
                                                             <div class="card-image">
                                                                <a href="javascript:;">
@@ -9010,191 +9260,789 @@
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/28377.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <span class="new ng-star-inserted">Yeni</span><!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/booming_games.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">TNT Bonanza 2</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27866.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Sweet Bonanza 1000</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26163.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Gates of Olympus 1000™</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/8888.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Sweet Bonanza</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/2826.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egt.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Shining Crown</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted active" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26449.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egt.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">100 Golden Coins</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted active" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27819.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egt.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Stoichkov #8</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted active" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/13477.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/smart_soft.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">JetX</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted active" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27710.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egtd.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Flaming Hot Extreme Bell Link</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27712.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egtd.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">40 Shining Crown Bell Link</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27680.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egtd.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Pyramid Riddles Osiris</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27632.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egtd.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">100 Burning Hot</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/28364.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <span class="new ng-star-inserted">Yeni</span><!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/betsolutions.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Zeppelin</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/24825.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/3_oaks_gaming.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Coin Volcano</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26657.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/3_oaks_gaming.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Aztec Fire 2</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/23638.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/netent_oss.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Wild Wild West: The Great Train Heist</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/19294.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Hot Slot: 777 Crown</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/12830.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/fazi.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Wild Hot 40</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/20819.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/fazi.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Wild Lucky Clover</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/13529.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/fazi.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Golden Crown</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26388.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/red_tiger_oss.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Sea Boat Adventure</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27872.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/red_tiger_oss.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Cannonball Cash</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/22321.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/booming_games.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">TNT Bonanza</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/23381.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/booming_games.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">King Cobra</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/24472.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/gameart.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">40 Super Blazing Sevens</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/14302.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/gameart.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Lucky Coins</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27216.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/gameart.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">20 Hot Super Fruits</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/24442.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/evoplay.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Penalty Shoot-Out Street</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/13933.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/playngo.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Tome of Madness</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/21316.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/playngo.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Rise Of Olympus 100</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/16712.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/yggdrasil_lcky.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Cherry Pop</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/16719.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/yggdrasil_lcky.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Wild Pops</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/16784.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/yggdrasil_lcky.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Vikings Go Berzerk</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27255.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Mighty Wild™: Panther Grand Gold Edition</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/24160.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">9 Coins™ Grand Platinum Edition</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26693.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Mighty Fish™: Blue Marlin</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/19696.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Sizzling Eggs</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27156.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/slotopia_evo.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Double Up Respin</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27350.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/slotopia_evo.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Mega Diamonds Hunt</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26915.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/fugaso_lcky.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Arctic  Coins</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26405.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/fugaso_lcky.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Xmas  Royale 100</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27838.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Temple of Ra</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/14707.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Hell Hot 100</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/12524.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Chance Machine 20</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/3304.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/amatic.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Wild Dragon</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27551.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/amatic.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Lucky Joker 40 Extra Gifts</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted" style="">
                                                             <div class="card-image">
                                                                <a href="javascript:;">
@@ -9211,7 +10059,7 @@
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted" style="">
                                                             <div class="card-image">
                                                                <a href="javascript:;">
@@ -9228,7 +10076,7 @@
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted" style="">
                                                             <div class="card-image">
                                                                <a href="javascript:;">
@@ -9245,7 +10093,7 @@
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted" style="">
                                                             <div class="card-image">
                                                                <a href="javascript:;">
@@ -9262,7 +10110,7 @@
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted" style="">
                                                             <div class="card-image">
                                                                <a href="javascript:;">
@@ -9279,7 +10127,7 @@
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted" style="">
                                                             <div class="card-image">
                                                                <a href="javascript:;">
@@ -9296,7 +10144,7 @@
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted" style="">
                                                             <div class="card-image">
                                                                <a href="javascript:;">
@@ -9313,7 +10161,7 @@
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted" style="">
                                                             <div class="card-image">
                                                                <a href="javascript:;">
@@ -9330,7 +10178,7 @@
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted" style="">
                                                             <div class="card-image">
                                                                <a href="javascript:;">
@@ -9347,7 +10195,7 @@
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted" style="">
                                                             <div class="card-image">
                                                                <a href="javascript:;">
@@ -9364,96 +10212,395 @@
                                                          <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/28377.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <span class="new ng-star-inserted">Yeni</span><!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/booming_games.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">TNT Bonanza 2</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27866.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Sweet Bonanza 1000</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26163.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Gates of Olympus 1000™</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/8888.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Sweet Bonanza</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/2826.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egt.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Shining Crown</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26449.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egt.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">100 Golden Coins</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27819.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egt.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Stoichkov #8</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/13477.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/smart_soft.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">JetX</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27710.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egtd.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Flaming Hot Extreme Bell Link</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27712.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egtd.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">40 Shining Crown Bell Link</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27680.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egtd.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Pyramid Riddles Osiris</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27632.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egtd.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">100 Burning Hot</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/28364.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <span class="new ng-star-inserted">Yeni</span><!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/betsolutions.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Zeppelin</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/24825.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/3_oaks_gaming.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Coin Volcano</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26657.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/3_oaks_gaming.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Aztec Fire 2</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/23638.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/netent_oss.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Wild Wild West: The Great Train Heist</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/19294.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Hot Slot: 777 Crown</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/12830.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/fazi.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Wild Hot 40</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/20819.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/fazi.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Wild Lucky Clover</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/13529.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/fazi.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Golden Crown</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26388.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/red_tiger_oss.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Sea Boat Adventure</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27872.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/red_tiger_oss.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">Cannonball Cash</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!---->
-                                                      <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 100px;">
-                                                         <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/22321.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/booming_games.png"></span></span>
+                                                               </a>
+                                                            </div>
+                                                            <div class="game-name truncate">TNT Bonanza</div>
+                                                         </div>
+                                                         <!----><!---->
                                                       </div>
                                                       <!----><!---->
                                                    </div>
@@ -9461,11 +10608,11 @@
                                              </owl-stage>
                                           </div>
                                           <!---->
-                                          <div _ngcontent-orf-c77="" class="owl-nav ng-star-inserted">
-                                             <div _ngcontent-orf-c77="" class="owl-prev"><i class="fa fa-chevron-left"></i></div>
-                                             <div _ngcontent-orf-c77="" class="owl-next"><i class="fa fa fa-chevron-right"></i></div>
+                                          <div _ngcontent-rye-c77="" class="owl-nav ng-star-inserted">
+                                             <div _ngcontent-rye-c77="" class="owl-prev"><i class="fa fa-chevron-left"></i></div>
+                                             <div _ngcontent-rye-c77="" class="owl-next"><i class="fa fa fa-chevron-right"></i></div>
                                           </div>
-                                          <div _ngcontent-orf-c77="" class="owl-dots disabled ng-star-inserted">
+                                          <div _ngcontent-rye-c77="" class="owl-dots disabled ng-star-inserted">
                                              <!---->
                                           </div>
                                           <!----><!---->
@@ -9478,802 +10625,13 @@
                            <!---->
                         </div>
                         <!----><!----><!----><!----><!----><!----><!---->
-                        <app-esa-games class="ng-star-inserted"></app-esa-games>
+                        <app-esa-games></app-esa-games>
                         <!----><!----><!---->
                      </main>
                   </app-main-page>
                   <!---->
                   <payments-widget>
-                     <owl-carousel-o _nghost-orf-c77="" class="ng-star-inserted">
-                        <div _ngcontent-orf-c77="" class="owl-carousel owl-theme owl-loaded owl-drag">
-                           <div _ngcontent-orf-c77="" class="owl-stage-outer ng-star-inserted">
-                              <owl-stage _ngcontent-orf-c77="" class="ng-tns-c78-0 ng-star-inserted">
-                                 <div class="ng-tns-c78-0">
-                                    <div class="owl-stage ng-tns-c78-0" style="width: 9000px; transform: translate3d(-2250px, 0px, 0px); transition: all;">
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="MOBILEBANK">
-                                                <!---->
-                                                <div class="fix-payments ng-star-inserted">
-                                                   <payment-icon>
-                                                      <img src="https://via.placeholder.com/100x33.png?text=MOBILEBANK" width="100" height="33" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/mobile-bank.png" width="100" height="33" class=""><!---->
-                                                   </payment-icon>
-                                                   <span class="pymnt-icon icon-cepbank100x33"></span>
-                                                </div>
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="paytu-crypto-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Payyu Crypto Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-2179.png" width="100" height="33" class="paytu-crypto-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-2179 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="scashmoney-hizliodemeler-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Garanti Tüm Yatırımlar" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-1988.png" width="100" height="33" class="scashmoney-hizliodemeler-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-1988 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="scashmoney-hizliodemeler-fast-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Garanti Fast Yatırım" width="100" height="33" class="scashmoney-hizliodemeler-fast-deposit"><img hidden="" src="//v3.pronetstatic.com/perabet/upload_files/deposit-1990.png" width="100" height="33" class="hide"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-1990 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="paparaform-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Papara Form Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-852.png" width="100" height="33" class="paparaform-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-852 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="pay-fix-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Payfix Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-777.png" width="100" height="33" class="pay-fix-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-777 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="softpay-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=SoftPay Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-1219.png" width="100" height="33" class="softpay-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-1219 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="joy-havale-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Joy Havale ile Para Yatırma" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-1495.png" width="100" height="33" class="joy-havale-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-1495 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="enhizlihavale-bank-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=EN HIZLI HAVALE Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-1681.png" width="100" height="33" class="enhizlihavale-bank-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-1681 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="joym100-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Joym 100 Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-1701.png" width="100" height="33" class="joym100-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-1701 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="anindaislem-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Premium Vip Papara Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-1824.png" width="100" height="33" class="anindaislem-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-1824 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="anindamefetev2-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Anında PayPay Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-1845.png" width="100" height="33" class="anindamefetev2-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-1845 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="anindabtcv2-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Anında Kripto Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-2013.png" width="100" height="33" class="anindabtcv2-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-2013 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="espaycash-banktransfer-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=EsPay Cash Bank Transfer Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-2196.png" width="100" height="33" class="espaycash-banktransfer-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-2196 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="anindaparazulav2-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Anında Parazula Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-2068.png" width="100" height="33" class="anindaparazulav2-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-2068 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="envoyqr-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı QR Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-521.png" width="100" height="33" class="envoyqr-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-521 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="anindahesap-metefe-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Popy Pay Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-853.png" width="100" height="33" class="anindahesap-metefe-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-853 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="vizapaymulti-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Vizapay Multi Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-1653.png" width="100" height="33" class="vizapaymulti-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-1653 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="safirhavale-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Safirhavale Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1423.png" width="100" height="33" class="safirhavale-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-1423 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="upaycoins-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Youpaycoin Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-672.png" width="100" height="33" class="upaycoins-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-672 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="scashmoney-hizliodemeler-transfer-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Garanti Havale Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-1989.png" width="100" height="33" class="scashmoney-hizliodemeler-transfer-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-1989 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="scashmoney-hizliodemeler-papara-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Garanti Papara Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-1991.png" width="100" height="33" class="scashmoney-hizliodemeler-papara-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-1991 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="pgs-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=PGS Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-2099.png" width="100" height="33" class="pgs-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-2099 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="BANK_TRANSFER">
-                                                <div class="fix-payments ng-star-inserted">
-                                                   <payment-icon>
-                                                      <img src="https://via.placeholder.com/100x33.png?text=BANK_TRANSFER" width="100" height="33" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/bank-transfer.png" width="100" height="33" class=""><!---->
-                                                   </payment-icon>
-                                                   <span class="pymnt-icon icon-finance100x33-8"></span>
-                                                </div>
-                                                <!----><!----><!---->
-                                                <div class="flex-container">
-                                                   <!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="MOBILEBANK">
-                                                <!---->
-                                                <div class="fix-payments ng-star-inserted">
-                                                   <payment-icon>
-                                                      <img src="https://via.placeholder.com/100x33.png?text=MOBILEBANK" width="100" height="33" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/mobile-bank.png" width="100" height="33" class=""><!---->
-                                                   </payment-icon>
-                                                   <span class="pymnt-icon icon-cepbank100x33"></span>
-                                                </div>
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="paytu-crypto-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Payyu Crypto Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-2179.png" width="100" height="33" class="paytu-crypto-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-2179 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="scashmoney-hizliodemeler-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Garanti Tüm Yatırımlar" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-1988.png" width="100" height="33" class="scashmoney-hizliodemeler-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-1988 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="scashmoney-hizliodemeler-fast-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Garanti Fast Yatırım" width="100" height="33" class="scashmoney-hizliodemeler-fast-deposit"><img hidden="" src="//v3.pronetstatic.com/perabet/upload_files/deposit-1990.png" width="100" height="33" class="hide"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-1990 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="paparaform-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Papara Form Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-852.png" width="100" height="33" class="paparaform-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-852 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="pay-fix-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Payfix Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-777.png" width="100" height="33" class="pay-fix-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-777 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="softpay-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=SoftPay Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-1219.png" width="100" height="33" class="softpay-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-1219 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="joy-havale-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Joy Havale ile Para Yatırma" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-1495.png" width="100" height="33" class="joy-havale-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-1495 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="enhizlihavale-bank-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=EN HIZLI HAVALE Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-1681.png" width="100" height="33" class="enhizlihavale-bank-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-1681 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="joym100-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Joym 100 Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-1701.png" width="100" height="33" class="joym100-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-1701 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="anindaislem-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Premium Vip Papara Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-1824.png" width="100" height="33" class="anindaislem-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-1824 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="anindamefetev2-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Anında PayPay Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-1845.png" width="100" height="33" class="anindamefetev2-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-1845 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="anindabtcv2-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Anında Kripto Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-2013.png" width="100" height="33" class="anindabtcv2-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-2013 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="espaycash-banktransfer-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=EsPay Cash Bank Transfer Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-2196.png" width="100" height="33" class="espaycash-banktransfer-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-2196 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="anindaparazulav2-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Anında Parazula Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-2068.png" width="100" height="33" class="anindaparazulav2-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-2068 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="envoyqr-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı QR Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-521.png" width="100" height="33" class="envoyqr-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-521 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="anindahesap-metefe-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Popy Pay Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-853.png" width="100" height="33" class="anindahesap-metefe-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-853 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="vizapaymulti-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Vizapay Multi Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-1653.png" width="100" height="33" class="vizapaymulti-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-1653 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="safirhavale-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Safirhavale Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1423.png" width="100" height="33" class="safirhavale-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-1423 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="upaycoins-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Youpaycoin Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-672.png" width="100" height="33" class="upaycoins-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-672 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="scashmoney-hizliodemeler-transfer-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Garanti Havale Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-1989.png" width="100" height="33" class="scashmoney-hizliodemeler-transfer-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-1989 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="scashmoney-hizliodemeler-papara-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Garanti Papara Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-1991.png" width="100" height="33" class="scashmoney-hizliodemeler-papara-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-1991 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!---->
-                                       <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
-                                          <div class="col s12 ng-star-inserted" style="">
-                                             <div class="card-panel bank-card" data-payment="pgs-deposit">
-                                                <!----><!---->
-                                                <div class="flex-container">
-                                                   <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=PGS Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/perabet/upload_files/deposit-2099.png" width="100" height="33" class="pgs-deposit"><!---->
-                                                   </payment-icon>
-                                                   <span class="icon-finance100x33-2099 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <!----><!----><!----><!---->
-                                       </div>
-                                       <!----><!---->
-                                    </div>
-                                 </div>
-                              </owl-stage>
-                           </div>
-                           <!---->
-                           <div _ngcontent-orf-c77="" class="owl-nav ng-star-inserted">
-                              <div _ngcontent-orf-c77="" class="owl-prev"><i class="material-icons">chevron_left</i></div>
-                              <div _ngcontent-orf-c77="" class="owl-next"><i class="material-icons">chevron_right</i></div>
-                           </div>
-                           <div _ngcontent-orf-c77="" class="owl-dots disabled ng-star-inserted">
-                              <!---->
-                           </div>
-                           <!----><!---->
-                        </div>
-                     </owl-carousel-o>
-                     <!----><!----><!----><!----><!----><!---->
+                     <!---->
                      <div id="PaymentFormModal" materialize="modal" class="modal modal-md open dshbrd-modal pymnt-mdl black-text" style="z-index: 1025;">
                         <div class="modal-header"><a href="javascript:;" class="modal-action modal-close"><i class="material-icons pg-icons white-text">close</i></a></div>
                         <!---->
@@ -10443,651 +10801,3 @@
                   </app-static-inner-content>
                </app-footer>
             </div>
-            <div id="btslpSld" style="top: 100%; padding-bottom: 0px;">
-               <app-bet-slip>
-                  <div id="btslp-hdr" class="bet-slip-header flex-container">
-                     <div class="bet-slip">
-                        <ul class="tabs tabs-fixed-width bet-slip-tabs fast-tab" style="background-color: transparent;">
-                           <li class="tab">
-                              <a href="javascript:;" class="bet-count active">
-                                 Kupon <!---->
-                              </a>
-                           </li>
-                           <!---->
-                        </ul>
-                     </div>
-                     <a href="javascript:;" class="coupon-close-btn betslipbtn btn"><i class="material-icons">close</i></a>
-                  </div>
-                  <!---->
-                  <div id="bet-slip-master" class="bet-slip-master history">
-                     <div class="bookabet-main">
-                        <app-bookabet-search>
-                           <div class="bet-slip">
-                              <form novalidate="" class="ng-untouched ng-pristine ng-invalid">
-                                 <input required="" type="text" name="bookingRef" maxlength="6" class="browser-default ng-untouched ng-pristine ng-invalid" placeholder="Rezervasyon kodunu giriniz">
-                                 <div class="betslip-btn-group flex-container"><button type="submit" class="btn betslipbtn flex-item" disabled="">Arama</button></div>
-                              </form>
-                           </div>
-                        </app-bookabet-search>
-                        <!---->
-                     </div>
-                     <!----><!---->
-                     <div class="card-panel message-box center-align info empty_coupon_message"> Bahis yapabilmek için en az bir seçim yapılmalıdır </div>
-                     <!----><!----><!----><!----><!----><!---->
-                  </div>
-                  <!----><!----><!----><!----><!----><!----><!----><!---->
-               </app-bet-slip>
-            </div>
-            <div materialize="modal" class="modal" id="undefined" style="z-index: 1027;">
-               <!----><!----><!---->
-               <div class="modal-content">
-                  <!---->
-               </div>
-            </div>
-            <div id="cookies-top-modal" materialize="modal" class="modal bottom-sheet" style="z-index: 1029;">
-               <br>
-               <div class="modal-content">
-                  <div></div>
-                  <div></div>
-                  <a href="javascript:;" class="btn dont-show-again secondary-color right cookies-btn">Anladım</a>
-               </div>
-            </div>
-            <div id="cookies-bottom-modal" materialize="modal" class="modal bottom-sheet" style="z-index: 1031;">
-               <br>
-               <div class="modal-content">
-                  <div></div>
-                  <div></div>
-                  <a href="javascript:;" class="btn dont-show-again secondary-color right cookies-btn">Anladım </a>
-               </div>
-            </div>
-            <div id="mdl-on-enter" materialize="modal" class="modal" style="z-index: 1033;">
-               <a href="javascript:;" class="modal-action modal-close"><i class="material-icons pg-icons">close</i></a><br>
-               <div class="modal-content">
-                  <div></div>
-                  <div></div>
-                  <a href="javascript:;" class="btn dont-show-again">Bir Daha Gösterme</a>
-               </div>
-            </div>
-            <div id="home-page-modal" materialize="modal" class="modal" style="z-index: 1035;">
-               <a href="javascript:;" class="modal-action modal-close"><i class="material-icons pg-icons">close</i></a><br>
-               <div class="modal-content">
-                  <div></div>
-                  <div></div>
-                  <a href="javascript:;" class="btn dont-show-again">Bir Daha Gösterme</a>
-               </div>
-            </div>
-            <div materialize="modal" id="cNumpad" class="modal bottom-sheet number-keyboard" style="z-index: 1037;">
-               <app-custom-numpad>
-                  <div class="key-info">
-                     <!----> Yetersiz bakiye <!----><!---->
-                     <div class="flex-container first-row">
-                        <div class="text flex-item"> Olası Kazanç: </div>
-                        <div class="amount"><span>0.00<span class="currency-symbol"> ₺</span></span></div>
-                     </div>
-                     <!----><!---->
-                     <div class="flex-container sec-row">
-                        <div id="amountArea" libcnumpadamount="" class="amount flex-item">
-                           <div id="eas" class="text left numpad-amount"> Miktar gir </div>
-                           <span id="number" class="right">0</span><span id="css" class="right currency-symbol">₺</span><!---->
-                        </div>
-                     </div>
-                     <!----><!---->
-                  </div>
-                  <div class="flex-container fast-btns">
-                     <button class="flex-item btn">
-                        <span class="currency-symbol">₺</span><!----> 1 
-                     </button>
-                     <!---->
-                     <button class="flex-item btn">
-                        <span class="currency-symbol">₺</span><!----> 5 
-                     </button>
-                     <!---->
-                     <button class="flex-item btn">
-                        <span class="currency-symbol">₺</span><!----> 10 
-                     </button>
-                     <!---->
-                     <button class="flex-item btn">
-                        <span class="currency-symbol">₺</span><!----> 25 
-                     </button>
-                     <!---->
-                     <button class="flex-item btn">
-                        <span class="currency-symbol">₺</span><!----> 50 
-                     </button>
-                     <!---->
-                     <button class="flex-item btn">
-                        <span class="currency-symbol">₺</span><!----> 100 
-                     </button>
-                     <!----><!---->
-                  </div>
-                  <!----><!---->
-                  <div class="numbers-cont">
-                     <button class="item">1</button><!----><button class="item">2</button><!----><button class="item">3</button><!----><button class="item">4</button><!----><button class="item">5</button><!----><button class="item">6</button><!----><button class="item">7</button><!----><button class="item">8</button><!----><button class="item">9</button><!----><button class="item zero">0</button><!----><!----><button class="item">,</button><button class="item backspace"><i class="fa fa-backward"></i></button><button class="item enter">Tamam</button>
-                  </div>
-                  <!----><!---->
-               </app-custom-numpad>
-            </div>
-            <!---->
-         </app-out-component>
-         <!----><!----><!----><!---->
-      </app-root>
-     , <div class="hiddendiv common"></div>
-      <div class="drag-target" data-sidenav="left-menu" style="left: 0px; touch-action: pan-y; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></div>
-      <bet-master merchant="pn10" language="tr" vce-ready="">
-         <div id="PanelFront">
-            <!---->
-            <div class="bm_popup_cover">
-               <div class="popup_cover"></div>
-               <!---->
-               <div class="bm_popup_mask" style="display: none;"></div>
-            </div>
-            <!----><!---->
-            <div class="bmm bm betmaster_helper">
-               <div class="helper_button">
-                  <div class="helper_btn_content">
-                     <div class="help_text hidden-xs-only"> Yardım </div>
-                     <div class="help_text hidden-sm-and-up"><i class="fas fa-info"></i></div>
-                  </div>
-               </div>
-               <div class="sidemenu">
-                  <div class="header">
-                     <div class="title">Yardım</div>
-                     <i class="el-icon-close close"></i>
-                  </div>
-                  <div class="content">
-                     <!----><a id="menu_btn1" class="helper_content_btn menu_btn"><i class="pf-icon pfi-tvplay"></i> Canlı Maç İzle </a><a id="menu_btn2" class="helper_content_btn menu_btn"><i class="fas fa-user-tie"></i> Ortaklık </a><a id="menu_btn3" class="helper_content_btn menu_btn"><i class="pf-icon pfi-transfer"></i> Nasıl Yatırım Yapılır? </a><a id="menu_btn4" class="helper_content_btn menu_btn"><i class="far fa-thumbs-up"></i> Güncel Adres </a>
-                     <div class="helper_content_btn live_chat_side_btn"><i class="far fa-comment-alt"></i> Canlı Destek </div>
-                     <!----><a class="helper_content_btn shop_btn"><i class="far fa-shopping-cart"></i> Pera Shop </a><a class="helper_content_btn tournament_btn"><i class="fas fa-medal"></i> Turnuvalar </a><!---->
-                     <div role="tablist" aria-multiselectable="true" class="el-collapse">
-                        <!---->
-                        <div class="el-collapse-item write_us_info">
-                           <div role="tab" aria-controls="el-collapse-content-2524" aria-describedby="el-collapse-content-2524">
-                              <div role="button" id="el-collapse-head-2524" tabindex="0" class="el-collapse-item__header"><i class="far fa-envelope"></i> Bize Yazın <i class="el-collapse-item__arrow el-icon-arrow-right"></i></div>
-                           </div>
-                           <div role="tabpanel" aria-hidden="true" aria-labelledby="el-collapse-head-2524" id="el-collapse-content-2524" class="el-collapse-item__wrap" style="display: none;">
-                              <div class="el-collapse-item__content">
-                                 <div>Dilediğiniz zaman bize <span class="highlight">destek@perabet.com</span> adresinden ulaşabilirsiniz.</div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="el-collapse-item call_collapse">
-                           <div role="tab" aria-controls="el-collapse-content-4985" aria-describedby="el-collapse-content-4985">
-                              <div role="button" id="el-collapse-head-4985" tabindex="0" class="el-collapse-item__header"><i class="el-icon-phone-outline"></i> Sizi Arayalım <i class="el-collapse-item__arrow el-icon-arrow-right"></i></div>
-                           </div>
-                           <div role="tabpanel" aria-hidden="true" aria-labelledby="el-collapse-head-4985" id="el-collapse-content-4985" class="el-collapse-item__wrap" style="display: none;">
-                              <div class="el-collapse-item__content">
-                                 <call-service theme="dark" vce-ready="">
-                                    <div class="bmm call_me_form dark">
-                                       <!---->
-                                       <div class="el-select call_me_inputs el-select--small">
-                                          <!---->
-                                          <div class="el-input el-input--small el-input--prefix el-input--suffix">
-                                             <!----><input type="text" readonly="readonly" autocomplete="off" placeholder="Aranmak İstediğiniz Zaman" class="el-input__inner">
-                                             <span class="el-input__prefix">
-                                                <i class="el-input__icon el-icon-watch"></i><!---->
-                                             </span>
-                                             <span class="el-input__suffix">
-                                                <span class="el-input__suffix-inner">
-                                                   <i class="el-select__caret el-input__icon el-icon-arrow-up"></i><!----><!----><!----><!----><!---->
-                                                </span>
-                                                <!---->
-                                             </span>
-                                             <!----><!---->
-                                          </div>
-                                          <div class="el-select-dropdown el-popper" style="display: none;">
-                                             <div class="el-scrollbar" style="">
-                                                <div class="el-select-dropdown__wrap el-scrollbar__wrap el-scrollbar__wrap--hidden-default">
-                                                   <ul class="el-scrollbar__view el-select-dropdown__list">
-                                                      <!---->
-                                                      <li class="el-select-dropdown__item"><span>00:00 - 01:00</span></li>
-                                                      <li class="el-select-dropdown__item"><span>01:00 - 02:00</span></li>
-                                                      <li class="el-select-dropdown__item"><span>02:00 - 03:00</span></li>
-                                                      <li class="el-select-dropdown__item"><span>03:00 - 04:00</span></li>
-                                                      <li class="el-select-dropdown__item"><span>04:00 - 05:00</span></li>
-                                                      <li class="el-select-dropdown__item"><span>05:00 - 06:00</span></li>
-                                                      <li class="el-select-dropdown__item"><span>06:00 - 07:00</span></li>
-                                                      <li class="el-select-dropdown__item"><span>07:00 - 08:00</span></li>
-                                                      <li class="el-select-dropdown__item"><span>08:00 - 09:00</span></li>
-                                                      <li class="el-select-dropdown__item"><span>09:00 - 10:00</span></li>
-                                                      <li class="el-select-dropdown__item"><span>11:00 - 12:00</span></li>
-                                                      <li class="el-select-dropdown__item"><span>12:00 - 13:00</span></li>
-                                                      <li class="el-select-dropdown__item"><span>13:00 - 14:00</span></li>
-                                                      <li class="el-select-dropdown__item"><span>14:00 - 15:00</span></li>
-                                                      <li class="el-select-dropdown__item"><span>15:00 - 16:00</span></li>
-                                                      <li class="el-select-dropdown__item"><span>16:00 - 17:00</span></li>
-                                                      <li class="el-select-dropdown__item"><span>17:00 - 18:00</span></li>
-                                                      <li class="el-select-dropdown__item"><span>18:00 - 19:00</span></li>
-                                                      <li class="el-select-dropdown__item"><span>19:00 - 20:00</span></li>
-                                                      <li class="el-select-dropdown__item"><span>20:00 - 21:00</span></li>
-                                                      <li class="el-select-dropdown__item"><span>21:00 - 22:00</span></li>
-                                                      <li class="el-select-dropdown__item"><span>22:00 - 23:00</span></li>
-                                                      <li class="el-select-dropdown__item"><span>23:00 - 00:00</span></li>
-                                                   </ul>
-                                                </div>
-                                                <div class="el-scrollbar__bar is-horizontal">
-                                                   <div class="el-scrollbar__thumb" style="transform: translateX(0%);"></div>
-                                                </div>
-                                                <div class="el-scrollbar__bar is-vertical">
-                                                   <div class="el-scrollbar__thumb" style="transform: translateY(0%);"></div>
-                                                </div>
-                                             </div>
-                                             <!---->
-                                          </div>
-                                       </div>
-                                       <button disabled="disabled" type="button" class="el-button call_me_btn el-button--default el-button--small is-disabled">
-                                          <!----><!----><span>Gönder</span>
-                                       </button>
-                                    </div>
-                                 </call-service>
-                              </div>
-                           </div>
-                        </div>
-                        <!---->
-                        <div class="el-collapse-item app_collapse">
-                           <div role="tab" aria-controls="el-collapse-content-7563" aria-describedby="el-collapse-content-7563">
-                              <div role="button" id="el-collapse-head-7563" tabindex="0" class="el-collapse-item__header"><i class="fas fa-th-large"></i> Kolay Erişim <i class="el-collapse-item__arrow el-icon-arrow-right"></i></div>
-                           </div>
-                           <div role="tabpanel" aria-hidden="true" aria-labelledby="el-collapse-head-7563" id="el-collapse-content-7563" class="el-collapse-item__wrap" style="display: none;">
-                              <div class="el-collapse-item__content">
-                                 <div class="app_info"> Adres değişikliklerinden etkilenmemek için kolay erişim uygulamalarımızı indirebilirsiniz. </div>
-                                 <a href="https://peramobile.us/" target="_blank" class="app_btns"><i class="fab fa-apple"></i> IOS Uygulaması</a>
-                                 <a href="https://peramobile.us/" target="_blank" class="app_btns">
-                                    <div class="app_btn_inner"><i class="fab fa-android"></i> Android Uygulaması</div>
-                                    <!---->
-                                 </a>
-                                 <!---->
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <a class="helper_content_btn faq_btn"><i class="fas fa-info-circle"></i> Genel Sorular </a>
-                     <social-media theme="dark" vce-ready="">
-                        <div id="bm_socialmedia" class="bmm social_media_btns dark big_social">
-                           <!---->
-                           <a href="https://twitter.com/perabetsosyal" target="_blank" class="media_btn twitter">
-                              <svg fill="#ffffff" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" width="24px" height="24px" viewBox="0 0 24 24" xml:space="preserve">
-                                 <path d="M14.095479,10.316482L22.286354,1h-1.940718l-7.115352,8.087682L7.551414,1H1l8.589488,12.231093L1,23h1.940717  l7.509372-8.542861L16.448587,23H23L14.095479,10.316482z M11.436522,13.338465l-0.871624-1.218704l-6.924311-9.68815h2.981339  l5.58978,7.82155l0.867949,1.218704l7.26506,10.166271h-2.981339L11.436522,13.338465z"></path>
-                              </svg>
-                           </a>
-                           <!----><a href="https://www.youtube.com/channel/UCAkDVOBMR-ejdwna1anrmPg" target="_blank" class="media_btn youtube"><i class="fab fa-youtube"></i></a><!----><!----><a href="https://t.me/perabetofficial" target="_blank" class="media_btn telegram"><i class="fab fa-telegram"></i></a><!---->
-                        </div>
-                     </social-media>
-                  </div>
-               </div>
-            </div>
-            <div class="bmm panel_drawer scorematic_drawer">
-               <div class="sidemenu ">
-                  <div class="header">
-                     <div class="title">Scorematik</div>
-                     <i class="el-icon-close close"></i>
-                  </div>
-                  <div class="drawer_content"></div>
-                  <div class="drawer_loader"><i class="fas fa-circle-notch fa-spin"></i></div>
-               </div>
-            </div>
-            <div class="bmm panel_drawer pointtable_drawer">
-               <div class="sidemenu ">
-                  <div class="header">
-                     <div class="title">Puan Tablosu</div>
-                     <i class="el-icon-close close"></i>
-                  </div>
-                  <div class="drawer_content"></div>
-                  <div class="drawer_loader"><i class="fas fa-circle-notch fa-spin"></i></div>
-               </div>
-            </div>
-            <div class="bmm panel_drawer populargames_drawer">
-               <div class="sidemenu ">
-                  <div class="header">
-                     <div class="title"></div>
-                     <i class="el-icon-close close"></i>
-                  </div>
-                  <div class="drawer_content">
-                     <div class="bmm popular_games">
-                        <div class="popular_games_cover"></div>
-                     </div>
-                  </div>
-                  <!---->
-               </div>
-            </div>
-            <div class="bmm panel_drawer top_winners_drawer">
-               <div class="sidemenu ">
-                  <div class="header">
-                     <div class="title">En Çok Kazananlar</div>
-                     <i class="el-icon-close close"></i>
-                  </div>
-                  <div class="drawer_content">
-                     <top-winners type="casino" mobile="true" drawer="true" vce-ready="">
-                        <div class="bmm top_winners_contanier tabbed_winners" style="max-width: 100%;">
-                           <div class="topn_winners_title" style="display: none;">
-                              <span class="mark-fapk pf-icon pfi-cherry"></span><!----> En Çok Kazananlar 
-                           </div>
-                           <div class="top_winners_tabs"><button class="is_active">Günlük</button><button class="">Haftalık</button><button class="">Aylık</button></div>
-                           <div id="top_winners" class="top_winners_cover">
-                              <section class="top_winners_section is_active">
-                                 <div class="top_winners_title"> Günlük </div>
-                                 <div class="top_winners_table" style="min-height: 300px !important;">
-                                    <div>
-                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
-                                          <a class="game_image">
-                                             <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/27866.jpg" class="el-image__inner"><!---->
-                                             </div>
-                                          </a>
-                                          <div class="top_winners_games_column_user"><span>gan****</span><strong class="game_name">Sweet Bonanza 1000</strong></div>
-                                          <!---->
-                                          <div class="top_winners_games_column_profit">
-                                             <strong>Kazanç</strong><span>₺587,050</span><!---->
-                                          </div>
-                                       </div>
-                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
-                                          <a class="game_image">
-                                             <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg" class="el-image__inner"><!---->
-                                             </div>
-                                          </a>
-                                          <div class="top_winners_games_column_user"><span>Gkh****</span><strong class="game_name">Sweet Bonanza</strong></div>
-                                          <!---->
-                                          <div class="top_winners_games_column_profit">
-                                             <strong>Kazanç</strong><span>₺461,250</span><!---->
-                                          </div>
-                                       </div>
-                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
-                                          <a class="game_image">
-                                             <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/21510.jpg" class="el-image__inner"><!---->
-                                             </div>
-                                          </a>
-                                          <div class="top_winners_games_column_user"><span>ali****</span><strong class="game_name">Perabet Bonanza</strong></div>
-                                          <!---->
-                                          <div class="top_winners_games_column_profit">
-                                             <strong>Kazanç</strong><span>₺457,047</span><!---->
-                                          </div>
-                                       </div>
-                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
-                                          <a class="game_image">
-                                             <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/27866.jpg" class="el-image__inner"><!---->
-                                             </div>
-                                          </a>
-                                          <div class="top_winners_games_column_user"><span>Ayd****</span><strong class="game_name">Sweet Bonanza 1000</strong></div>
-                                          <!---->
-                                          <div class="top_winners_games_column_profit">
-                                             <strong>Kazanç</strong><span>₺427,315</span><!---->
-                                          </div>
-                                       </div>
-                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
-                                          <a class="game_image">
-                                             <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/27289.jpg" class="el-image__inner"><!---->
-                                             </div>
-                                          </a>
-                                          <div class="top_winners_games_column_user"><span>Dre****</span><strong class="game_name">Sugar Rush 1000</strong></div>
-                                          <!---->
-                                          <div class="top_winners_games_column_profit">
-                                             <strong>Kazanç</strong><span>₺387,677</span><!---->
-                                          </div>
-                                       </div>
-                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
-                                          <a class="game_image">
-                                             <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/27289.jpg" class="el-image__inner"><!---->
-                                             </div>
-                                          </a>
-                                          <div class="top_winners_games_column_user"><span>Dre****</span><strong class="game_name">Sugar Rush 1000</strong></div>
-                                          <!---->
-                                          <div class="top_winners_games_column_profit">
-                                             <strong>Kazanç</strong><span>₺346,168</span><!---->
-                                          </div>
-                                       </div>
-                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
-                                          <a class="game_image">
-                                             <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/25414.jpg" class="el-image__inner"><!---->
-                                             </div>
-                                          </a>
-                                          <div class="top_winners_games_column_user"><span>ara****</span><strong class="game_name">Starlight Princess 1000™</strong></div>
-                                          <!---->
-                                          <div class="top_winners_games_column_profit">
-                                             <strong>Kazanç</strong><span>₺298,000</span><!---->
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <!---->
-                                 </div>
-                              </section>
-                              <section class="top_winners_section">
-                                 <div class="top_winners_title"> Haftalık </div>
-                                 <div class="top_winners_table" style="min-height: 300px !important;">
-                                    <div>
-                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
-                                          <a class="game_image">
-                                             <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg" class="el-image__inner"><!---->
-                                             </div>
-                                          </a>
-                                          <div class="top_winners_games_column_user"><span>agk******</span><strong class="game_name">Gates of Olympus 1000™</strong></div>
-                                          <!---->
-                                          <div class="top_winners_games_column_profit">
-                                             <strong>Kazanç</strong><span>₺8,314,020</span><!---->
-                                          </div>
-                                       </div>
-                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
-                                          <a class="game_image">
-                                             <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18190.jpg" class="el-image__inner"><!---->
-                                             </div>
-                                          </a>
-                                          <div class="top_winners_games_column_user"><span>Bba****</span><strong class="game_name">Crazy Time</strong></div>
-                                          <!---->
-                                          <div class="top_winners_games_column_profit">
-                                             <strong>Kazanç</strong><span>₺2,209,000</span><!---->
-                                          </div>
-                                       </div>
-                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
-                                          <a class="game_image">
-                                             <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/17448.jpg" class="el-image__inner"><!---->
-                                             </div>
-                                          </a>
-                                          <div class="top_winners_games_column_user"><span>Pun****</span><strong class="game_name">Sweet Bonanza CandyLand</strong></div>
-                                          <!---->
-                                          <div class="top_winners_games_column_profit">
-                                             <strong>Kazanç</strong><span>₺1,998,000</span><!---->
-                                          </div>
-                                       </div>
-                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
-                                          <a class="game_image">
-                                             <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg" class="el-image__inner"><!---->
-                                             </div>
-                                          </a>
-                                          <div class="top_winners_games_column_user"><span>agk******</span><strong class="game_name">Gates of Olympus 1000™</strong></div>
-                                          <!---->
-                                          <div class="top_winners_games_column_profit">
-                                             <strong>Kazanç</strong><span>₺1,811,670</span><!---->
-                                          </div>
-                                       </div>
-                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
-                                          <a class="game_image">
-                                             <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/27866.jpg" class="el-image__inner"><!---->
-                                             </div>
-                                          </a>
-                                          <div class="top_winners_games_column_user"><span>Rev****</span><strong class="game_name">Sweet Bonanza 1000</strong></div>
-                                          <!---->
-                                          <div class="top_winners_games_column_profit">
-                                             <strong>Kazanç</strong><span>₺1,403,610</span><!---->
-                                          </div>
-                                       </div>
-                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
-                                          <a class="game_image">
-                                             <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/27866.jpg" class="el-image__inner"><!---->
-                                             </div>
-                                          </a>
-                                          <div class="top_winners_games_column_user"><span>MUA****</span><strong class="game_name">Sweet Bonanza 1000</strong></div>
-                                          <!---->
-                                          <div class="top_winners_games_column_profit">
-                                             <strong>Kazanç</strong><span>₺1,155,975</span><!---->
-                                          </div>
-                                       </div>
-                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
-                                          <a class="game_image">
-                                             <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg" class="el-image__inner"><!---->
-                                             </div>
-                                          </a>
-                                          <div class="top_winners_games_column_user"><span>agk******</span><strong class="game_name">Gates of Olympus 1000™</strong></div>
-                                          <!---->
-                                          <div class="top_winners_games_column_profit">
-                                             <strong>Kazanç</strong><span>₺746,240</span><!---->
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <!---->
-                                 </div>
-                              </section>
-                              <section class="top_winners_section">
-                                 <div class="top_winners_title"> Aylık </div>
-                                 <div class="top_winners_table" style="min-height: 300px !important;">
-                                    <div>
-                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
-                                          <a class="game_image">
-                                             <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg" class="el-image__inner"><!---->
-                                             </div>
-                                          </a>
-                                          <div class="top_winners_games_column_user"><span>agk******</span><strong class="game_name">Gates of Olympus 1000™</strong></div>
-                                          <!---->
-                                          <div class="top_winners_games_column_profit">
-                                             <strong>Kazanç</strong><span>₺8,314,020</span><!---->
-                                          </div>
-                                       </div>
-                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
-                                          <a class="game_image">
-                                             <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/17448.jpg" class="el-image__inner"><!---->
-                                             </div>
-                                          </a>
-                                          <div class="top_winners_games_column_user"><span>Rev****</span><strong class="game_name">Sweet Bonanza CandyLand</strong></div>
-                                          <!---->
-                                          <div class="top_winners_games_column_profit">
-                                             <strong>Kazanç</strong><span>₺6,230,000</span><!---->
-                                          </div>
-                                       </div>
-                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
-                                          <a class="game_image">
-                                             <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/27866.jpg" class="el-image__inner"><!---->
-                                             </div>
-                                          </a>
-                                          <div class="top_winners_games_column_user"><span>avu****</span><strong class="game_name">Sweet Bonanza 1000</strong></div>
-                                          <!---->
-                                          <div class="top_winners_games_column_profit">
-                                             <strong>Kazanç</strong><span>₺3,229,280</span><!---->
-                                          </div>
-                                       </div>
-                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
-                                          <a class="game_image">
-                                             <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/27289.jpg" class="el-image__inner"><!---->
-                                             </div>
-                                          </a>
-                                          <div class="top_winners_games_column_user"><span>eyp****</span><strong class="game_name">Sugar Rush 1000</strong></div>
-                                          <!---->
-                                          <div class="top_winners_games_column_profit">
-                                             <strong>Kazanç</strong><span>₺2,241,000</span><!---->
-                                          </div>
-                                       </div>
-                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
-                                          <a class="game_image">
-                                             <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18190.jpg" class="el-image__inner"><!---->
-                                             </div>
-                                          </a>
-                                          <div class="top_winners_games_column_user"><span>Bba****</span><strong class="game_name">Crazy Time</strong></div>
-                                          <!---->
-                                          <div class="top_winners_games_column_profit">
-                                             <strong>Kazanç</strong><span>₺2,209,000</span><!---->
-                                          </div>
-                                       </div>
-                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
-                                          <a class="game_image">
-                                             <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/17448.jpg" class="el-image__inner"><!---->
-                                             </div>
-                                          </a>
-                                          <div class="top_winners_games_column_user"><span>Pun****</span><strong class="game_name">Sweet Bonanza CandyLand</strong></div>
-                                          <!---->
-                                          <div class="top_winners_games_column_profit">
-                                             <strong>Kazanç</strong><span>₺1,998,000</span><!---->
-                                          </div>
-                                       </div>
-                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
-                                          <a class="game_image">
-                                             <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg" class="el-image__inner"><!---->
-                                             </div>
-                                          </a>
-                                          <div class="top_winners_games_column_user"><span>agk******</span><strong class="game_name">Gates of Olympus 1000™</strong></div>
-                                          <!---->
-                                          <div class="top_winners_games_column_profit">
-                                             <strong>Kazanç</strong><span>₺1,811,670</span><!---->
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <!---->
-                                 </div>
-                              </section>
-                           </div>
-                        </div>
-                     </top-winners>
-                  </div>
-                  <!---->
-               </div>
-            </div>
-            <div class="bmm panel_drawer custom_menu_drawer">
-               <div class="sidemenu ">
-                  <div class="header">
-                     <div class="title">En Çok Kazananlar</div>
-                     <i class="el-icon-close close"></i>
-                  </div>
-                  <div class="drawer_content"></div>
-                  <!---->
-               </div>
-            </div>
-            <div class="bmm bm betmaster_tournament_table">
-               <div class="tournament_button"><i class="fas fa-medal"></i></div>
-               <div class="sidemenu">
-                  <div class="header">
-                     <div class="title">Turnuvalar</div>
-                     <i class="el-icon-close close"></i>
-                  </div>
-                  <!---->
-               </div>
-            </div>
-            <div class="el-dialog__wrapper bt_modal" style="display: none;">
-               <div role="dialog" aria-modal="true" aria-label="dialog" class="el-dialog is-fullscreen">
-                  <div class="el-dialog__header"><span class="el-dialog__title"></span><button type="button" aria-label="Close" class="el-dialog__headerbtn"><i class="el-dialog__close el-icon el-icon-close"></i></button></div>
-                  <!----><!---->
-               </div>
-            </div>
-            <!---->
-            <div class="bmm betmaster_post_page" style="display: none;">
-               <div class="el-icon-close post_close_btn"></div>
-               <!----><!---->
-            </div>
-            <div class="bmm bm">
-               <!---->
-            </div>
-            <!----><!---->
-            <div class="el-dialog__wrapper participate_modal" style="display: none;">
-               <div role="dialog" aria-modal="true" aria-label="Katıl" class="el-dialog" style="margin-top: 15vh;">
-                  <div class="el-dialog__header"><span class="el-dialog__title">Katıl</span><button type="button" aria-label="Close" class="el-dialog__headerbtn"><i class="el-dialog__close el-icon el-icon-close"></i></button></div>
-                  <!----><!---->
-               </div>
-            </div>
-         </div>
-      </bet-master>
-      <div class="drag-target" data-sidenav="user-menu" style="right: 0px; touch-action: pan-y; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></div>
-   </body>
-</html>
