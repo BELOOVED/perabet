@@ -532,7 +532,7 @@ div:where(.swal2-icon).swal2-warning {
                                                    <i class="bm_dropdown_arrow fas fa-angle-down"></i><i class="bm_dropdown_arrow material-icons arr-down pg-icons" style="display: none;">keyboard_arrow_down</i>
                                                 </div>
                                              </div>
-                                             <div class="bm_dropdown_menu show" style="">
+                                             <div class="bm_dropdown_menu show" style="display: none">
                                                 <div>
                                                    <div class="bm_dropdown_menu_item">
                                                       <div class="my_ref_list menu_title"><i class="fas fa-user-friends"></i> Referanslarım Listesi </div>
@@ -747,7 +747,7 @@ div:where(.swal2-icon).swal2-warning {
                                        </li>
                                        <script>
                                           $(document).ready(function() {
-    $('#dropdown-responsive-menu').click(function() {
+    $('#ddropdown-responsive-menu').click(function() {
         $(this).toggleClass('active');
         $('#dropdown-responsive-menu').slideToggle('fast', function() {
             if ($(this).is(':visible')) {
@@ -760,7 +760,7 @@ div:where(.swal2-icon).swal2-warning {
                                        </script>
 
                                        <li data-element="dropdown-wrapper" style="display: block;">
-                                          <a href="javascript:;" materialize="dropdown" data-activates="dropdown-responsive-menu" id="dropdown-responsive-menu" class="dropdown-button"><span data-element="dropdown-button" class="menu-count">+6</span><i class="material-icons left pg-icons">arrow_drop_down</i></a>
+                                          <a href="javascript:;" materialize="dropdown" data-activates="dropdown-responsive-menu" id="ddropdown-responsive-menu" class="dropdown-button"><span data-element="dropdown-button" class="menu-count">+6</span><i class="material-icons left pg-icons">arrow_drop_down</i></a>
                                           <ul id="dropdown-responsive-menu" data-element="dropdown-container" class="dropdown-content main-menu-drop active" style="white-space: nowrap; position: absolute; top: 111.9px; left: 1336.39px; display: none; opacity: 1;">
                                              <li data-order="11"><a routerlinkactive="active" href="/games"><i class="fa fa-heart fix-hide pg-icons left"></i> PERABET JACKPOT </a></li>
                                              <li data-order="12"><a routerlinkactive="active" class="waves-effect waves-light" href="/poker"><i class="menu-icon perabet-menu-tombala fix-hide pg-icons left"></i> Poker </a></li>
