@@ -505,32 +505,50 @@ div:where(.swal2-icon).swal2-warning {
                               <div class="hdr-usr-mn right">
                                  <app-static-inner-content contentcode="header_content_area">
                                     <div extroutelink="" id="header_content_area">
-                                       <customer-point vce-ready="">
-                                          <div id="customerPoint" class="bm bmm customer_point">
-                                             <div class="bm_dropdown">
-                                                <div class="bm_customer_menu">
-                                                   <div class="customer_point_inner">
-                                                      <div class="el-tooltip customer_rank_icon" aria-describedby="el-tooltip-7257" tabindex="0">
-                                                         <div class="rank_logo" style="background-color: rgb(234, 141, 12);">
-                                                            <div class="panelicon-customRank rank_logo_inner"></div>
-                                                         </div>
-                                                         <i class="fas fa-star mr-1 rank_icon" style="color: rgb(234, 141, 12);"></i>
+                                       <script>
+                                          $(document).ready(function() {
+                                          $('#customerPoint').click(function() {
+                                             $('.bm_dropdown_menu').slideToggle('fast', function() {
+                                                   if ($(this).is(':visible')) {
+                                                      $(this).css('display', 'block');
+                                                   }
+                                             });
+                                          });
+                                       });
+
+                                       </script>
+                                    <customer-point vce-ready="">
+                                       <div id="customerPoint" class="bm bmm customer_point">
+                                          <div class="bm_dropdown">
+                                             <div class="bm_customer_menu">
+                                                <div class="customer_point_inner">
+                                                   <div class="el-tooltip customer_rank_icon" aria-describedby="el-tooltip-270" tabindex="0">
+                                                      <div class="rank_logo" style="background-color: rgb(234, 141, 12);">
+                                                         <div class="panelicon-customRank rank_logo_inner"></div>
                                                       </div>
-                                                      <div class="c_p_inner"><span class="mr-1 point"> 0 </span><span class="coin_name_inner"> PeraPara</span><span class="show_rank_name">(Bronz Üye)</span></div>
-                                                      <i class="bm_dropdown_arrow fas fa-angle-down"></i><i class="bm_dropdown_arrow material-icons arr-down pg-icons" style="display: none;">keyboard_arrow_down</i>
+                                                      <i class="fas fa-star mr-1 rank_icon" style="color: rgb(234, 141, 12);"></i>
                                                    </div>
+                                                   <div class="c_p_inner"><span class="mr-1 point"> 0 </span><span class="coin_name_inner"> PeraPara</span><span class="show_rank_name">(Bronz Üye)</span></div>
+                                                   <i class="bm_dropdown_arrow fas fa-angle-down"></i><i class="bm_dropdown_arrow material-icons arr-down pg-icons" style="display: none;">keyboard_arrow_down</i>
                                                 </div>
-                                                <div class="bm_dropdown_menu show" style="display: none;">
-                                                   <div>
-                                                      <div class="bm_dropdown_menu_item">
-                                                         <div class="my_ref_list menu_title"><i class="fas fa-user-friends"></i> Referanslarım Listesi </div>
-                                                         <!---->
+                                             </div>
+                                             <div class="bm_dropdown_menu show" style="">
+                                                <div>
+                                                   <div class="bm_dropdown_menu_item">
+                                                      <div class="my_ref_list menu_title"><i class="fas fa-user-friends"></i> Referanslarım Listesi </div>
+                                                      <div class="bmm bm">
+                                                         <div class="customer_reflist">
+                                                            <!---->
+                                                            <div class="loading_row"> Henüz referansınız bulunmuyor </div>
+                                                            <!---->
+                                                         </div>
                                                       </div>
                                                    </div>
                                                 </div>
                                              </div>
                                           </div>
-                                       </customer-point>
+                                       </div>
+                                    </customer-point>
                                     </div>
                                     <div></div>
                                     <div></div>
@@ -729,7 +747,7 @@ div:where(.swal2-icon).swal2-warning {
                                        </li>
                                        <script>
                                           $(document).ready(function() {
-    $('.dropdown-button').click(function() {
+    $('#dropdown-responsive-menu').click(function() {
         $(this).toggleClass('active');
         $('#dropdown-responsive-menu').slideToggle('fast', function() {
             if ($(this).is(':visible')) {
@@ -742,7 +760,7 @@ div:where(.swal2-icon).swal2-warning {
                                        </script>
 
                                        <li data-element="dropdown-wrapper" style="display: block;">
-                                          <a href="javascript:;" materialize="dropdown" data-activates="dropdown-responsive-menu" class="dropdown-button"><span data-element="dropdown-button" class="menu-count">+6</span><i class="material-icons left pg-icons">arrow_drop_down</i></a>
+                                          <a href="javascript:;" materialize="dropdown" data-activates="dropdown-responsive-menu" id="dropdown-responsive-menu" class="dropdown-button"><span data-element="dropdown-button" class="menu-count">+6</span><i class="material-icons left pg-icons">arrow_drop_down</i></a>
                                           <ul id="dropdown-responsive-menu" data-element="dropdown-container" class="dropdown-content main-menu-drop active" style="white-space: nowrap; position: absolute; top: 111.9px; left: 1336.39px; display: none; opacity: 1;">
                                              <li data-order="11"><a routerlinkactive="active" href="/games"><i class="fa fa-heart fix-hide pg-icons left"></i> PERABET JACKPOT </a></li>
                                              <li data-order="12"><a routerlinkactive="active" class="waves-effect waves-light" href="/poker"><i class="menu-icon perabet-menu-tombala fix-hide pg-icons left"></i> Poker </a></li>
