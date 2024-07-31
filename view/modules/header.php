@@ -729,26 +729,18 @@ div:where(.swal2-icon).swal2-warning {
                                        </li>
                                        <script>
                                           $(document).ready(function() {
-                                       // Dropdown butonuna tıklama olayını tanımla
-                                       $('.dropdown-button').on('click', function(e) {
-                                          e.preventDefault(); // Varsayılan bağlantı davranışını engelle
-                                          
-                                          // İlgili dropdown menüyü aç/kapa
-                                          $(this).next('.dropdown-content').toggle(); // Toggle kullanarak aç/kapa yap
-                                          
-                                          // Diğer açık olan dropdown menüleri kapat (isteğe bağlı)
-                                          $('.dropdown-content').not($(this).next('.dropdown-content')).hide();
-                                       });
-
-                                       // Sayfa dışında bir yere tıklanırsa, açık olan dropdown menüleri kapat
-                                       $(document).on('click', function(e) {
-                                          if (!$(e.target).closest('.dropdown-wrapper').length) {
-                                             $('.dropdown-content').hide();
-                                          }
-                                       });
-                                       });
+    $('.dropdown-button').click(function() {
+        $(this).toggleClass('active');
+        $('#dropdown-responsive-menu').slideToggle('fast', function() {
+            if ($(this).is(':visible')) {
+                $(this).css('display', 'block');
+            }
+        });
+    });
+});
 
                                        </script>
+
                                        <li data-element="dropdown-wrapper" style="display: block;">
                                           <a href="javascript:;" materialize="dropdown" data-activates="dropdown-responsive-menu" class="dropdown-button"><span data-element="dropdown-button" class="menu-count">+6</span><i class="material-icons left pg-icons">arrow_drop_down</i></a>
                                           <ul id="dropdown-responsive-menu" data-element="dropdown-container" class="dropdown-content main-menu-drop" style="white-space: nowrap; position: absolute; top: 111.9px; left: 1336.39px; display: none; opacity: 1;">
