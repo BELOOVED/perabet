@@ -222,34 +222,18 @@
          /* Promoted Events Start */
          /* Promoted Events End */
       </style>
-      <link rel="stylesheet" href="styles.e1df64582e03070dcc61.css" media="all" onload="this.media='all'">
+      <link rel="stylesheet" href="/assets/css/appm.css" media="all" onload="this.media='all'">
+      <link rel="stylesheet" href="/assets/css/custom.css" media="all" onload="this.media='all'">
+
       <noscript>
-         <link rel="stylesheet" href="styles.e1df64582e03070dcc61.css">
+         <link rel="stylesheet" href="/assets/css/appm.css">
       </noscript>
       <link rel="canonical" href="https://m.perabet1039.com/tr">
       <link rel="alternate" hreflang="en" href="https://m.perabet1039.com/en">
-      <script type="text/javascript" src="https://js.pusher.com/7.0/pusher.min.js"></script><script type="text/javascript">
-         $.ajax({url:"https://pfcdn.b-cdn.net/assets/app.js",dataType:"script",tryCount:0,retryLimit:3,cache:!0,error:function(t,e,r){if(1!=window.panelFront){window.localStorage.getItem("customerCode"),t.status;if(this.tryCount++,this.tryCount<=this.retryLimit){var n=this;return void setTimeout(function(){$.ajax(n)},400)}}},success:function(){$("body").append('<bet-master merchant="pn10" language="tr"></bet-master>')}});
-      </script><script type="text/javascript"></script>
+      <script type="text/javascript" src="https://js.pusher.com/7.0/pusher.min.js"></script>
       <link rel="stylesheet" href="https://pfcdn.b-cdn.net/assets/pn10.css">
       <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
-      <script src="https://libs.smartico.ai/smartico.js"></script><script type="text/javascript">
-         (function (i, s, o, g, r, a, m) {
-             i['GoogleAnalyticsObject'] = r;
-             i[r] = i[r] || function ()
-             {
-                 (i[r].q = i[r].q || []).push(arguments)
-             }
-             , i[r].l = 1 * new Date();
-             a = s.createElement(o),
-                     m = s.getElementsByTagName(o)[0];
-             a.async = 1;
-             a.src = g;
-             m.parentNode.insertBefore(a, m)
-         })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-         ga('create', 'UA-69718705-1', 'auto');
-         ga('send', 'pageview');
-      </script>
+      <script src="https://libs.smartico.ai/smartico.js"></script>
       <style type="text/css">.marquee-text-wrap{overflow:hidden}.marquee-text-content{width:100000px}.marquee-text-text{-webkit-animation-name:marquee-text-animation;animation-name:marquee-text-animation;-webkit-animation-timing-function:linear;animation-timing-function:linear;-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite;float:left}.marquee-text-paused .marquee-text-text{-webkit-animation-play-state:paused;animation-play-state:paused}@-webkit-keyframes marquee-text-animation{0%{-webkit-transform:translateX(0);transform:translateX(0)}to{-webkit-transform:translateX(-100%);transform:translateX(-100%)}}@keyframes marquee-text-animation{0%{-webkit-transform:translateX(0);transform:translateX(0)}to{-webkit-transform:translateX(-100%);transform:translateX(-100%)}}</style>
       <style type="text/css">.vue-slider-dot{position:absolute;-webkit-transition:all 0s;transition:all 0s;z-index:5}.vue-slider-dot:focus{outline:none}.vue-slider-dot-tooltip{position:absolute;visibility:hidden}.vue-slider-dot-hover:hover .vue-slider-dot-tooltip,.vue-slider-dot-tooltip-show{visibility:visible}.vue-slider-dot-tooltip-top{top:-10px;left:50%;-webkit-transform:translate(-50%,-100%);transform:translate(-50%,-100%)}.vue-slider-dot-tooltip-bottom{bottom:-10px;left:50%;-webkit-transform:translate(-50%,100%);transform:translate(-50%,100%)}.vue-slider-dot-tooltip-left{left:-10px;top:50%;-webkit-transform:translate(-100%,-50%);transform:translate(-100%,-50%)}.vue-slider-dot-tooltip-right{right:-10px;top:50%;-webkit-transform:translate(100%,-50%);transform:translate(100%,-50%)}</style>
       <style type="text/css">.vue-slider-marks{position:relative;width:100%;height:100%}.vue-slider-mark{position:absolute;z-index:1}.vue-slider-ltr .vue-slider-mark,.vue-slider-rtl .vue-slider-mark{width:0;height:100%;top:50%}.vue-slider-ltr .vue-slider-mark-step,.vue-slider-rtl .vue-slider-mark-step{top:0}.vue-slider-ltr .vue-slider-mark-label,.vue-slider-rtl .vue-slider-mark-label{top:100%;margin-top:10px}.vue-slider-ltr .vue-slider-mark{-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}.vue-slider-ltr .vue-slider-mark-step{left:0}.vue-slider-ltr .vue-slider-mark-label{left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.vue-slider-rtl .vue-slider-mark{-webkit-transform:translate(50%,-50%);transform:translate(50%,-50%)}.vue-slider-rtl .vue-slider-mark-step{right:0}.vue-slider-rtl .vue-slider-mark-label{right:50%;-webkit-transform:translateX(50%);transform:translateX(50%)}.vue-slider-btt .vue-slider-mark,.vue-slider-ttb .vue-slider-mark{width:100%;height:0;left:50%}.vue-slider-btt .vue-slider-mark-step,.vue-slider-ttb .vue-slider-mark-step{left:0}.vue-slider-btt .vue-slider-mark-label,.vue-slider-ttb .vue-slider-mark-label{left:100%;margin-left:10px}.vue-slider-btt .vue-slider-mark{-webkit-transform:translate(-50%,50%);transform:translate(-50%,50%)}.vue-slider-btt .vue-slider-mark-step{top:0}.vue-slider-btt .vue-slider-mark-label{top:50%;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.vue-slider-ttb .vue-slider-mark{-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}.vue-slider-ttb .vue-slider-mark-step{bottom:0}.vue-slider-ttb .vue-slider-mark-label{bottom:50%;-webkit-transform:translateY(50%);transform:translateY(50%)}.vue-slider-mark-label,.vue-slider-mark-step{position:absolute}</style>
