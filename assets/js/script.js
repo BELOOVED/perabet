@@ -230,18 +230,23 @@ $(document).ready(function() {
  $(document).ready(function() {
    var header = $('#hdr-c');
    var appHeader = $('app-header');
+   var previousScroll = 0;
 
    $(window).scroll(function() {
        var currentScroll = $(this).scrollTop();
 
-       if (currentScroll > 0) {
-           // Sayfa en üstte değil, kaydırıldı
-           header.removeClass('shw-fx').addClass('hd-fx');
+       if (currentScroll > previousScroll) {
+           // Kullanıcı aşağı kaydırıyor
            appHeader.css('top', '-40px');
        } else {
-           // Sayfa en üstte
+           // Kullanıcı yukarı kaydırıyor veya sayfa en üstte
+           if (currentScroll === 0) {
+               // Sayfa en üstte
+               appHeader.css('top', '0px');
+           }
            header.removeClass('hd-fx').addClass('shw-fx');
-           appHeader.css('top', '0px');
        }
+
+       previousScroll = currentScroll;
    });
 });
