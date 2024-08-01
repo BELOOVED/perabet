@@ -228,25 +228,27 @@ $(document).ready(function() {
    }, 2000); // 2 saniye sonra preloader'ı gizle
  });
  $(document).ready(function() {
-   var header = $('#hdr-c');
-   var appHeader = $('app-header');
-   var previousScroll = 0;
+    var header = $('#hdr-c');
+    var appHeader = $('app-header');
+    var previousScroll = 0;
 
-   $(window).scroll(function() {
-       var currentScroll = $(this).scrollTop();
+    $(window).scroll(function() {
+        var currentScroll = $(this).scrollTop();
 
-       if (currentScroll > previousScroll) {
-           // Kullanıcı aşağı kaydırıyor
-           appHeader.css('top', '-40px');
-       } else {
-           // Kullanıcı yukarı kaydırıyor veya sayfa en üstte
-           if (currentScroll === 0) {
-               // Sayfa en üstte
-               appHeader.css('top', '0px');
-           }
-           header.removeClass('hd-fx').addClass('shw-fx');
-       }
+        if (currentScroll > previousScroll) {
+            // Kullanıcı aşağı kaydırıyor
+            header.removeClass('shw-fx').addClass('hd-fx');
+            appHeader.css('top', '-40px');
+        } else {
+            // Kullanıcı yukarı kaydırıyor
+            header.removeClass('hd-fx').addClass('shw-fx');
+        }
 
-       previousScroll = currentScroll;
-   });
+        if (currentScroll === 0) {
+            // Sayfa en üstte
+            appHeader.css('top', '0px');
+        }
+
+        previousScroll = currentScroll;
+    });
 });
