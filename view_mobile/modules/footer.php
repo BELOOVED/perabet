@@ -133,6 +133,61 @@
       <bet-master merchant="pn10" language="tr" vce-ready="">
          <div id="PanelFront">
             <!---->
+            <script>
+        $(document).ready(function() {
+            // Cookie ayarlama fonksiyonu
+            function setCookie(name, value, days) {
+                var expires = "";
+                if (days) {
+                    var date = new Date();
+                    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                    expires = "; expires=" + date.toUTCString();
+                }
+                document.cookie = name + "=" + (value || "") + expires + "; path=/";
+            }
+
+            // Cookie okuma fonksiyonu
+            function getCookie(name) {
+                var nameEQ = name + "=";
+                var ca = document.cookie.split(';');
+                for (var i = 0; i < ca.length; i++) {
+                    var c = ca[i];
+                    while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+                    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+                }
+                return null;
+            }
+
+            // Modalı gösterme fonksiyonu
+            function showModal() {
+                $(".bm_popup_cover .popup_container").fadeIn();
+                $(".bm_popup_mask").fadeIn();
+            }
+
+            // Modalı kapatma fonksiyonu
+            function closeModal() {
+                $(".bm_popup_cover .popup_container").fadeOut();
+                $(".bm_popup_mask").fadeOut();
+            }
+
+            // "Bir daha gösterme" butonuna tıklanınca cookie oluştur
+            $(".never_show").click(function() {
+                setCookie("modal_shown", "true", 30); // Cookie 30 gün süresince geçerli olacak
+                closeModal();
+            });
+
+            // X butonuna tıklanınca modalı kapat
+            $(".close_btn").click(function() {
+                setCookie("modal_shown", "true", 30); // Cookie 30 gün süresince geçerli olacak
+                closeModal();
+            });
+
+            // Cookie kontrolü ve modal gösterme
+            if (!getCookie("modal_shown")) {
+                showModal();
+            }
+        });
+    </script>
             <div class="bm_popup_cover">
                <div class="popup_cover">
                   <div class="popup_container bm_popup" style="display: none;">
