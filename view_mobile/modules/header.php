@@ -384,6 +384,32 @@ div:where(.swal2-icon).swal2-warning {
                   <!----><!---->
                </app-static-inner-content>
                <!---->
+               <style>
+    .side-nav {
+      width: 250px;
+      height: 100%;
+      background-color: #f8f8f8;
+      position: fixed;
+      top: 0;
+      left: 0;
+      transform: translateX(-100%);
+      transition: transform 0.3s ease;
+    }
+    .side-nav.open {
+      transform: translateX(0);
+    }
+  </style>
+  <script>
+$(document).ready(function(){
+  $('#leftbuton').click(function(){
+    $('#left-menu').toggleClass('open');
+  });
+
+  $('#userbuton').click(function(){
+    $('#user-menu').toggleClass('open');
+  });
+});
+</script>
                <header id="hdr-c" class="navbar-fixed shw-fx">
                   <nav>
                      <div class="nav-wrapper">
@@ -411,32 +437,7 @@ div:where(.swal2-icon).swal2-warning {
                   <!---->
                </div>
             </app-header>
-            <style>
-    .side-nav {
-      width: 250px;
-      height: 100%;
-      background-color: #f8f8f8;
-      position: fixed;
-      top: 0;
-      left: 0;
-      transform: translateX(-100%);
-      transition: transform 0.3s ease;
-    }
-    .side-nav.open {
-      transform: translateX(0);
-    }
-  </style>
-  <script>
-$(document).ready(function(){
-  $('#leftbuton').click(function(){
-    $('#left-menu').toggleClass('open');
-  });
-
-  $('#userbuton').click(function(){
-    $('#user-menu').toggleClass('open');
-  });
-});
-</script>
+            
             <app-sidebar>
                <div id="left-menu" class="side-nav" style="transform: translateX(-100%);">
                   <div class="side-nav-header">
