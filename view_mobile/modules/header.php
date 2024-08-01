@@ -387,7 +387,7 @@ div:where(.swal2-icon).swal2-warning {
                <header id="hdr-c" class="navbar-fixed shw-fx">
                   <nav>
                      <div class="nav-wrapper">
-                        <a class="logo logo-out" href="/tr"><img src="views/trader/perabet/assets/images/logo.png" alt="" class="lg"></a><a materialize="sideNav" href="javascript:;" data-activates="left-menu" class="button-collapse menu-icon-head"><i class="material-icons">menu</i></a><a href="javascript:;" materialize="sideNav" data-activates="user-menu" class="button-collapse user-icon right right-sidebar"><i aria-hidden="true" class="fa fa-user"></i></a><!----><!---->
+                        <a class="logo logo-out" href="/tr"><img src="/assets/css/logo.png" alt="" class="lg"></a><a materialize="sideNav" href="javascript:;" data-activates="left-menu" class="button-collapse menu-icon-head"><i class="material-icons">menu</i></a><a href="javascript:;" materialize="sideNav" data-activates="user-menu" class="button-collapse user-icon right right-sidebar"><i aria-hidden="true" class="fa fa-user"></i></a><!----><!---->
                      </div>
                   </nav>
                   <app-static-inner-content contentcode="m_header-static">
@@ -414,7 +414,7 @@ div:where(.swal2-icon).swal2-warning {
             <app-sidebar>
                <div id="left-menu" class="side-nav" style="transform: translateX(-100%);">
                   <div class="side-nav-header">
-                     <div class="top-logo"><a class="logo" href="/tr"><img src="views/trader/perabet/assets/images/logo.png" alt="" class="lg"></a></div>
+                     <div class="top-logo"><a class="logo" href="/tr"><img src="/assets/css/logo.png" alt="" class="lg"></a></div>
                      <div class="top-icon"><a href="javascript:;"><i aria-hidden="true" class="fa fa-times"></i></a></div>
                   </div>
                   <div class="input-field search-one-input">
@@ -427,33 +427,33 @@ div:where(.swal2-icon).swal2-warning {
                      <!---->
                   </app-static-inner-content>
                   <ul materialize="tabs" class="tabs">
-                     <li class="tab"><a routerlinkactive="active" href="/tr" class="active"><span><i class="material-icons">home</i></span> Ana sayfa </a></li>
-                     <li class="tab"><a routerlinkactive="active" href="/tr/bet/sports"><span><i class="icon soccer-special"></i></span> Spor Bahisleri </a></li>
+                     <li class="tab"><a routerlinkactive="active" href="/" class="active"><span><i class="material-icons">home</i></span> Ana sayfa </a></li>
+                     <li class="tab"><a routerlinkactive="active" href="/sportsbook"><span><i class="icon soccer-special"></i></span> Spor Bahisleri </a></li>
                      <!---->
-                     <li class="tab"><a routerlinkactive="active" href="/tr/bet/live"><span><i class="icon stream-icon"></i></span> Canlı </a></li>
+                     <li class="tab"><a routerlinkactive="active" href="/live"><span><i class="icon stream-icon"></i></span> Canlı </a></li>
                      <!---->
-                     <li class="tab"><a routerlinkactive="active" href="/tr/games/casino"><span><i class="icon cherry"></i></span> Casino </a></li>
+                     <li class="tab"><a routerlinkactive="active" href="/casino"><span><i class="icon cherry"></i></span> Casino </a></li>
                      <!---->
-                     <li class="tab"><a routerlinkactive="active" href="/tr/games/custom-categories"><span><i class="fa fa-heart"></i></span> PERABET JACKPOT </a></li>
+                     <li class="tab"><a routerlinkactive="active" href="/games"><span><i class="fa fa-heart"></i></span> PERABET JACKPOT </a></li>
                      <!----><!---->
-                     <li class="tab"><a routerlinkactive="active" href="/tr/games/livecasino"><span><i class="icon cards-fill"></i></span> Canlı Casino </a></li>
-                     <li class="tab"><a routerlinkactive="active" href="/tr/games/detail/casino/demo/7787"><span><i class="fa fa-plane pg-icons"></i></span> Aviator </a></li>
-                     <li class="tab"><a routerlinkactive="active" href="/tr/bet/virtuals"><span><i class="pg-icons fa fa-university"></i></span> Sanal Bahis </a></li>
+                     <li class="tab"><a routerlinkactive="active" href="/livecasino"><span><i class="icon cards-fill"></i></span> Canlı Casino </a></li>
+                     <li class="tab"><a routerlinkactive="active" href="/aviator"><span><i class="fa fa-plane pg-icons"></i></span> Aviator </a></li>
+                     <li class="tab"><a routerlinkactive="active" href="/virtual"><span><i class="pg-icons fa fa-university"></i></span> Sanal Bahis </a></li>
                      <li class="indicator" style="right: 201px; left: 0px;"></li>
                   </ul>
                   <div id="home-menu">
                      <!---->
                      <ul class="sidenav-menu">
                         <!----><!---->
-                        <li><a routerlinkactive="active" href="/tr" class="active"><i class="pg-icons icon soccer-shoe"></i> Ana sayfa </a></li>
-                        <li><a href="/tr/bet/today-events"><i class="pg-icons fa fa-calendar-o"></i> Günün Maçları </a></li>
+                        <li><a routerlinkactive="active" href="/" class="active"><i class="pg-icons icon soccer-shoe"></i> Ana sayfa </a></li>
+                        <li><a href="/sportsbook"><i class="pg-icons fa fa-calendar-o"></i> Günün Maçları </a></li>
                         <!---->
-                        <li><a href="/tr/bet/sports"><i class="pg-icons icon champions-league"></i> Spor Bahisleri </a></li>
+                        <li><a href="/sportsbook"><i class="pg-icons icon champions-league"></i> Spor Bahisleri </a></li>
                         <!---->
-                        <li><a routerlinkactive="active" href="/tr/bet/live"><i class="pg-icons icon scoreboard"></i> Canlı Bahis </a></li>
+                        <li><a routerlinkactive="active" href="/live"><i class="pg-icons icon scoreboard"></i> Canlı Bahis </a></li>
                         <!---->
-                        <li><a routerlinkactive="active" href="/tr/games/casino"><i class="icon cherry pg-icons"></i> Casino Slot </a></li>
-                        <li><a routerlinkactive="active" href="/tr/bet/binary"><i class="pg-icons fa fa-bold"></i> Trade ile Kazanın! <span class="menu-new-item">Yeni</span></a></li>
+                        <li><a routerlinkactive="active" href="/casino"><i class="icon cherry pg-icons"></i> Casino Slot </a></li>
+                        <li><a routerlinkactive="active" href="/binary"><i class="pg-icons fa fa-bold"></i> Trade ile Kazanın! <span class="menu-new-item">Yeni</span></a></li>
                         <!---->
                         <ul materialize="collapsible" data-collapsible="accordion" class="collapsible collapsible-accordion menu-tv-games">
                            <li>
@@ -467,19 +467,19 @@ div:where(.swal2-icon).swal2-warning {
                               </div>
                            </li>
                         </ul>
-                        <li><a routerlinkactive="active" href="/tr/games/custom-categories"><i class="fa fa-heart pg-icons"></i> PERABET JACKPOT </a></li>
+                        <li><a routerlinkactive="active" href="/games"><i class="fa fa-heart pg-icons"></i> PERABET JACKPOT </a></li>
                         <!----><!---->
-                        <li><a routerlinkactive="active" href="/tr/games/livecasino"><i class="icon cards-fill pg-icons"></i> Canlı Casino </a></li>
+                        <li><a routerlinkactive="active" href="/livecasino"><i class="icon cards-fill pg-icons"></i> Canlı Casino </a></li>
                         <!---->
-                        <li>
+                        <li onclick="window.location.href = '/casino'">
                            <ul materialize="collapsible" data-collapsible="accordion" class="collapsible collapsible-accordion menu-tv-games">
                               <li>
                                  <a class="collapsible-header"><i class="fa fa-gamepad pg-icons"></i><span class="flex-item text">Crash Games</span><i class="pg-icons material-icons right arrow">keyboard_arrow_right</i></a>
                                  <div class="collapsible-body">
                                     <ul>
-                                       <li><a routerlinkactive="active" href="/tr/games/detail/casino/demo/20386"><i aria-hidden="true" class="fa fa-rocket pg-icons"></i> Perabet JetX </a></li>
+                                       <li><a routerlinkactive="active" href="/casino"><i aria-hidden="true" class="fa fa-rocket pg-icons"></i> Perabet JetX </a></li>
                                        <!---->
-                                       <li><a routerlinkactive="active" href="/tr/games/detail/casino/demo/7787"><i class="fa fa-plane pg-icons"></i> Aviator </a></li>
+                                       <li><a routerlinkactive="active" href="/casino"><i class="fa fa-plane pg-icons"></i> Aviator </a></li>
                                        <!---->
                                        <li><a routerlinkactive="active" href="/tr/games/detail/casino/demo/24245"><span class="menu-new-item">Yeni</span><i aria-hidden="true" class="fa fa-plane pg-icons"></i> Vecihi </a></li>
                                        <!---->
@@ -517,22 +517,22 @@ div:where(.swal2-icon).swal2-warning {
                            <!---->
                         </li>
                         <!----><!---->
-                        <li><a routerlinkactive="active" href="/tr/games/poker"><i class="icon pg-icons chip"></i> Poker </a></li>
+                        <li><a routerlinkactive="active" href="/poker"><i class="icon pg-icons chip"></i> Poker </a></li>
                         <!----><!---->
-                        <li><a href="/tr/bet/anteposts"><i class="fa fa-calendar pg-icons"></i> Uzun Vadeli Karşılaşmalar </a></li>
+                        <li><a href="/sportsbook"><i class="fa fa-calendar pg-icons"></i> Uzun Vadeli Karşılaşmalar </a></li>
                         <!---->
-                        <li><a routerlinkactive="active" href="/tr/bet/top-list"><i class="pg-icons fa fa-trophy"></i> En İyiler </a></li>
+                        <li><a routerlinkactive="active" href="/sportsbook"><i class="pg-icons fa fa-trophy"></i> En İyiler </a></li>
                         <!----><!---->
-                        <li><a routerlinkactive="active" href="/tr/bet/ultraplay-esports"><i class="pg-icons icon counter-strike"></i> E-Sporlar </a></li>
+                        <li><a routerlinkactive="active" href="/esports"><i class="pg-icons icon counter-strike"></i> E-Sporlar </a></li>
                         <!----><!----><!---->
-                        <li><a routerlinkactive="active" href="/tr/games/casino/spribe"><i class="fa fa-mobile pg-icons svg-font-icons"></i> Mobil Oyunlar </a></li>
-                        <li><a routerlinkactive="active" href="/tr/bet/virtuals"><i class="pg-icons fa fa-university"></i> Sanal Bahis </a></li>
+                        <li><a routerlinkactive="active" href="/games"><i class="fa fa-mobile pg-icons svg-font-icons"></i> Mobil Oyunlar </a></li>
+                        <li><a routerlinkactive="active" href="/virtual"><i class="pg-icons fa fa-university"></i> Sanal Bahis </a></li>
                         <!----><!---->
-                        <li><a routerlinkactive="active" href="/tr/games/bingo/9427"><i class="pg-icons icon spades"></i> Canlı Tombala </a></li>
+                        <li><a routerlinkactive="active" href="/bingo"><i class="pg-icons icon spades"></i> Canlı Tombala </a></li>
                         <!---->
                         <li><a target="_blank" href="http://onay.io/Tv2"><i class="pg-icons fa fa-television"></i> Perabet TV </a></li>
                         <!---->
-                        <li><a routerlinkactive="active" href="/tr/contents/promotions"><i class="pg-icons material-icons">redeem</i> Promosyon </a></li>
+                        <li><a routerlinkactive="active" href="/promotions"><i class="pg-icons material-icons">redeem</i> Promosyon </a></li>
                         <!---->
                         <app-sports-services>
                            <li><a href="javascript:;"><i class="pg-icons fa fa-file-text-o"></i> Canlı Sonuçlar </a></li>
@@ -576,13 +576,13 @@ div:where(.swal2-icon).swal2-warning {
                <div id="user-menu" class="side-nav right-aligned" style="transform: translateX(100%);">
                   <div class="side-nav-header">
                      <div class="top-icon"><a href="javascript:;"><i aria-hidden="true" class="fa fa-times"></i></a></div>
-                     <div class="top-logo"><a routerlink="/" class="logo" href="/"><img class="lg" src="views/trader/perabet/assets/images/logo.png" alt="perabet"></a></div>
+                     <div class="top-logo"><a routerlink="/" class="logo" href="/"><img class="lg" src="/assets/css/logo.png" alt="perabet"></a></div>
                   </div>
                   <!---->
                   <div class="logout-menu">
                      <div class="title">
                         <h5>Giriş yapın veya kayıt olun!</h5>
-                        <a routerlinkactive="active" class="btn login-btn" href="/tr/authentication/signin"> Giriş </a><a href="javascript:;" class="btn register-btn"> Üye Ol </a>
+                        <a routerlinkactive="active" class="btn login-btn" href="/login"> Giriş </a><a href="/register" class="btn register-btn"> Üye Ol </a>
                      </div>
                      <div class="logout-menu-bottom">
                         <ul class="sidenav-menu">

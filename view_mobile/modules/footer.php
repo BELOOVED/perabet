@@ -656,6 +656,7 @@
             </div>
          </div>
       </bet-master>
+      
 <?=html_entity_decode($main['sources'], ENT_QUOTES, 'UTF-8')?>
 <script>
 <?php if(isset($us['id'])){?>
