@@ -387,7 +387,7 @@ div:where(.swal2-icon).swal2-warning {
                <header id="hdr-c" class="navbar-fixed shw-fx">
                   <nav>
                      <div class="nav-wrapper">
-                        <a class="logo logo-out" href="/tr"><img src="/assets/css/logo.png" alt="" class="lg"></a><a materialize="sideNav" href="javascript:;" data-activates="left-menu" class="button-collapse menu-icon-head"><i class="material-icons">menu</i></a><a href="javascript:;" materialize="sideNav" data-activates="user-menu" class="button-collapse user-icon right right-sidebar"><i aria-hidden="true" class="fa fa-user"></i></a><!----><!---->
+                        <a class="logo logo-out" href="/"><img src="/assets/css/logo.png" alt="" class="lg"></a><a materialize="sideNav" href="javascript:;" data-activates="left-menu" id="leftbuton" class="button-collapse menu-icon-head"><i class="material-icons">menu</i></a><a href="javascript:;" materialize="sideNav" data-activates="user-menu" id="userbuton" class="button-collapse user-icon right right-sidebar"><i aria-hidden="true" class="fa fa-user"></i></a><!----><!---->
                      </div>
                   </nav>
                   <app-static-inner-content contentcode="m_header-static">
@@ -411,10 +411,36 @@ div:where(.swal2-icon).swal2-warning {
                   <!---->
                </div>
             </app-header>
+            <style>
+    .side-nav {
+      width: 250px;
+      height: 100%;
+      background-color: #f8f8f8;
+      position: fixed;
+      top: 0;
+      left: 0;
+      transform: translateX(-100%);
+      transition: transform 0.3s ease;
+    }
+    .side-nav.open {
+      transform: translateX(0);
+    }
+  </style>
+  <script>
+$(document).ready(function(){
+  $('#leftbuton').click(function(){
+    $('#left-menu').toggleClass('open');
+  });
+
+  $('#userbuton').click(function(){
+    $('#user-menu').toggleClass('open');
+  });
+});
+</script>
             <app-sidebar>
                <div id="left-menu" class="side-nav" style="transform: translateX(-100%);">
                   <div class="side-nav-header">
-                     <div class="top-logo"><a class="logo" href="/tr"><img src="/assets/css/logo.png" alt="" class="lg"></a></div>
+                     <div class="top-logo"><a class="logo" href="/"><img src="/assets/css/logo.png" alt="" class="lg"></a></div>
                      <div class="top-icon"><a href="javascript:;"><i aria-hidden="true" class="fa fa-times"></i></a></div>
                   </div>
                   <div class="input-field search-one-input">
