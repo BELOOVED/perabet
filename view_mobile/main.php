@@ -49,9 +49,9 @@
                                  <div>
                                     <div class="splide splide--loop splide--ltr splide--draggable is-active" id="splide01" style="visibility: visible;">
                                        <div class="splide__track p_s_p_h" id="splide01-track">
-                                       
+                                          
                                           <ul class="slider-slickone" id="splide01-list" style="transform: translateX(0px);">
-                                            i class="splide__slide panel_gallery_item splide__slide--clone" style="width: 430px;" aria-hidden="true" tabindex="-1">
+                                             <li class="splide__slide panel_gallery_item splide__slide--clone" style="width: 430px;" aria-hidden="true" tabindex="-1">
                                                 <div class="panel_galery_content" style="display: none;"></div>
                                                 <!----><!----><a class="panel_slide_cover"><img data-splide-lazy="https://cdn.panelfront.net/merchants/pn10/uploads/66805b480b0af83faa6501f2aecc71c6cf6ae499ebd4c.jpeg" aria-rowindex="16" class="gallery_pointer" srcset="" src="https://cdn.panelfront.net/merchants/pn10/uploads/66805b480b0af83faa6501f2aecc71c6cf6ae499ebd4c.jpeg" style=""></a>
                                              </li>
