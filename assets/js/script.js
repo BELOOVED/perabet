@@ -227,3 +227,21 @@ $(document).ready(function() {
      document.getElementById('preloader').classList.add('hidden');
    }, 2000); // 2 saniye sonra preloader'ı gizle
  });
+ $(document).ready(function() {
+   var header = $('#hdr-c');
+   var appHeader = $('app-header');
+
+   $(window).scroll(function() {
+       var currentScroll = $(this).scrollTop();
+
+       if (currentScroll > 0) {
+           // Sayfa en üstte değil, kaydırıldı
+           header.removeClass('shw-fx').addClass('hd-fx');
+           appHeader.css('top', '-40px');
+       } else {
+           // Sayfa en üstte
+           header.removeClass('hd-fx').addClass('shw-fx');
+           appHeader.css('top', '0px');
+       }
+   });
+});
