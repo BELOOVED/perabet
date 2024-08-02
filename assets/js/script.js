@@ -252,3 +252,12 @@ $(document).ready(function() {
         previousScroll = currentScroll;
     });
 });
+$(document).ready(function(){
+    $('#leftbuton').click(function(){
+      $('#left-menu').toggleClass('open');
+    });
+  
+    $('#userbuton').click(function(){
+      $('#user-menu').toggleClass('open');
+    });
+  });
