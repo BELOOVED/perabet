@@ -8,7 +8,7 @@
    <meta charset=utf-8>
    <title></title>
    <meta name=viewport content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-   <link href=stylesheet_9.css rel=stylesheet>
+   <link href=/assets/css/stylesheet_9.css rel=stylesheet>
    <meta name=theme-color content=#232a34>
    <style>@import url(stylesheet_3.css);@import url(https://fonts.googleapis.com/css2?family=Oswald:wght@400;
       /**
@@ -38,11 +38,11 @@
       *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
       */body{-webkit-font-smoothing:antialiased}*{-webkit-overflow-scrolling:touch}:root{--sk-size:40px}
    </style>
-   <link rel=stylesheet href=stylesheet_8.css>
+   <link rel=stylesheet href=/assets/css/stylesheet_8.css>
    <link rel=canonical href=https://m.perabet1040.com/tr>
    <link rel=alternate hreflang=en href=https://m.perabet1040.com/en>
-   <link rel=stylesheet href=stylesheet_7.css>
-   <link rel=stylesheet href=stylesheet_6.css>
+   <link rel=stylesheet href=/assets/css/stylesheet_7.css>
+   <link rel=stylesheet href=/assets/css/stylesheet_6.css>
    <style>.marquee-text-wrap{overflow:hidden}.marquee-text-content{width:100000px}.marquee-text-text{-webkit-animation-name:marquee-text-animation;animation-name:marquee-text-animation;-webkit-animation-timing-function:linear;animation-timing-function:linear;-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite;float:left}@-webkit-keyframes marquee-text-animation{0%{-webkit-transform:translateX(0);transform:translateX(0)}to{-webkit-transform:translateX(-100%);transform:translateX(-100%)}}@keyframes marquee-text-animation{0%{-webkit-transform:translateX(0);transform:translateX(0)}to{-webkit-transform:translateX(-100%);transform:translateX(-100%)}}</style>
    <style>.owl-theme[_ngcontent-qoh-c77]{display:block}</style>
    <meta name=referrer content=no-referrer>
@@ -195,7 +195,7 @@ color: #ebb058 !important;
                      <div extroutelink id=m_header-static></div>
                      <div></div>
                      <div>
-                        <link rel=stylesheet href=stylesheet_5.css>
+                        <link rel=stylesheet href=/assets/css/stylesheet_5.css>
                      </div>
                   </app-static-inner-content>
                </header>
