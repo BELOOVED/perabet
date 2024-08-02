@@ -194,7 +194,7 @@ color: #ebb058 !important;
                </app-static-inner-content>
                <header id=hdr-c class="navbar-fixed shw-fx">
                   <nav>
-                     <div class=nav-wrapper><a class="logo logo-out" href=https://m.perabet1040.com/tr><img src=/assets/images/58.png alt class=lg></a><a materialize=sideNav href=javascript:void(0) data-activates=left-menu class="button-collapse menu-icon-head"><i class=material-icons>menu</i></a><a href=javascript:void(0) materialize=sideNav data-activates=user-menu class="button-collapse user-icon right right-sidebar"><i aria-hidden=true class="fa fa-user"></i></a></div>
+                     <div class=nav-wrapper><a class="logo logo-out" href=https://m.perabet1040.com/tr><img src=/assets/images/58.png alt class=lg></a><a materialize=sideNav onclick="openaasmenu()" href=javascript:void(0) data-activates=left-menu class="button-collapse menu-icon-head"><i class=material-icons>menu</i></a><a onclick="openaawsmenu()" href=javascript:void(0) materialize=sideNav data-activates=user-menu class="button-collapse user-icon right right-sidebar"><i aria-hidden=true class="fa fa-user"></i></a></div>
                   </nav>
                   <app-static-inner-content contentcode=m_header-static>
                      <div extroutelink id=m_header-static></div>
