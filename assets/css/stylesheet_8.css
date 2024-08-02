@@ -2024,7 +2024,10 @@ input:disabled,input:read-only,textarea:disabled,textarea:read-only,select:disab
     border-radius:50%;
     height:65px;
     width:65px;
-    padding-top:0
+    padding-top:0;
+    vertical-align:middle;
+    line-height:67px !important;
+    font-size:32px !important;
 }
 .main.horizontal-slide-tabs .horizontal-slide-content .horizontal-slide-tab .icon i{
     vertical-align:middle;
