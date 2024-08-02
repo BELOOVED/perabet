@@ -46,7 +46,7 @@
    <style>.marquee-text-wrap{overflow:hidden}.marquee-text-content{width:100000px}.marquee-text-text{-webkit-animation-name:marquee-text-animation;animation-name:marquee-text-animation;-webkit-animation-timing-function:linear;animation-timing-function:linear;-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite;float:left}@-webkit-keyframes marquee-text-animation{0%{-webkit-transform:translateX(0);transform:translateX(0)}to{-webkit-transform:translateX(-100%);transform:translateX(-100%)}}@keyframes marquee-text-animation{0%{-webkit-transform:translateX(0);transform:translateX(0)}to{-webkit-transform:translateX(-100%);transform:translateX(-100%)}}</style>
    <style>.owl-theme[_ngcontent-qoh-c77]{display:block}</style>
    <meta name=referrer content=no-referrer>
-   <link rel="shortcut icon" href=images/57.ico>
+   <link rel="shortcut icon" href=/assets/images/57.ico>
    <style>.sf-hidden{display:none!important}</style>
    
    <style>img[src="data:,"],source[src="data:,"]{display:none!important}</style>
@@ -189,7 +189,7 @@ color: #ebb058 !important;
                </app-static-inner-content>
                <header id=hdr-c class="navbar-fixed shw-fx">
                   <nav>
-                     <div class=nav-wrapper><a class="logo logo-out" href=https://m.perabet1040.com/tr><img src=images/58.png alt class=lg></a><a materialize=sideNav href=javascript:void(0) data-activates=left-menu class="button-collapse menu-icon-head"><i class=material-icons>menu</i></a><a href=javascript:void(0) materialize=sideNav data-activates=user-menu class="button-collapse user-icon right right-sidebar"><i aria-hidden=true class="fa fa-user"></i></a></div>
+                     <div class=nav-wrapper><a class="logo logo-out" href=https://m.perabet1040.com/tr><img src=/assets/images/58.png alt class=lg></a><a materialize=sideNav href=javascript:void(0) data-activates=left-menu class="button-collapse menu-icon-head"><i class=material-icons>menu</i></a><a href=javascript:void(0) materialize=sideNav data-activates=user-menu class="button-collapse user-icon right right-sidebar"><i aria-hidden=true class="fa fa-user"></i></a></div>
                   </nav>
                   <app-static-inner-content contentcode=m_header-static>
                      <div extroutelink id=m_header-static></div>
@@ -204,7 +204,7 @@ color: #ebb058 !important;
             <app-sidebar>
                <div id=left-menu class=side-nav style=transform:translateX(-100%)>
                   <div class=side-nav-header>
-                     <div class=top-logo><a class=logo href=https://m.perabet1040.com/tr><img src=images/58.png alt class=lg></a></div>
+                     <div class=top-logo><a class=logo href=https://m.perabet1040.com/tr><img src=/assets/images/58.png alt class=lg></a></div>
                      <div class=top-icon><a href=javascript:void(0)><i aria-hidden=true class="fa fa-times"></i></a></div>
                   </div>
                   <div class="input-field search-one-input"><input type=text class="browser-default ng-untouched ng-pristine ng-valid" placeholder="Takım, Lig, Ülke Ara (4 karakter)" value><a href=javascript:void(0) class=main-search-btn><i class="material-icons pg-icons">search</i></a></div>
@@ -275,7 +275,7 @@ color: #ebb058 !important;
                <div id=user-menu class="side-nav right-aligned" style=transform:translateX(100%)>
                   <div class=side-nav-header>
                      <div class=top-icon><a href=javascript:void(0)><i aria-hidden=true class="fa fa-times"></i></a></div>
-                     <div class=top-logo><a routerlink=/ class=logo href=https://m.perabet1040.com/><img class=lg src=images/58.png alt=perabet></a></div>
+                     <div class=top-logo><a routerlink=/ class=logo href=https://m.perabet1040.com/><img class=lg src=/assets/images/58.png alt=perabet></a></div>
                   </div>
                   <div class=logout-menu>
                      <div class=title>

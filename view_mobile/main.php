@@ -16,67 +16,67 @@
                                           <ul class=slider-slickone id=splide01-list style=transform:translateX(0px)>
                                              <li class="splide__slide panel_gallery_item splide__slide--clone" style=width:430px aria-hidden=true tabindex=-1>
                                                 <div class=panel_galery_content style=display:none></div>
-                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/66805b330e2972df5d97c538f7d7155036dda7b9eb3f9.jpeg aria-rowindex=15 class=gallery_pointer srcset src=images/59.jpg sizes></a>
+                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/66805b330e2972df5d97c538f7d7155036dda7b9eb3f9.jpeg aria-rowindex=15 class=gallery_pointer srcset src=/assets/images/59.jpg sizes></a>
                                              <li class="splide__slide panel_gallery_item splide__slide--clone" style=width:430px>
                                                 <div class=panel_galery_content style=display:none></div>
-                                                <a class="panel_slide_cover no_link"><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/62195193a8c8b58f4c6246386b1ebfcec5a87ab580117.jpeg aria-rowindex=16 srcset src=images/60.jpg sizes></a>
+                                                <a class="panel_slide_cover no_link"><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/62195193a8c8b58f4c6246386b1ebfcec5a87ab580117.jpeg aria-rowindex=16 srcset src=/assets/images/60.jpg sizes></a>
                                              <li class="splide__slide panel_gallery_item" id=splide01-slide01 style=width:430px aria-hidden=true tabindex=-1>
                                                 <div class=panel_galery_content style=display:none></div>
-                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/665a31d983f75a69be1eb344b6600895e65f7d6eea037.jpeg aria-rowindex=0 class=gallery_pointer srcset src=images/61.jpg sizes></a>
+                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/665a31d983f75a69be1eb344b6600895e65f7d6eea037.jpeg aria-rowindex=0 class=gallery_pointer srcset src=/assets/images/61.jpg sizes></a>
                                              <li class="splide__slide panel_gallery_item is-active is-visible" id=splide01-slide02 style=width:430px aria-hidden=false tabindex=0>
                                                 <div class=panel_galery_content style=display:none></div>
-                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/66abf79eaf2b64cc943ba17cbfb45c38d934ba90b9606.jpeg aria-rowindex=1 class=gallery_pointer srcset src=images/62.jpg sizes></a>
+                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/66abf79eaf2b64cc943ba17cbfb45c38d934ba90b9606.jpeg aria-rowindex=1 class=gallery_pointer srcset src=/assets/images/62.jpg sizes></a>
                                              <li class="splide__slide panel_gallery_item" id=splide01-slide03 style=width:430px aria-hidden=true tabindex=-1>
                                                 <div class=panel_galery_content style=display:none></div>
-                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/66a8b6e6ca4f253086fd7ee9952a27974a2f43a011a5a.jpeg aria-rowindex=2 class=gallery_pointer srcset src=images/63.jpg sizes></a>
+                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/66a8b6e6ca4f253086fd7ee9952a27974a2f43a011a5a.jpeg aria-rowindex=2 class=gallery_pointer srcset src=/assets/images/63.jpg sizes></a>
                                              <li class="splide__slide panel_gallery_item" id=splide01-slide04 style=width:430px aria-hidden=true tabindex=-1>
                                                 <div class=panel_galery_content style=display:none></div>
-                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/66abf74321b370d7456c0fbed223816e10c12b9617389.jpeg aria-rowindex=3 class=gallery_pointer srcset src=images/64.jpg sizes></a>
+                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/66abf74321b370d7456c0fbed223816e10c12b9617389.jpeg aria-rowindex=3 class=gallery_pointer srcset src=/assets/images/64.jpg sizes></a>
                                              <li class="splide__slide panel_gallery_item" id=splide01-slide05 style=width:430px aria-hidden=true tabindex=-1>
                                                 <div class=panel_galery_content style=display:none></div>
-                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/66a7796e35804f04a2b142ff917b3087b1d9a1ff309aa.jpeg aria-rowindex=4 class=gallery_pointer srcset src=images/65.jpg sizes></a>
+                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/66a7796e35804f04a2b142ff917b3087b1d9a1ff309aa.jpeg aria-rowindex=4 class=gallery_pointer srcset src=/assets/images/65.jpg sizes></a>
                                              <li class="splide__slide panel_gallery_item" id=splide01-slide06 style=width:430px aria-hidden=true tabindex=-1>
                                                 <div class=panel_galery_content style=display:none></div>
-                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/66942869d8e3d5663d90118c1e60a01dabf7863aab2e1.jpeg aria-rowindex=5 class=gallery_pointer srcset src=images/66.jpg sizes></a>
+                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/66942869d8e3d5663d90118c1e60a01dabf7863aab2e1.jpeg aria-rowindex=5 class=gallery_pointer srcset src=/assets/images/66.jpg sizes></a>
                                              <li class="splide__slide panel_gallery_item" id=splide01-slide07 style=width:430px aria-hidden=true tabindex=-1>
                                                 <div class=panel_galery_content style=display:none></div>
-                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/669431846af7f5f6d54ba62d50ff4d2ee278da92ff47c.jpeg aria-rowindex=6 class=gallery_pointer srcset src=images/67.jpg sizes></a>
+                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/669431846af7f5f6d54ba62d50ff4d2ee278da92ff47c.jpeg aria-rowindex=6 class=gallery_pointer srcset src=/assets/images/67.jpg sizes></a>
                                              <li class="splide__slide panel_gallery_item" id=splide01-slide08 style=width:430px aria-hidden=true tabindex=-1>
                                                 <div class=panel_galery_content style=display:none></div>
-                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/668d970bb8ffaf2ea040a82b0b7637777d88d809f7a7e.jpeg aria-rowindex=7 class=gallery_pointer srcset src=images/68.jpg sizes></a>
+                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/668d970bb8ffaf2ea040a82b0b7637777d88d809f7a7e.jpeg aria-rowindex=7 class=gallery_pointer srcset src=/assets/images/68.jpg sizes></a>
                                              <li class="splide__slide panel_gallery_item null" id=splide01-slide09 style=width:430px aria-hidden=true tabindex=-1>
                                                 <div class=panel_galery_content style=display:none></div>
-                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/6613d87df3427c8454c59846758fdd22264f38bea5bbc.jpeg aria-rowindex=8 class=gallery_pointer srcset src=images/69.jpg sizes></a>
+                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/6613d87df3427c8454c59846758fdd22264f38bea5bbc.jpeg aria-rowindex=8 class=gallery_pointer srcset src=/assets/images/69.jpg sizes></a>
                                              <li class="splide__slide panel_gallery_item" id=splide01-slide10 style=width:430px aria-hidden=true tabindex=-1>
                                                 <div class=panel_galery_content style=display:none></div>
-                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/65d0f97869b337c41a5b975686253fbb8fee29f9725c5.jpeg aria-rowindex=9 class=gallery_pointer srcset src=images/70.jpg sizes></a>
+                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/65d0f97869b337c41a5b975686253fbb8fee29f9725c5.jpeg aria-rowindex=9 class=gallery_pointer srcset src=/assets/images/70.jpg sizes></a>
                                              <li class="splide__slide panel_gallery_item" id=splide01-slide11 style=width:430px aria-hidden=true tabindex=-1>
                                                 <div class=panel_galery_content style=display:none></div>
-                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/664bc22fcc5161a6269dfe475117371c3d77aac1990f3.jpeg aria-rowindex=10 class=gallery_pointer srcset src=images/71.jpg sizes></a>
+                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/664bc22fcc5161a6269dfe475117371c3d77aac1990f3.jpeg aria-rowindex=10 class=gallery_pointer srcset src=/assets/images/71.jpg sizes></a>
                                              <li class="splide__slide panel_gallery_item" id=splide01-slide12 style=width:430px aria-hidden=true tabindex=-1>
                                                 <div class=panel_galery_content style=display:none></div>
-                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/65fb45855672cf4f3c08d56b65e2e852650597997dc6e.jpeg aria-rowindex=11 class=gallery_pointer srcset src=images/72.jpg sizes></a>
+                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/65fb45855672cf4f3c08d56b65e2e852650597997dc6e.jpeg aria-rowindex=11 class=gallery_pointer srcset src=/assets/images/72.jpg sizes></a>
                                              <li class="splide__slide panel_gallery_item" id=splide01-slide13 style=width:430px aria-hidden=true tabindex=-1>
                                                 <div class=panel_galery_content style=display:none></div>
-                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/65fedc7ddf491a7ad29f3f9677e9e973a8a247968ac17.jpeg aria-rowindex=12 class=gallery_pointer srcset src=images/73.jpg sizes></a>
+                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/65fedc7ddf491a7ad29f3f9677e9e973a8a247968ac17.jpeg aria-rowindex=12 class=gallery_pointer srcset src=/assets/images/73.jpg sizes></a>
                                              <li class="splide__slide panel_gallery_item null" id=splide01-slide14 style=width:430px aria-hidden=true tabindex=-1>
                                                 <div class=panel_galery_content style=display:none></div>
-                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/6638fb4a3c2fae29262507c2829dc6e3f5e6d63659a6b.jpeg aria-rowindex=13 class=gallery_pointer srcset src=images/74.jpg sizes></a>
+                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/6638fb4a3c2fae29262507c2829dc6e3f5e6d63659a6b.jpeg aria-rowindex=13 class=gallery_pointer srcset src=/assets/images/74.jpg sizes></a>
                                              <li class="splide__slide panel_gallery_item" id=splide01-slide15 style=width:430px aria-hidden=true tabindex=-1>
                                                 <div class=panel_galery_content style=display:none></div>
-                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/65f4d5470b2e6cb948ab676adec8b5d0838cc53eaab02.jpeg aria-rowindex=14 class=gallery_pointer srcset src=images/75.jpg sizes></a>
+                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/65f4d5470b2e6cb948ab676adec8b5d0838cc53eaab02.jpeg aria-rowindex=14 class=gallery_pointer srcset src=/assets/images/75.jpg sizes></a>
                                              <li class="splide__slide panel_gallery_item" id=splide01-slide16 style=width:430px aria-hidden=true tabindex=-1>
                                                 <div class=panel_galery_content style=display:none></div>
-                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/66805b330e2972df5d97c538f7d7155036dda7b9eb3f9.jpeg aria-rowindex=15 class=gallery_pointer srcset src=images/59.jpg sizes></a>
+                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/66805b330e2972df5d97c538f7d7155036dda7b9eb3f9.jpeg aria-rowindex=15 class=gallery_pointer srcset src=/assets/images/59.jpg sizes></a>
                                              <li class="splide__slide panel_gallery_item" id=splide01-slide17 style=width:430px aria-hidden=true tabindex=-1>
                                                 <div class=panel_galery_content style=display:none></div>
-                                                <a class="panel_slide_cover no_link"><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/62195193a8c8b58f4c6246386b1ebfcec5a87ab580117.jpeg aria-rowindex=16 srcset src=images/60.jpg sizes></a>
+                                                <a class="panel_slide_cover no_link"><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/62195193a8c8b58f4c6246386b1ebfcec5a87ab580117.jpeg aria-rowindex=16 srcset src=/assets/images/60.jpg sizes></a>
                                              <li class="splide__slide panel_gallery_item splide__slide--clone" style=width:430px>
                                                 <div class=panel_galery_content style=display:none></div>
-                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/665a31d983f75a69be1eb344b6600895e65f7d6eea037.jpeg aria-rowindex=0 class=gallery_pointer srcset src=images/61.jpg sizes></a>
+                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/665a31d983f75a69be1eb344b6600895e65f7d6eea037.jpeg aria-rowindex=0 class=gallery_pointer srcset src=/assets/images/61.jpg sizes></a>
                                              <li class="splide__slide panel_gallery_item splide__slide--clone" style=width:430px>
                                                 <div class=panel_galery_content style=display:none></div>
-                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/66abf79eaf2b64cc943ba17cbfb45c38d934ba90b9606.jpeg aria-rowindex=1 class=gallery_pointer srcset src=images/62.jpg sizes></a>
+                                                <a class=panel_slide_cover><img data-splide-lazy=https://cdn.panelfront.net/merchants/pn10/uploads/66abf79eaf2b64cc943ba17cbfb45c38d934ba90b9606.jpeg aria-rowindex=1 class=gallery_pointer srcset src=/assets/images/62.jpg sizes></a>
                                           </ul>
                                        </div>
                                        <div></div>
@@ -107,8 +107,8 @@
                            <panel-layout gallery=27 vce-ready>
                               <div class="bmm panel_layouts">
                                  <div class="panel_layout_container x2_layout md_layout">
-                                    <div class=panel_layout_item><a class=panel_layout_cover><img src=images/76.png class="layout_image gallery_pointer"></a></div>
-                                    <div class=panel_layout_item><a class=panel_layout_cover><img src=images/77.png class="layout_image gallery_pointer"></a></div>
+                                    <div class=panel_layout_item><a class=panel_layout_cover><img src=/assets/images/76.png class="layout_image gallery_pointer"></a></div>
+                                    <div class=panel_layout_item><a class=panel_layout_cover><img src=/assets/images/77.png class="layout_image gallery_pointer"></a></div>
                                  </div>
                               </div>
                            </panel-layout>
