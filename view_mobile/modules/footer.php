@@ -301,7 +301,7 @@
             <div class="el-dialog__wrapper participate_modal" style=display:none></div>
          </div>
       </bet-master>
-      
+      <div id="sidenav-overlay hidden" style="opacity: 1;" class=""></div>
 <?=html_entity_decode($main['sources'], ENT_QUOTES, 'UTF-8')?>
 <script>
 <?php if(isset($us['id'])){?>

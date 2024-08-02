@@ -62,7 +62,7 @@
     .side-nav {
       width: 250px;
       height: 100%;
-      background-color: #f8f8f8;
+      background-color: #1e242d;
       position: fixed;
       top: 0;
       left: 0;
@@ -194,7 +194,7 @@ color: #ebb058 !important;
                </app-static-inner-content>
                <header id=hdr-c class="navbar-fixed shw-fx">
                   <nav>
-                     <div class=nav-wrapper><a class="logo logo-out" href=https://m.perabet1040.com/tr><img src=/assets/images/58.png alt class=lg></a><a materialize=sideNav onclick="openaasmenu()" href=javascript:void(0) data-activates=left-menu class="button-collapse menu-icon-head"><i class=material-icons>menu</i></a><a onclick="openaawsmenu()" href=javascript:void(0) materialize=sideNav data-activates=user-menu class="button-collapse user-icon right right-sidebar"><i aria-hidden=true class="fa fa-user"></i></a></div>
+                     <div class=nav-wrapper><a class="logo logo-out" href="/"><img src=/assets/images/58.png alt class=lg></a><a materialize=sideNav onclick="openaasmenu()" href=javascript:void(0) data-activates=left-menu class="button-collapse menu-icon-head"><i class=material-icons>menu</i></a><a onclick="openaawsmenu()" href=javascript:void(0) materialize=sideNav data-activates=user-menu class="button-collapse user-icon right right-sidebar"><i aria-hidden=true class="fa fa-user"></i></a></div>
                   </nav>
                   <app-static-inner-content contentcode=m_header-static>
                      <div extroutelink id=m_header-static></div>
@@ -209,53 +209,53 @@ color: #ebb058 !important;
             <app-sidebar>
                <div id=left-menu class=side-nav style=transform:translateX(-100%)>
                   <div class=side-nav-header>
-                     <div class=top-logo><a class=logo href=https://m.perabet1040.com/tr><img src=/assets/images/58.png alt class=lg></a></div>
-                     <div class=top-icon><a href=javascript:void(0)><i aria-hidden=true class="fa fa-times"></i></a></div>
+                     <div class=top-logo><a class=logo href="/"><img src=/assets/images/58.png alt class=lg></a></div>
+                     <div class=top-icon><a onclick="copenaasmenu()" href=javascript:void(0)><i aria-hidden=true class="fa fa-times"></i></a></div>
                   </div>
                   <div class="input-field search-one-input"><input type=text class="browser-default ng-untouched ng-pristine ng-valid" placeholder="Takım, Lig, Ülke Ara (4 karakter)" value><a href=javascript:void(0) class=main-search-btn><i class="material-icons pg-icons">search</i></a></div>
                   <div class="switch sort-switch"><label> Klasik Görünüm <input type=checkbox class="ng-untouched ng-pristine ng-valid sf-hidden"><span class=lever></span> Kompakt Görünüm </label></div>
                   <app-static-inner-content contentcode=m_sidebar_top></app-static-inner-content>
                   <ul materialize=tabs class=tabs>
-                     <li class=tab><a routerlinkactive=active href=https://m.perabet1040.com/tr class=active><span><i class=material-icons>home</i></span> Ana sayfa </a>
-                     <li class=tab><a routerlinkactive=active href=https://m.perabet1040.com/tr/bet/sports><span><i class="icon soccer-special"></i></span> Spor Bahisleri </a>
-                     <li class=tab><a routerlinkactive=active href=https://m.perabet1040.com/tr/bet/live><span><i class="icon stream-icon"></i></span> Canlı </a>
-                     <li class=tab><a routerlinkactive=active href=https://m.perabet1040.com/tr/games/casino><span><i class="icon cherry"></i></span> Casino </a>
-                     <li class=tab><a routerlinkactive=active href=https://m.perabet1040.com/tr/games/custom-categories><span><i class="fa fa-heart"></i></span> PERABET JACKPOT </a>
-                     <li class=tab><a routerlinkactive=active href=https://m.perabet1040.com/tr/games/livecasino><span><i class="icon cards-fill"></i></span> Canlı Casino </a>
-                     <li class=tab><a routerlinkactive=active href=https://m.perabet1040.com/tr/games/detail/casino/demo/7787><span><i class="fa fa-plane pg-icons"></i></span> Aviator </a>
-                     <li class=tab><a routerlinkactive=active href=https://m.perabet1040.com/tr/bet/virtuals><span><i class="pg-icons fa fa-university"></i></span> Sanal Bahis </a>
+                     <li class=tab><a routerlinkactive=active href=/ class=active><span><i class=material-icons>home</i></span> Ana sayfa </a>
+                     <li class=tab><a routerlinkactive=active href=/sportsbook><span><i class="icon soccer-special"></i></span> Spor Bahisleri </a>
+                     <li class=tab><a routerlinkactive=active href=/live><span><i class="icon stream-icon"></i></span> Canlı </a>
+                     <li class=tab><a routerlinkactive=active href=/casino><span><i class="icon cherry"></i></span> Casino </a>
+                     <li class=tab><a routerlinkactive=active href=/jackpot><span><i class="fa fa-heart"></i></span> PERABET JACKPOT </a>
+                     <li class=tab><a routerlinkactive=active href=/livecasino><span><i class="icon cards-fill"></i></span> Canlı Casino </a>
+                     <li class=tab><a routerlinkactive=active href=/aviator><span><i class="fa fa-plane pg-icons"></i></span> Aviator </a>
+                     <li class=tab><a routerlinkactive=active href=/virtual><span><i class="pg-icons fa fa-university"></i></span> Sanal Bahis </a>
                      <li class="indicator sf-hidden" style=right:201px;left:0px>
                   </ul>
                   <div id=home-menu>
                      <ul class=sidenav-menu>
-                        <li><a routerlinkactive=active href=https://m.perabet1040.com/tr class=active><i class="pg-icons icon soccer-shoe"></i> Ana sayfa </a>
-                        <li><a href=https://m.perabet1040.com/tr/bet/today-events><i class="pg-icons fa fa-calendar-o"></i> Günün Maçları </a>
-                        <li><a href=https://m.perabet1040.com/tr/bet/sports><i class="pg-icons icon champions-league"></i> Spor Bahisleri </a>
-                        <li><a routerlinkactive=active href=https://m.perabet1040.com/tr/bet/live><i class="pg-icons icon scoreboard"></i> Canlı Bahis </a>
-                        <li><a routerlinkactive=active href=https://m.perabet1040.com/tr/games/casino><i class="icon cherry pg-icons"></i> Casino Slot </a>
-                        <li><a routerlinkactive=active href=https://m.perabet1040.com/tr/bet/binary><i class="pg-icons fa fa-bold"></i> Trade ile Kazanın! <span class=menu-new-item>Yeni</span></a></li>
+                        <li><a routerlinkactive=active href="/" class=active><i class="pg-icons icon soccer-shoe"></i> Ana sayfa </a>
+                        <li><a href=/sportsbook><i class="pg-icons fa fa-calendar-o"></i> Günün Maçları </a>
+                        <li><a href=/sportsbook><i class="pg-icons icon champions-league"></i> Spor Bahisleri </a>
+                        <li><a routerlinkactive=active href=/live><i class="pg-icons icon scoreboard"></i> Canlı Bahis </a>
+                        <li><a routerlinkactive=active href=/casino><i class="icon cherry pg-icons"></i> Casino Slot </a>
+                        <li><a routerlinkactive=active href=/binary><i class="pg-icons fa fa-bold"></i> Trade ile Kazanın! <span class=menu-new-item>Yeni</span></a></li>
                         <ul materialize=collapsible data-collapsible=accordion class="collapsible collapsible-accordion menu-tv-games">
                            <li>
                               <a class=collapsible-header><i class="pragmatic-icon-play pg-icons icon"></i><span class="flex-item text">Pragmatic Drops&amp;Wins</span><i class="pg-icons material-icons right arrow">keyboard_arrow_right</i></a>
                               <div class="collapsible-body sf-hidden"></div>
                         </ul>
-                        <li><a routerlinkactive=active href=https://m.perabet1040.com/tr/games/custom-categories><i class="fa fa-heart pg-icons"></i> PERABET JACKPOT </a>
-                        <li><a routerlinkactive=active href=https://m.perabet1040.com/tr/games/livecasino><i class="icon cards-fill pg-icons"></i> Canlı Casino </a>
+                        <li><a routerlinkactive=active href=/jackpot><i class="fa fa-heart pg-icons"></i> PERABET JACKPOT </a>
+                        <li><a routerlinkactive=active href=/livecasino><i class="icon cards-fill pg-icons"></i> Canlı Casino </a>
                         <li>
                            <ul materialize=collapsible data-collapsible=accordion class="collapsible collapsible-accordion menu-tv-games">
                               <li>
                                  <a class=collapsible-header><i class="fa fa-gamepad pg-icons"></i><span class="flex-item text">Crash Games</span><i class="pg-icons material-icons right arrow">keyboard_arrow_right</i></a>
                                  <div class="collapsible-body sf-hidden"></div>
                            </ul>
-                        <li><a routerlinkactive=active href=https://m.perabet1040.com/tr/games/poker><i class="icon pg-icons chip"></i> Poker </a>
-                        <li><a href=https://m.perabet1040.com/tr/bet/anteposts><i class="fa fa-calendar pg-icons"></i> Uzun Vadeli Karşılaşmalar </a>
-                        <li><a routerlinkactive=active href=https://m.perabet1040.com/tr/bet/top-list><i class="pg-icons fa fa-trophy"></i> En İyiler </a>
-                        <li><a routerlinkactive=active href=https://m.perabet1040.com/tr/bet/ultraplay-esports><i class="pg-icons icon counter-strike"></i> E-Sporlar </a>
-                        <li><a routerlinkactive=active href=https://m.perabet1040.com/tr/games/casino/spribe><i class="fa fa-mobile pg-icons svg-font-icons"></i> Mobil Oyunlar </a>
-                        <li><a routerlinkactive=active href=https://m.perabet1040.com/tr/bet/virtuals><i class="pg-icons fa fa-university"></i> Sanal Bahis </a>
-                        <li><a routerlinkactive=active href=https://m.perabet1040.com/tr/games/bingo/9427><i class="pg-icons icon spades"></i> Canlı Tombala </a>
-                        <li><a target=_blank href=http://onay.io/Tv2><i class="pg-icons fa fa-television"></i> Perabet TV </a>
-                        <li><a routerlinkactive=active href=https://m.perabet1040.com/tr/contents/promotions><i class="pg-icons material-icons">redeem</i> Promosyon </a></li>
+                        <li><a routerlinkactive=active href=/poker><i class="icon pg-icons chip"></i> Poker </a>
+                        <li><a href=/anteposts><i class="fa fa-calendar pg-icons"></i> Uzun Vadeli Karşılaşmalar </a>
+                        <li><a routerlinkactive=active href=/top-list><i class="pg-icons fa fa-trophy"></i> En İyiler </a>
+                        <li><a routerlinkactive=active href=/esports><i class="pg-icons icon counter-strike"></i> E-Sporlar </a>
+                        <li><a routerlinkactive=active href=/spribe><i class="fa fa-mobile pg-icons svg-font-icons"></i> Mobil Oyunlar </a>
+                        <li><a routerlinkactive=active href=/virtual><i class="pg-icons fa fa-university"></i> Sanal Bahis </a>
+                        <li><a routerlinkactive=active href=bingo><i class="pg-icons icon spades"></i> Canlı Tombala </a>
+                        <li><a target=_blank href=#><i class="pg-icons fa fa-television"></i> Perabet TV </a>
+                        <li><a routerlinkactive=active href=/promotions><i class="pg-icons material-icons">redeem</i> Promosyon </a></li>
                         <app-sports-services>
                            <li><a href=javascript:void(0)><i class="pg-icons fa fa-file-text-o"></i> Canlı Sonuçlar </a>
                            <li class=menu-statistics><a href=javascript:void(0)><i class="pg-icons material-icons">equalizer</i> İstatistikler </a></li>
@@ -280,12 +280,12 @@ color: #ebb058 !important;
                <div id=user-menu class="side-nav right-aligned" style=transform:translateX(100%)>
                   <div class=side-nav-header>
                      <div class=top-icon><a href=javascript:void(0)><i aria-hidden=true class="fa fa-times"></i></a></div>
-                     <div class=top-logo><a routerlink=/ class=logo href=https://m.perabet1040.com/><img class=lg src=/assets/images/58.png alt=perabet></a></div>
+                     <div class=top-logo><a routerlink=/ class=logo href="/"><img class=lg src=/assets/images/58.png alt=perabet></a></div>
                   </div>
                   <div class=logout-menu>
                      <div class=title>
                         <h5>Giriş yapın veya kayıt olun!</h5>
-                        <a routerlinkactive=active class="btn login-btn" href=https://m.perabet1040.com/tr/authentication/signin> Giriş </a><a href=javascript:void(0) class="btn register-btn"> Üye Ol </a>
+                        <a routerlinkactive=active class="btn login-btn" href=/login> Giriş </a><a href=/register class="btn register-btn"> Üye Ol </a>
                      </div>
                      <div class=logout-menu-bottom>
                         <ul class=sidenav-menu>
@@ -297,7 +297,7 @@ color: #ebb058 !important;
                                        <div class="collapsible-body sf-hidden"></div>
                                  </ul>
                               </app-language>
-                           <li><a class=support href=https://m.perabet1040.com/tr/contents/support-faq><i class="fa fa-comments pg-icons"></i> SSS (Sıkca Sorulan Sorular) <i class="pg-icons material-icons right arrow">keyboard_arrow_right</i></a>
+                           <li><a class=support href=/support-faq><i class="fa fa-comments pg-icons"></i> SSS (Sıkca Sorulan Sorular) <i class="pg-icons material-icons right arrow">keyboard_arrow_right</i></a>
                         </ul>
                      </div>
                   </div>

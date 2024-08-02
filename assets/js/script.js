@@ -255,8 +255,17 @@ $(document).ready(function() {
 
 function openaasmenu(){
     $('#left-menu').css('transform', 'translateX(0)');
+    $('#sidenav-overlay').removeClass('hidden');
   }
-  
+  function copenaasmenu(){
+    $('#left-menu').css('transform', 'translateX(-100%)');
+    $('#sidenav-overlay').addClass('hidden');
+  }
   function openaawsmenu(){
     $('#user-menu').css('transform', 'translateX(0)');
+    $('#sidenav-overlay').removeClass('hidden');
+  }
+  function copenaawsmenu(){
+    $('#user-menu').css('transform', 'translateX(100%)');
+    $('#sidenav-overlay').addClass('hidden');
   }
