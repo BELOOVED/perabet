@@ -45,7 +45,14 @@
    <style>.owl-theme[_ngcontent-qoh-c77]{display:block}</style>
    <meta name=referrer content=no-referrer>
    <link rel="shortcut icon" href=/assets/images/57.ico>
-   <style>.sf-hidden{display:none!important}</style>
+   <style>.sf-hidden{display:none!important}
+
+.main.horizontal-slide-tabs .horizontal-slide-content .horizontal-slide-tab .icon i {
+    vertical-align: middle;
+    line-height: 67px !important;
+    font-size: 32px !important;
+}
+   </style>
    
    <style>img[src="data:,"],source[src="data:,"]{display:none!important}</style>
    <noscript>
