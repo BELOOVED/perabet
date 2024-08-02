@@ -39,8 +39,6 @@
       */body{-webkit-font-smoothing:antialiased}*{-webkit-overflow-scrolling:touch}:root{--sk-size:40px}
    </style>
    <link rel=stylesheet href=/assets/css/stylesheet_8.css>
-   <link rel=canonical href=https://m.perabet1040.com/tr>
-   <link rel=alternate hreflang=en href=https://m.perabet1040.com/en>
    <link rel=stylesheet href=/assets/css/stylesheet_7.css>
    <link rel=stylesheet href=/assets/css/stylesheet_6.css>
    <style>.marquee-text-wrap{overflow:hidden}.marquee-text-content{width:100000px}.marquee-text-text{-webkit-animation-name:marquee-text-animation;animation-name:marquee-text-animation;-webkit-animation-timing-function:linear;animation-timing-function:linear;-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite;float:left}@-webkit-keyframes marquee-text-animation{0%{-webkit-transform:translateX(0);transform:translateX(0)}to{-webkit-transform:translateX(-100%);transform:translateX(-100%)}}@keyframes marquee-text-animation{0%{-webkit-transform:translateX(0);transform:translateX(0)}to{-webkit-transform:translateX(-100%);transform:translateX(-100%)}}</style>
