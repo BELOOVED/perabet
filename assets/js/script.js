@@ -253,20 +253,9 @@ $(document).ready(function() {
     });
 });
 
-function openaasmenu() {
-    var leftMenu = $('#left-menu');
-    if (leftMenu.css('transform') === 'none' || leftMenu.css('transform') === 'matrix(1, 0, 0, 1, -100%, 0)') {
-        leftMenu.css('transform', 'translateX(0)');
-    } else {
-        leftMenu.css('transform', 'translateX(-100%)');
-    }
-}
-
-function openaawsmenu() {
-    var userMenu = $('#user-menu');
-    if (userMenu.css('transform') === 'none' || userMenu.css('transform') === 'matrix(1, 0, 0, 1, -100%, 0)') {
-        userMenu.css('transform', 'translateX(0)');
-    } else {
-        userMenu.css('transform', 'translateX(-100%)');
-    }
-}
+  function openaasmenu(){
+    $('#left-menu').css('translateX','0px');
+  }
+  function openaawsmenu(){
+    $('#user-menu').css('translateX','0px');
+  }
