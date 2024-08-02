@@ -8719,11 +8719,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/24472.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/24472.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/gameart.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/gameart.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">40 Super Blazing Sevens</div>
@@ -8736,11 +8736,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/14302.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/14302.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/gameart.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/gameart.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Lucky Coins</div>
@@ -8753,11 +8753,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27216.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27216.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/gameart.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/gameart.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">20 Hot Super Fruits</div>
@@ -8770,11 +8770,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/24442.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/24442.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/evoplay.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/evoplay.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Penalty Shoot-Out Street</div>
@@ -8787,11 +8787,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/13933.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/13933.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/playngo.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/playngo.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Tome of Madness</div>
@@ -8804,11 +8804,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/21316.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/21316.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/playngo.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/playngo.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Rise Of Olympus 100</div>
@@ -8821,11 +8821,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/16712.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/16712.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/yggdrasil_lcky.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/yggdrasil_lcky.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Cherry Pop</div>
@@ -8838,11 +8838,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/16719.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/16719.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/yggdrasil_lcky.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/yggdrasil_lcky.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Wild Pops</div>
@@ -8855,11 +8855,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/16784.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/16784.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/yggdrasil_lcky.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/yggdrasil_lcky.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Vikings Go Berzerk</div>
@@ -8872,11 +8872,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27255.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27255.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Mighty Wild™: Panther Grand Gold Edition</div>
@@ -8889,11 +8889,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/24160.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/24160.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">9 Coins™ Grand Platinum Edition</div>
@@ -8906,11 +8906,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26693.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/26693.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Mighty Fish™: Blue Marlin</div>
@@ -8923,11 +8923,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/19696.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/19696.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Sizzling Eggs</div>
@@ -8940,11 +8940,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27156.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27156.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/slotopia_evo.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/slotopia_evo.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Double Up Respin</div>
@@ -8957,11 +8957,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27350.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27350.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/slotopia_evo.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/slotopia_evo.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Mega Diamonds Hunt</div>
@@ -8974,11 +8974,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26915.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/26915.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/fugaso_lcky.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/fugaso_lcky.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Arctic  Coins</div>
@@ -8991,11 +8991,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26405.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/26405.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/fugaso_lcky.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/fugaso_lcky.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Xmas  Royale 100</div>
@@ -9008,11 +9008,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27838.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27838.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Temple of Ra</div>
@@ -9025,11 +9025,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/14707.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/14707.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Hell Hot 100</div>
@@ -9042,11 +9042,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/12524.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/12524.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Chance Machine 20</div>
@@ -9059,11 +9059,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/3304.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/3304.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/amatic.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/amatic.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Wild Dragon</div>
@@ -9076,11 +9076,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27551.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27551.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/amatic.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/amatic.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Lucky Joker 40 Extra Gifts</div>
@@ -9093,11 +9093,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/8701.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/8701.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/amatic.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/amatic.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Fruit Box</div>
@@ -9110,11 +9110,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/10262.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/10262.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/amatic.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/amatic.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Lucky Joker 100</div>
@@ -9127,11 +9127,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27584.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27584.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Mega Wild Fruits</div>
@@ -9144,11 +9144,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/28022.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/28022.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Wolf Fang – Apocalypse</div>
@@ -9161,11 +9161,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/28357.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/28357.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <span class="new ng-star-inserted">Yeni</span><!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Cyber Heist</div>
@@ -9178,11 +9178,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/21510.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/21510.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Perabet Bonanza</div>
@@ -9195,11 +9195,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26622.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/26622.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <span class="new ng-star-inserted">Yeni</span><!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Perabet Wolf</div>
@@ -9212,11 +9212,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/21705.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/21705.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Majestic Perabet</div>
@@ -9229,11 +9229,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/20386.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/20386.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/smart_soft.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/smart_soft.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Perabet JetX</div>
@@ -9246,11 +9246,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/28417.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/28417.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <span class="new ng-star-inserted">Yeni</span><!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Money Blitz</div>
@@ -9263,11 +9263,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/28377.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/28377.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <span class="new ng-star-inserted">Yeni</span><!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/booming_games.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/booming_games.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">TNT Bonanza 2</div>
@@ -9280,11 +9280,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27866.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27866.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Sweet Bonanza 1000</div>
@@ -9297,11 +9297,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26163.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/26163.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Gates of Olympus 1000™</div>
@@ -9314,11 +9314,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/8888.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/8888.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Sweet Bonanza</div>
@@ -9331,11 +9331,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/2826.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/2826.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egt.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/egt.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Shining Crown</div>
@@ -9348,11 +9348,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26449.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/26449.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egt.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/egt.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">100 Golden Coins</div>
@@ -9365,11 +9365,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27819.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27819.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egt.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/egt.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Stoichkov #8</div>
@@ -9382,11 +9382,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/13477.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/13477.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/smart_soft.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/smart_soft.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">JetX</div>
@@ -9399,11 +9399,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27710.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27710.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egtd.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/egtd.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Flaming Hot Extreme Bell Link</div>
@@ -9416,11 +9416,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27712.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27712.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egtd.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/egtd.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">40 Shining Crown Bell Link</div>
@@ -9433,11 +9433,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27680.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27680.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egtd.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/egtd.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Pyramid Riddles Osiris</div>
@@ -9450,11 +9450,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27632.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27632.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egtd.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/egtd.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">100 Burning Hot</div>
@@ -9467,11 +9467,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/28364.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/28364.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <span class="new ng-star-inserted">Yeni</span><!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/betsolutions.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/betsolutions.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Zeppelin</div>
@@ -9484,11 +9484,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/24825.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/24825.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/3_oaks_gaming.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/3_oaks_gaming.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Coin Volcano</div>
@@ -9501,11 +9501,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26657.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/26657.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/3_oaks_gaming.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/3_oaks_gaming.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Aztec Fire 2</div>
@@ -9518,11 +9518,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/23638.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/23638.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/netent_oss.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/netent_oss.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Wild Wild West: The Great Train Heist</div>
@@ -9535,11 +9535,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/19294.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/19294.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Hot Slot: 777 Crown</div>
@@ -9552,11 +9552,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/12830.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/12830.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/fazi.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/fazi.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Wild Hot 40</div>
@@ -9569,11 +9569,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/20819.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/20819.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/fazi.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/fazi.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Wild Lucky Clover</div>
@@ -9586,11 +9586,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/13529.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/13529.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/fazi.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/fazi.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Golden Crown</div>
@@ -9603,11 +9603,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26388.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/26388.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/red_tiger_oss.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/red_tiger_oss.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Sea Boat Adventure</div>
@@ -9620,11 +9620,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27872.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27872.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/red_tiger_oss.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/red_tiger_oss.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Cannonball Cash</div>
@@ -9637,11 +9637,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/22321.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/22321.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/booming_games.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/booming_games.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">TNT Bonanza</div>
@@ -9654,11 +9654,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/23381.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/23381.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/booming_games.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/booming_games.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">King Cobra</div>
@@ -9671,11 +9671,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/24472.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/24472.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/gameart.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/gameart.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">40 Super Blazing Sevens</div>
@@ -9688,11 +9688,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/14302.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/14302.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/gameart.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/gameart.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Lucky Coins</div>
@@ -9705,11 +9705,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27216.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27216.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/gameart.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/gameart.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">20 Hot Super Fruits</div>
@@ -9722,11 +9722,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/24442.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/24442.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/evoplay.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/evoplay.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Penalty Shoot-Out Street</div>
@@ -9739,11 +9739,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/13933.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/13933.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/playngo.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/playngo.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Tome of Madness</div>
@@ -9756,11 +9756,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/21316.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/21316.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/playngo.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/playngo.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Rise Of Olympus 100</div>
@@ -9773,11 +9773,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/16712.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/16712.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/yggdrasil_lcky.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/yggdrasil_lcky.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Cherry Pop</div>
@@ -9790,11 +9790,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/16719.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/16719.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/yggdrasil_lcky.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/yggdrasil_lcky.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Wild Pops</div>
@@ -9807,11 +9807,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/16784.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/16784.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/yggdrasil_lcky.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/yggdrasil_lcky.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Vikings Go Berzerk</div>
@@ -9824,11 +9824,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27255.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27255.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Mighty Wild™: Panther Grand Gold Edition</div>
@@ -9841,11 +9841,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/24160.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/24160.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">9 Coins™ Grand Platinum Edition</div>
@@ -9858,11 +9858,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26693.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/26693.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Mighty Fish™: Blue Marlin</div>
@@ -9875,11 +9875,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/19696.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/19696.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Sizzling Eggs</div>
@@ -9892,11 +9892,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27156.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27156.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/slotopia_evo.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/slotopia_evo.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Double Up Respin</div>
@@ -9909,11 +9909,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27350.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27350.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/slotopia_evo.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/slotopia_evo.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Mega Diamonds Hunt</div>
@@ -9926,11 +9926,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26915.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/26915.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/fugaso_lcky.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/fugaso_lcky.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Arctic  Coins</div>
@@ -9943,11 +9943,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26405.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/26405.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/fugaso_lcky.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/fugaso_lcky.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Xmas  Royale 100</div>
@@ -9960,11 +9960,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27838.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27838.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Temple of Ra</div>
@@ -9977,11 +9977,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/14707.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/14707.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Hell Hot 100</div>
@@ -9994,11 +9994,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/12524.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/12524.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Chance Machine 20</div>
@@ -10011,11 +10011,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/3304.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/3304.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/amatic.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/amatic.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Wild Dragon</div>
@@ -10028,11 +10028,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27551.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27551.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/amatic.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/amatic.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Lucky Joker 40 Extra Gifts</div>
@@ -10045,11 +10045,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/8701.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/8701.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/amatic.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/amatic.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Fruit Box</div>
@@ -10062,11 +10062,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/10262.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/10262.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/amatic.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/amatic.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Lucky Joker 100</div>
@@ -10079,11 +10079,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27584.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27584.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Mega Wild Fruits</div>
@@ -10096,11 +10096,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/28022.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/28022.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Wolf Fang – Apocalypse</div>
@@ -10113,11 +10113,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/28357.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/28357.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <span class="new ng-star-inserted">Yeni</span><!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Cyber Heist</div>
@@ -10130,11 +10130,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/21510.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/21510.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Perabet Bonanza</div>
@@ -10147,11 +10147,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26622.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/26622.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <span class="new ng-star-inserted">Yeni</span><!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Perabet Wolf</div>
@@ -10164,11 +10164,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/21705.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/21705.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Majestic Perabet</div>
@@ -10181,11 +10181,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/20386.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/20386.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/smart_soft.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/smart_soft.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Perabet JetX</div>
@@ -10198,11 +10198,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/28417.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/28417.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <span class="new ng-star-inserted">Yeni</span><!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Money Blitz</div>
@@ -10215,11 +10215,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/28377.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/28377.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <span class="new ng-star-inserted">Yeni</span><!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/booming_games.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/booming_games.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">TNT Bonanza 2</div>
@@ -10232,11 +10232,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27866.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27866.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Sweet Bonanza 1000</div>
@@ -10249,11 +10249,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26163.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/26163.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Gates of Olympus 1000™</div>
@@ -10266,11 +10266,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/8888.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/8888.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Sweet Bonanza</div>
@@ -10283,11 +10283,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/2826.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/2826.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egt.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/egt.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Shining Crown</div>
@@ -10300,11 +10300,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26449.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/26449.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egt.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/egt.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">100 Golden Coins</div>
@@ -10317,11 +10317,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27819.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27819.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egt.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/egt.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Stoichkov #8</div>
@@ -10334,11 +10334,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/13477.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/13477.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/smart_soft.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/smart_soft.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">JetX</div>
@@ -10351,11 +10351,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27710.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27710.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egtd.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/egtd.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Flaming Hot Extreme Bell Link</div>
@@ -10368,11 +10368,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27712.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27712.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egtd.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/egtd.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">40 Shining Crown Bell Link</div>
@@ -10385,11 +10385,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27680.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27680.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egtd.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/egtd.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Pyramid Riddles Osiris</div>
@@ -10402,11 +10402,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27632.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27632.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egtd.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/egtd.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">100 Burning Hot</div>
@@ -10419,11 +10419,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/28364.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/28364.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <span class="new ng-star-inserted">Yeni</span><!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/betsolutions.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/betsolutions.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Zeppelin</div>
@@ -10436,11 +10436,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/24825.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/24825.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/3_oaks_gaming.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/3_oaks_gaming.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Coin Volcano</div>
@@ -10453,11 +10453,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26657.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/26657.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/3_oaks_gaming.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/3_oaks_gaming.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Aztec Fire 2</div>
@@ -10470,11 +10470,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/23638.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/23638.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/netent_oss.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/netent_oss.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Wild Wild West: The Great Train Heist</div>
@@ -10487,11 +10487,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/19294.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/19294.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Hot Slot: 777 Crown</div>
@@ -10504,11 +10504,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/12830.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/12830.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/fazi.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/fazi.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Wild Hot 40</div>
@@ -10521,11 +10521,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/20819.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/20819.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/fazi.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/fazi.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Wild Lucky Clover</div>
@@ -10538,11 +10538,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/13529.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/13529.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/fazi.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/fazi.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Golden Crown</div>
@@ -10555,11 +10555,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26388.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/26388.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/red_tiger_oss.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/red_tiger_oss.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Sea Boat Adventure</div>
@@ -10572,11 +10572,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/27872.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/27872.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/red_tiger_oss.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/red_tiger_oss.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Cannonball Cash</div>
@@ -10589,11 +10589,11 @@
                                                             <div class="card-image">
                                                                <a href="javascript:;">
                                                                   <div class="image-overlay"></div>
-                                                                  <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/22321.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                                                                  <img class="game-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/300x200/22321.jpg"><img alt="" class="game-img loading" src="https://v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                                   <span class="inf">
                                                                      <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                                   </span>
-                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/booming_games.png"></span></span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="https://v3.pronetstatic.com/m-common/assets/images/casino/32x32/booming_games.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">TNT Bonanza</div>
