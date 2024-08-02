@@ -207,7 +207,7 @@ color: #ebb058 !important;
                <div id=BalanceModal materialize=modal class="modal modal-md sf-hidden" style=z-index:1017></div>
             </app-header>
             <app-sidebar>
-               <div id=left-menu class=side-nav style=transform:translateX(-100%)>
+               <div id=left-menu class=side-nav >
                   <div class=side-nav-header>
                      <div class=top-logo><a class=logo href=https://m.perabet1040.com/tr><img src=/assets/images/58.png alt class=lg></a></div>
                      <div class=top-icon><a href=javascript:void(0)><i aria-hidden=true class="fa fa-times"></i></a></div>
@@ -277,7 +277,7 @@ color: #ebb058 !important;
                </div>
             </app-sidebar>
             <app-user-sidebar>
-               <div id=user-menu class="side-nav right-aligned" style=transform:translateX(100%)>
+               <div id=user-menu class="side-nav right-aligned">
                   <div class=side-nav-header>
                      <div class=top-icon><a href=javascript:void(0)><i aria-hidden=true class="fa fa-times"></i></a></div>
                      <div class=top-logo><a routerlink=/ class=logo href=https://m.perabet1040.com/><img class=lg src=/assets/images/58.png alt=perabet></a></div>
