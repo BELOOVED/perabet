@@ -2679,7 +2679,7 @@ header nav .button-collapse{
     border:none;
     border-radius:10px 10px 0 0
 }
-.main.horizontal-slide-tabs .horizontal-slide-content .horizontal-slide-tab .icon{
+.main.horizontal-slide-tabs .horizontal-slide-content .horizontal-slide-tab i{
     color:rgba(255,255,255,0.9);
     background-color:#30394a
 }
