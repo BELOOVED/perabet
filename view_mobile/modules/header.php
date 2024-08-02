@@ -279,7 +279,7 @@ color: #ebb058 !important;
             <app-user-sidebar>
                <div id=user-menu class="side-nav right-aligned" style=transform:translateX(100%)>
                   <div class=side-nav-header>
-                     <div class=top-icon><a href=javascript:void(0)><i aria-hidden=true class="fa fa-times"></i></a></div>
+                     <div class=top-icon><a onclick="copenaawsmenu()" href=javascript:void(0)><i aria-hidden=true class="fa fa-times"></i></a></div>
                      <div class=top-logo><a routerlink=/ class=logo href="/"><img class=lg src=/assets/images/58.png alt=perabet></a></div>
                   </div>
                   <div class=logout-menu>
