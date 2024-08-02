@@ -5726,7 +5726,7 @@
                                           <div _ngcontent-qoh-c77 class="owl-stage-outer ng-star-inserted">
                                              <owl-stage _ngcontent-qoh-c77 class="ng-tns-c78-1 ng-star-inserted">
                                                 <div class=ng-tns-c78-1>
-                                                   <div class="owl-stage ng-tns-c78-1" style=width:6667px;transform:translate3d(0px,0px,0px);transition:all>
+                                                   <div class="owl-stage ng-tns-c78-1" style=width:6667px;transform:translate3d(-1000px,0px,0px);transition:all>
                                                       <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style=width:66.667px></div>
                                                       <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style=width:66.667px></div>
                                                       <div class="owl-item ng-tns-c78-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style=width:66.667px></div>
