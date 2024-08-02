@@ -253,9 +253,10 @@ $(document).ready(function() {
     });
 });
 
-  function openaasmenu(){
-    $('#left-menu').css('translateX','0px');
+function openaasmenu(){
+    $('#left-menu').css('transform', 'translateX(0)');
   }
+  
   function openaawsmenu(){
-    $('#user-menu').css('translateX','0px');
+    $('#user-menu').css('transform', 'translateX(0)');
   }
