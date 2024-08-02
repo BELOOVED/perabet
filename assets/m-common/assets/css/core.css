@@ -1,0 +1,74 @@
+/* for mobile
+
+*** useful examples
+
+	html[lang=en] {}                   // choose by languages
+	body#trader-betofcourse {}         // select by trader name
+	body.platform-pg {}                // choose pg platform
+	body.platform-st {}                // choose st platform
+	body.page-sports-main {}           // select by page
+	
+	a[href*="live-racing"] {}          // used to select elements whose attribute value contains a specified value.
+	more examples                      // https://www.w3schools.com/css/css_attribute_selectors.asp
+
+*/
+
+body#trader-straikabet .hdr-cntr .hdr-other-btn a.invest-btn{display: none;}
+body#trader-straikabet .hdr-cntr .login-menu .balance-dropdropdown .deposit{display: none;}
+body#trader-straikabet .login-menu .user-name .info .deposit{display: none;}
+
+
+body#trader-betsalone a[href*="casino"] {display:none!important;}
+body#trader-betsalone a[href*="livecasino"] {display:none!important;}
+body#trader-betsalone a[href*="games"] {display:none!important;}
+
+body#trader-betsalone .helio-games {display:none!important;}
+
+body.platform-st .modul-accordion.cup-view-modul .modul-header .header-text{font-weight: normal;}
+
+.modul-accordion.cup-view-modul .modul-header .cup-view-logo-content .cup-view-header{color:#fff;}
+
+.cup-view-modul .modul-header .cup-view-logo-content .cup-view-logo{top:-10px!important;}
+
+.dropdown-content {visibility:hidden;}
+.dropdown-content.active {visibility:visible;}
+
+.casino-detail-cntr .gm-bx .btn.transfer{display: none;}
+
+.fa-twitter:before, .fa-twitter-square:before{content: "\e9001" !important;}
+
+.fixture-container .match-content .match-header .content-left .team-name img{display: none;}
+.fixture-container .match-content .match-header .team .team-content-left .team-content-info .team-flag{display: none;}
+
+page-not-found .content a img{display: none!important;}
+
+@font-face {
+  font-family: 'sports-co';
+  src: url('fonts/new-sports-court2.woff') format('woff'); 
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.sport-types-204,.sport-types-184,.sport-types-95{
+  font-family: 'sports-co' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.sport-types-95:before {
+  content: "\e900";
+}
+.sport-types-184:before {
+  content: "\e901";
+}
+.sport-types-204:before {
+  content: "\e902";
+}

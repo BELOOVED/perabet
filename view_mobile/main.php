@@ -5950,1550 +5950,2336 @@
                               </div>
                            </antepost-summary>
                         </div>
-                        <div id=type7>
+                        <div id="type7">
                            <app-popular-games>
-                              <div accordion class="modul-accordion populer-events ng-star-inserted">
-                                 <div class=modul-header><span class=header-text> Casino </span><i class="fa fa-chevron-right right"></i><a class="show-more-games mar-right-10 right sf-hidden" href=# Fazla Oyun Göster</a></div>
-                                 <div class=modul-content>
-                                    <owl-carousel-o _nghost-qoh-c77>
-                                       <div _ngcontent-qoh-c77 class="owl-carousel owl-theme owl-loaded owl-responsive owl-drag">
-                                          <div _ngcontent-qoh-c77 class="owl-stage-outer ng-star-inserted">
-                                             <owl-stage _ngcontent-qoh-c77 class="ng-tns-c78-0 ng-star-inserted">
-                                                <div class=ng-tns-c78-0 style=transition:0.88s>
-                                                   <div class="owl-stage ng-tns-c78-0" style=width:13900px;transform:translate3d(-3500px,0px,0px);transition:0.7s>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px></div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                              <!---->
+                              <div accordion="" class="modul-accordion populer-events ng-star-inserted">
+                                 <div class="modul-header"><span class="header-text"> Casino </span><i class="fa fa-chevron-right right"></i><a class="show-more-games mar-right-10 right" href="/tr/games/casino">Daha Fazla Oyun Göster</a></div>
+                                 <div class="modul-content">
+                                    <owl-carousel-o _nghost-iut-c77="">
+                                       <div _ngcontent-iut-c77="" class="owl-carousel owl-theme owl-loaded owl-responsive owl-drag">
+                                          <div _ngcontent-iut-c77="" class="owl-stage-outer ng-star-inserted">
+                                             <owl-stage _ngcontent-iut-c77="" class="ng-tns-c78-0 ng-star-inserted">
+                                                <div class="ng-tns-c78-0" style="transition: 0.88s;">
+                                                   <div class="owl-stage ng-tns-c78-0" style="width: 13900px; transform: translate3d(-10400px, 0px, 0px); transition: 0.88s;">
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <!---->
+                                                      </div>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/16774.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/yggdrasil_lcky.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Valley of the Gods</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/26405.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/fugaso_lcky.png"></span></span>
                                                                </a>
                                                             </div>
-                                                            <div class="game-name truncate">Xmas Royale 100</div>
+                                                            <div class="game-name truncate">Xmas  Royale 100</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/28302.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Celestial Conquest</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/8888.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Sweet Bonanza</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/25414.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Starlight Princess 1000™</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/19982.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Big Bass Splash</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/16624.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Bigger Bass Bonanza™</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/13183.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Big Bass Bonanza</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27838.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Temple of Ra</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/14707.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Hell Hot 100</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/12524.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Chance Machine 20</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/23932.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/n2_games.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Book of Ra Deluxe</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27481.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/n2_games.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Ultra Hotfire</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27295.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/n2_games.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">20 Mega Hotfire</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/23910.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/n2_games.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">5 Sevens Dice</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27911.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/n2_games.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Book Hotfire Buy Bonus</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27500.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/egt.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Virtual Vegas Roulette</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27501.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/egt.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Virtual Space Roulette</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27502.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/egt.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Virtual Monaco Roulette</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/24806.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/red_rake.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Super 30 Stars</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/23285.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/red_rake.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Big Size Fishin'</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/28285.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/spade_gaming.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Alchemy Quest Level Up</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27451.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/spade_gaming.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Brothers Kingdom 2</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27969.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/swintt.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Big Max Books and Pearls</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
-                                                         <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
-                                                               </a>
-                                                            </div>
-                                                            <div class="game-name truncate">Seven Seven Pots and Pearls</div>
-                                                         </div>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
-                                                         <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
-                                                               </a>
-                                                            </div>
-                                                            <div class="game-name truncate">Olympus Wilds</div>
-                                                         </div>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/20438.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/vibra_gaming.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Blackjack</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27460.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/vibra_gaming.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Paddys Cash</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/28416.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Super Wild Fruits</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
-                                                         <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted" style="">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/28383.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Wolf Fang - Crystal Caves</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
-                                                         <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted" style="">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/28417.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Money Stacks</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
-                                                         <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted" style="">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/28377.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/booming_games.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">TNT Bonanza 2</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
-                                                         <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted" style="">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/24646.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Majestic White Rhino</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
-                                                         <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted" style="">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/25096.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Trout`s Treasure -Wild Rivers</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted active" style=width:100px>
-                                                         <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted" style="">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/21510.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Perabet Bonanza</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted active" style=width:100px>
-                                                         <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted" style="">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/26622.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Perabet Wolf</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted active" style=width:100px>
-                                                         <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted" style="">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/21705.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Majestic Perabet</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted active" style=width:100px>
-                                                         <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted" style="">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/20386.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/smart_soft.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Perabet JetX</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
-                                                         <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted" style="">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/26163.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Gates of Olympus 1000™</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27866.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Sweet Bonanza 1000</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27289.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Sugar Rush 1000</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/28445.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/egt.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Coin Gobbler</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/7931.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/egt.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Flaming Hot Extreme</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/28429.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/egt.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">100 Super Dice</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/12830.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/fazi.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Wild Hot 40</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27394.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/fazi.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Bonus Epic Crown</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="new ng-star-inserted">Yeni</span><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/28364.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <span class="new ng-star-inserted">Yeni</span><!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/betsolutions.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Zeppelin</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/28467.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/rubyplay.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Immortal Ways Champions</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/28358.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/rubyplay.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Go High® Panda</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27712.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/egtd.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">40 Shining Crown Bell Link</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27609.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/egtd.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">40 Burning Hot 6 reels</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/13477.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/smart_soft.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">JetX</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/19294.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Hot Slot: 777 Crown</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/24160.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">9 Coins™ Grand Platinum Edition</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/25906.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/betg.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Skyward</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/19562.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/blueprint.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Bison Bonanza</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/28006.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/blueprint.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Cash Strike Hotstepper</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27937.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/nolimit_oss.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Deadwood RIP</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/26919.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/nolimit_oss.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Fire in the Hole 2</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/25872.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/nolimit_oss.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Nine To Five</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/25352.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/nolimit_oss.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Mental</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/25368.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/nolimit_oss.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Tombstone Rip</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/24825.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/3_oaks_gaming.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Coin Volcano</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/24858.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/3_oaks_gaming.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Sun Of Egypt</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/26657.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/3_oaks_gaming.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Aztec Fire 2</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/24847.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/3_oaks_gaming.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">More Magic Apple</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/13933.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/playngo.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Tome of Madness</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27156.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/slotopia_evo.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Double Up Respin</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/24442.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/evoplay.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Penalty Shoot-Out Street</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/16774.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/yggdrasil_lcky.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Valley of the Gods</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/26405.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/fugaso_lcky.png"></span></span>
                                                                </a>
                                                             </div>
-                                                            <div class="game-name truncate">Xmas Royale 100</div>
+                                                            <div class="game-name truncate">Xmas  Royale 100</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/28302.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Celestial Conquest</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/8888.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Sweet Bonanza</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/25414.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Starlight Princess 1000™</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/19982.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Big Bass Splash</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/16624.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Bigger Bass Bonanza™</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/13183.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Big Bass Bonanza</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27838.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Temple of Ra</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/14707.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Hell Hot 100</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/12524.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Chance Machine 20</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/23932.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/n2_games.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Book of Ra Deluxe</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27481.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/n2_games.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Ultra Hotfire</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27295.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/n2_games.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">20 Mega Hotfire</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/23910.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/n2_games.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">5 Sevens Dice</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27911.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/n2_games.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Book Hotfire Buy Bonus</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27500.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/egt.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Virtual Vegas Roulette</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27501.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/egt.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Virtual Space Roulette</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27502.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/egt.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Virtual Monaco Roulette</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/24806.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/red_rake.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Super 30 Stars</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/23285.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/red_rake.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Big Size Fishin'</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/28285.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/spade_gaming.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Alchemy Quest Level Up</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27451.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/spade_gaming.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Brothers Kingdom 2</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27969.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/swintt.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Big Max Books and Pearls</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
-                                                         <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
-                                                               </a>
-                                                            </div>
-                                                            <div class="game-name truncate">Seven Seven Pots and Pearls</div>
-                                                         </div>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
-                                                         <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
-                                                               </a>
-                                                            </div>
-                                                            <div class="game-name truncate">Olympus Wilds</div>
-                                                         </div>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/20438.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/vibra_gaming.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Blackjack</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27460.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/vibra_gaming.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Paddys Cash</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/28416.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Super Wild Fruits</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
-                                                         <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted" style="">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/28383.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Wolf Fang - Crystal Caves</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
-                                                         <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted" style="">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/28417.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Money Stacks</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
-                                                         <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted" style="">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/28377.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/booming_games.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">TNT Bonanza 2</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
-                                                         <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted" style="">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/24646.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Majestic White Rhino</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style=width:100px>
-                                                         <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted" style="">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/25096.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Trout`s Treasure -Wild Rivers</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
-                                                         <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted active cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted" style="">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/21510.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Perabet Bonanza</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
-                                                         <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted active cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted" style="">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/26622.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Perabet Wolf</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
-                                                         <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted active cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted" style="">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/21705.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/spinomenal.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Majestic Perabet</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
-                                                         <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted active cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted" style="">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/20386.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/smart_soft.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Perabet JetX</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
-                                                         <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
+                                                         <div class="game-card ng-star-inserted" style="">
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/26163.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Gates of Olympus 1000™</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27866.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Sweet Bonanza 1000</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27289.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Sugar Rush 1000</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/28445.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/egt.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Coin Gobbler</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/7931.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/egt.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Flaming Hot Extreme</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/28429.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/egt.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">100 Super Dice</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/12830.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/fazi.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Wild Hot 40</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27394.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/fazi.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Bonus Epic Crown</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="new ng-star-inserted">Yeni</span><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/28364.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <span class="new ng-star-inserted">Yeni</span><!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/betsolutions.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Zeppelin</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/28467.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/rubyplay.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Immortal Ways Champions</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/28358.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/rubyplay.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Go High® Panda</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27712.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/egtd.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">40 Shining Crown Bell Link</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27609.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/egtd.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">40 Burning Hot 6 reels</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/13477.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/smart_soft.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">JetX</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/19294.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Hot Slot: 777 Crown</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/24160.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/wazdan.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">9 Coins™ Grand Platinum Edition</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/25906.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/betg.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Skyward</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/19562.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/blueprint.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Bison Bonanza</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/28006.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/blueprint.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Cash Strike Hotstepper</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27937.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/nolimit_oss.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Deadwood RIP</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/26919.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/nolimit_oss.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Fire in the Hole 2</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/25872.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/nolimit_oss.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Nine To Five</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/25352.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/nolimit_oss.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Mental</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/25368.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/nolimit_oss.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Tombstone Rip</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/24825.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/3_oaks_gaming.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Coin Volcano</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/24858.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/3_oaks_gaming.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Sun Of Egypt</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/26657.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/3_oaks_gaming.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Aztec Fire 2</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/24847.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/3_oaks_gaming.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">More Magic Apple</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/13933.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/playngo.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Tome of Madness</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/27156.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/slotopia_evo.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Double Up Respin</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
-                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style=width:100px>
+                                                      <!---->
+                                                      <div class="owl-item ng-tns-c78-0 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 100px;">
                                                          <div class="game-card ng-star-inserted">
-                                                            <div class=card-image>
-                                                               <a href=javascript:void(0)>
-                                                                  <div class=image-overlay></div>
-                                                                  <img class=game-img src=data:,><img alt class="game-img loading" src=data:,><span class=inf><span class="popular ng-star-inserted">Popüler</span></span><span class=vendor-wrap><span class=pg-icons><img alt class=vendor-img src=data:,></span></span>
+                                                            <div class="card-image">
+                                                               <a href="javascript:;">
+                                                                  <div class="image-overlay"></div>
+                                                                  <img class="game-img" src="/assets/m-common/assets/images/casino/300x200/24442.jpg"><img alt="" class="game-img loading" src="/assets/m-common/assets/images/loading.gif">
+                                                                  <span class="inf">
+                                                                     <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                                                                  </span>
+                                                                  <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/assets/m-common/assets/images/casino/32x32/evoplay.png"></span></span>
                                                                </a>
                                                             </div>
                                                             <div class="game-name truncate">Penalty Shoot-Out Street</div>
                                                          </div>
+                                                         <!----><!---->
                                                       </div>
+                                                      <!----><!---->
                                                    </div>
                                                 </div>
                                              </owl-stage>
                                           </div>
-                                          <div _ngcontent-qoh-c77 class="owl-nav ng-star-inserted">
-                                             <div _ngcontent-qoh-c77 class=owl-prev><i class="fa fa-chevron-left"></i></div>
-                                             <div _ngcontent-qoh-c77 class=owl-next><i class="fa fa-chevron-right"></i></div>
+                                          <!---->
+                                          <div _ngcontent-iut-c77="" class="owl-nav ng-star-inserted">
+                                             <div _ngcontent-iut-c77="" class="owl-prev"><i class="fa fa-chevron-left"></i></div>
+                                             <div _ngcontent-iut-c77="" class="owl-next"><i class="fa fa fa-chevron-right"></i></div>
                                           </div>
-                                          <div _ngcontent-qoh-c77 class="owl-dots disabled ng-star-inserted sf-hidden"></div>
+                                          <div _ngcontent-iut-c77="" class="owl-dots disabled ng-star-inserted">
+                                             <!---->
+                                          </div>
+                                          <!----><!---->
                                        </div>
                                     </owl-carousel-o>
                                  </div>
                               </div>
+                              <!---->
                            </app-popular-games>
+                           <!---->
                         </div>
                         <app-esa-games></app-esa-games>
                      </main>
